@@ -1,0 +1,1434 @@
+[
+    [
+        "rt @thedatafrog: analyse the covid-19 data from jhu by yourself with python, #pandas, #holoviews, and #matplotlib.\n\n https://t.co/o5bgsczt9s/n",
+        "Lib"
+    ],
+    [
+        "pandas 1.1.0  df.pivot  index  columns  https://t.co/u5z9usaxoj https://t.co/ejemhnfll1/n",
+        "Lib"
+    ],
+    [
+        "got a prototype running that shows java type dependencies (exported from jdeps) in a nice d3 force graph layout. all powered by ~20 lines of python / pandas code in between. i'm still astonished how smooth this all works with pandas.\nhttps://t.co/r46fzrpbat https://t.co/1ozzz9uyqg/n",
+        "Lib"
+    ],
+    [
+        "this makes us happy. pandas sliding down a slide. http://t.co/0nnzvnm0/n",
+        "Text"
+    ],
+    [
+        "rt @sky0_1: python libraries that were used to generate black hole image.\n\nastropy\nephem\nfuture\nh5py\nhtml\nmatplotlib\nnetworkx\nnumpy\npandas/n",
+        "Lib"
+    ],
+    [
+        "rt @crystal_fishy: can i please have this job?  23 baby pandas at chengdu.  vine by bbc world news \nhttps://t.co/hoztybiqwz/n",
+        "Text"
+    ],
+    [
+        "rt @sci_phile: this video of pandas just being pandas while a zookeeper desperately tries to rake leaves is the best video on the internet/n",
+        "Text"
+    ],
+    [
+        "rt @meijiamerica: your favorite terrifyingly cute pandas are getting ready for their favorite holiday! have you grabbed your halloween hell/n",
+        "Text"
+    ],
+    [
+        "#python data analysis commandment:  thou shalt not access thine fields with indexing.  instead, use #pandas dataframes or named tuples./n",
+        "Lib"
+    ],
+    [
+        "got my holy pandas from @drop yesterday.\n\na bit heavier than i'm used to, but i completely understand the appeal. the whole switch is like one big tactile bump./n",
+        "Text"
+    ],
+    [
+        "rt @wesmckinn: new post: hs2client, a new high perf c++ client (+ python / pandas bindings) for @apacheimpala and @apachehive https://t.co//n",
+        "Lib"
+    ],
+    [
+        "basic pandas https://t.co/lzlhjflvfi/n",
+        "Text"
+    ],
+    [
+        "exploring seaborn and pandas based plot types in holoviews\n http://t.co/1280rkrqky seabornviews #python #pandas #dataviz/n",
+        "Lib"
+    ],
+    [
+        "rt @azure: watch the story of how developers on the pandas project use github and #azurepipelines to make it easy for their large volunteer/n",
+        "Lib"
+    ],
+    [
+        "i just misheard @phaedryx refer to the authors of some awful code as \"crash pandas\" and now i totally want to teach raccoons how to program/n",
+        "Text"
+    ],
+    [
+        "@khoi i would ask for express deliveries of pandas if that were a thing though./n",
+        "Text"
+    ],
+    [
+        "rt @memotecagency: how to launch your data science career\n#datascience #datascientists #memotec #python #pandas #scikit #machinelearning ht/n",
+        "Lib"
+    ],
+    [
+        "eager to learn python pandas? i've listed some resources to get you started: https://t.co/qtuhurqhwp #python #pandas #weekend/n",
+        "Lib"
+    ],
+    [
+        "rt @andrewgodwin: so lovely to see the list of python software used for yesterday's m87 black hole image. scipy, numpy, astropy, pandas, ju/n",
+        "Lib"
+    ],
+    [
+        "pandas 0.16.1 released: categorical indexes!: http://t.co/vnt284bhkm/n",
+        "Lib"
+    ],
+    [
+        "rt @jreuben1: new pandas udfs and python type hints in the upcoming release of apache spark 3.0 https://t.co/ghgv1lguhu/n",
+        "Lib"
+    ],
+    [
+        "look out! wild engine yard pandas! makes me think we need envy labs polar bears, or crocodiles.  http://t.co/gwfdznyu/n",
+        "Text"
+    ],
+    [
+        "rt @wesmckinn: pandas is one of the most unsustainable popular #pydata projects. non-existent direct funding, vast majority of core dev tim/n",
+        "Lib"
+    ],
+    [
+        "rt @giraffesm: we would love some @foxs_biscuits - pandas and giraffes are best friends - right?! #foxsbiscwitsquad/n",
+        "Text"
+    ],
+    [
+        "@j_palka pandas?/n",
+        "Text"
+    ],
+    [
+        "using pandas for data analysis this week - love the name! pan(el)d(ata)s\n\n#econometrics #numpy\n\nalso has r's dataframe./n",
+        "Lib"
+    ],
+    [
+        "@stevenmosher @ewinsberg @jg_environ @adamtruebendorf @jeffreyhelzner ok ok, enough. \n\nimport pandas will get most of this functionality in python/n",
+        "Lib"
+    ],
+    [
+        "til: create an example of dataframe in #pandas\n\npd.dataframe(np.random.rand(4, 6), columns=list('abcdef')) https://t.co/iea05mvvsq/n",
+        "Lib"
+    ],
+    [
+        "rt @incognegro98: somebody said pandas endangered themselves and im lowkey starting to believe it bc wtf do they be doing???/n",
+        "Text"
+    ],
+    [
+        "@josh_ebner @wesmckinn i get native homebrew installed on m1 mbp, then native python 3.9 and miniconda... but got stuck on numpy and pandas install. now trying the rosetta2/anaconda way, install went fine, but i am facing conda dependency conflicts when trying to install pyarrow.../n",
+        "Lib"
+    ],
+    [
+        "rt @redditpython: hi pandas lovers - i released a package for easily converting your python scripts into data visualization dashboa... http/n",
+        "Lib"
+    ],
+    [
+        "rt @davidakin: blog: sign here for the pandas, please: its not every day i get to sign for a #panda ow.l... http://t.co/zimypdmhlr/n",
+        "Text"
+    ],
+    [
+        "rt @hackernewsbot: pandas and lobsters: why google cannot build social applications... http://bit.ly/arzi8o/n",
+        "Text"
+    ],
+    [
+        "rt @realpython:  episode #16 of the real python podcast is live: thinking in pandas: python data analysis the right way with @hannahste/n",
+        "Lib"
+    ],
+    [
+        "@halvarflake well, not like gnuplot, no. or i guess it depends on what you mean by gpu acceleration :) scipy or pandas in jupyter or vscode notebooks can use gpu for number crunching, and crayon is faster than gnuplot so.../n",
+        "Lib"
+    ],
+    [
+        "relates to lazy pandas i guess rt @factboook stretching & yawning at the same time = 'pandiculation'./n",
+        "Text"
+    ],
+    [
+        "photo: fuckyeahgiantpanda: even pandas get milk moustaches http://tumblr.com/xqf2lykvc4/n",
+        "Text"
+    ],
+    [
+        "new on-demand course \"working with data using pandas\" from our \"mastering data science with python series\" by @wintellectnow https://t.co/tio6nxdrmj #datascience #python #pandas #wintellectnow https://t.co/mbkrp0i1f7/n",
+        "Lib"
+    ],
+    [
+        "@leopanda111 how many pandas are at sd zoo?/n",
+        "Text"
+    ],
+    [
+        "using pandas to analyze sales data by @wintellect https://t.co/q3lb8ucp6t #pandas #python #bigdata #datascience https://t.co/3wtlibvk5e/n",
+        "Lib"
+    ],
+    [
+        "red not working on board @virginamerica flight 232 today, many sad, bored pandas./n",
+        "Text"
+    ],
+    [
+        "bigquery, ipython, pandas and r for data science, starring pearson https://t.co/gdrthpj1hu via @youtube/n",
+        "Lib"
+    ],
+    [
+        "rt @pandaspans: rob hayward en route for his 145 mile guc marathon in aid of #pans #pandas https://t.co/uf92poafwn/n",
+        "Text"
+    ],
+    [
+        "@honnibal @spacy_io (for example i cannot make nltk or pandas work: i can install them with some magic  but \"bus error\" importing)/n",
+        "Lib"
+    ],
+    [
+        "rt @tdatascience: how to load huge csv datasets in python pandas by angelica lo duca https://t.co/zcejhkjp12/n",
+        "Lib"
+    ],
+    [
+        "rt @johnolilly: aka: the firefox. rt @benhuh 10 gifs demonstrating the ferocity of red pandas http://t.co/6ujajztd1w /n",
+        "Text"
+    ],
+    [
+        "struggling with dirty data and an ugly pie chart while counting commits https://t.co/eibzlyjh0j #jqassistant #pandas #softwareanalytics/n",
+        "Lib"
+    ],
+    [
+        "of course we need pandas: \nhttp://t.co/7cnvqosy http://t.co/yvfwalzo/n",
+        "Text"
+    ],
+    [
+        "rt @patrickh: @hjomats @nathaneide @mimij612 and there was a mention of #pandas! #wishyouwerehere/n",
+        "Text"
+    ],
+    [
+        "rt @kurtkohlstedt: all hail ladder guy for helping 23 trash pandas out of the all-night buffet  https://t.co/yvbex1ocg2/n",
+        "Text"
+    ],
+    [
+        "rt @ninjaeconomics: why are pandas not extinct yet? https://t.co/erk6ra9nmr/n",
+        "Text"
+    ],
+    [
+        "love pandas, they're so chill. they're like \"dude, racism is stupid. i'm white, black, & asian.\"/n",
+        "Text"
+    ],
+    [
+        "rt @gboeing: a guide to running scientific #python, jupyter, pandas & geospatial analysis on #raspberrypi https://t.co/mzv95vvwkm https://t/n",
+        "Lib"
+    ],
+    [
+        "rt @animalsworid: everything is terrible so heres a video of pandas on a slide https://t.co/jmjpdg4hxc/n",
+        "Text"
+    ],
+    [
+        "i make happy pandas cry./n",
+        "Text"
+    ],
+    [
+        "rt @jbrancha: @craigkerstiens @crunchydata this is super cool  looking forward to giving it a try.\n\nbeing able to use pandas *in* postgres/n",
+        "Lib"
+    ],
+    [
+        "rt @sydonahi: we rely on 15 people to do our science. without them matplotlib, numpy and pandas would not be maintained. https://t.co/6shdu/n",
+        "Lib"
+    ],
+    [
+        "rt @gp_pulipaka: transform function in #pandas (with #python code). #bigdata #analytics #datascience #ai #machinelearning #iot #iiot #pytor/n",
+        "Lib"
+    ],
+    [
+        "rt @euronews: no comment | pandas excited by the first snow of the season in china\n\nhttps://t.co/hgxm6c5zng https://t.co/594wao92cx/n",
+        "Text"
+    ],
+    [
+        "announcing r tools for visual studio .. if only we had something like this for python/pandas/jupyter  https://t.co/y6z3ql3emm/n",
+        "Lib"
+    ],
+    [
+        "@jtheronbrown @nationalzoo not every true statement needs to be said in all occasions. can we just enjoy adorable videos of pandas enjoying a snow day while we're on month 10 of a pandemic without someone crapping on it?/n",
+        "Text"
+    ],
+    [
+        "@gshowitt thanks for creating such amazing games. im in stitches after watching @samriegel and the @criticalrole team play crash pandas. raising money for charity as well = all the feels./n",
+        "Text"
+    ],
+    [
+        "i guess i dont act 48 because i dont know what acting 48 looks like \n\ngood morning too all my pandas on this, my #birthday morning - your presents have been amazing! \n\nvisit https://t.co/su9w90epao for all the ways we can celebrate together  https://t.co/4qpsrf8h2q/n",
+        "Text"
+    ],
+    [
+        "need to load a file but need to split on variable whitespace (like awk does)? pandas has you covered with `delim_whitespace`:\n\n https://t.co/9lonyyva7f_csv('kml_relation.txt', delim_whitespace=true, header=none)\n\n#dslearnings/n",
+        "Lib"
+    ],
+    [
+        "it's hard not to think of pandas as little drunk people in bear costumes: https://t.co/paha10mupg/n",
+        "Text"
+    ],
+    [
+        "just discovered @geopandas, which wraps geospatial-oriented json and makes it available via the very productive pandas api./n",
+        "Lib"
+    ],
+    [
+        "rt @tdatascience: analyzing coronavirus (covid-19) data using pandas and plotly by mohammad ashhad https://t.co/iu94dryjbt/n",
+        "Lib"
+    ],
+    [
+        "pandas, pandas, pandas!! our future computer overlord loves pandas: http://cadiesingularity.blogspot.com//n",
+        "Text"
+    ],
+    [
+        "pandas + matplotlib: http://t.co/nmk8i3zooa/n",
+        "Lib"
+    ],
+    [
+        "having a bad day. check out these baby pandas on a slide. http://t.co/c6bwklyc/n",
+        "Text"
+    ],
+    [
+        "rt @ylogx: working with a 10gig csv data. pandas read_csv took 16mins to load the csv into memory. converted to @apacheparquet with @apache/n",
+        "Lib"
+    ],
+    [
+        "two essential pandas add-ons by josh taylor https://t.co/tgekwvcoo4/n",
+        "Text"
+    ],
+    [
+        "hey all of you seasonal sad pandas, the sun is out and touching my skin. i'm so happy!/n",
+        "Text"
+    ],
+    [
+        "search engine lands top tweeted stories of 2012: pandas, google and a zuckerberg: theres no question, the sear... http://t.co/fcd44ztv/n",
+        "Lib"
+    ],
+    [
+        "i liked a @youtube video https://t.co/2vrirfac9m cats & pandas: a minecraft fable of friendship/n",
+        "Text"
+    ],
+    [
+        "an introduction to stock market data analysis with python (part 1) https://t.co/gt0aklcxf9 via @ntguardian #python #pandas #datascience https://t.co/n7vqkdun9v/n",
+        "Lib"
+    ],
+    [
+        "rt @feststelltaste: reading a git log file output with pandas https://t.co/7hbqfm8cyi #pandas #git #data #wrangling/n",
+        "Lib"
+    ],
+    [
+        "rt @bit_player: if you use python, pandas, numpy, r, julia, jupyter, bokeh, . . . , please consider supporting @numfocus, which supports al/n",
+        "Lib"
+    ],
+    [
+        "rt @r_programming: a very nice kaggle notebook tutorial on time series using pandas in python for nifty50 stock market data as recent as 31/n",
+        "Lib"
+    ],
+    [
+        "@cmastication @xieyihui @robjhyndman @ladbroke @hadleywickham @crc_mathstats there kind of is: these tools make ample use of non-standard evaluation which does not exist at all in most mainstream languages. pandas for instance has to jump through lots of hoops to approximate it badly./n",
+        "Text"
+    ],
+    [
+        "red pandas should be impossible! http://t.co/6j16eglv8t/n",
+        "Text"
+    ],
+    [
+        "analysing data with jupyter and pandas https://t.co/jghnhsb7ev/n",
+        "Lib"
+    ],
+    [
+        "ten expo pandas are arrive in shanghai now!/n",
+        "Text"
+    ],
+    [
+        "rt @predicador37: new release of pyjstat is out! version 2.0 drops support for python 2.7 and older versions of pandas (use pyjstat 1.x for/n",
+        "Lib"
+    ],
+    [
+        "the popular data science library #pandas just turned twelve, and now its headed for version 1.0.0. see what's new in the first release candidate: https://t.co/ostdm5qtqm #python #machinelearning #datascience/n",
+        "Lib"
+    ],
+    [
+        "@chrisalbon pandas?/n",
+        "Text"
+    ],
+    [
+        "@schwa @ntakayama there are lots of pandas./n",
+        "Text"
+    ],
+    [
+        "rt @kirkdborne: 4-page #python numpy / scipy / pandas cheat sheet for #datascientists: https://t.co/itd69knsfj #bigdata #datascience by @qu/n",
+        "Lib"
+    ],
+    [
+        "@craigkerstiens @crunchydata this is super cool  looking forward to giving it a try.\n\nbeing able to use pandas *in* postgres is /n",
+        "Lib"
+    ],
+    [
+        "rt @ajplus: these twin pandas just turned 1 year old.   https://t.co/frqunxbjkl/n",
+        "Text"
+    ],
+    [
+        "pandas: python data analysis library http://t.co/cqwldu3y/n",
+        "Lib"
+    ],
+    [
+        "rt @pandas_dev: you can now support pandas development on @tidelift.\n\nhttps://t.co/pmdjppgebp\n\nthanks to all our supporters!/n",
+        "Lib"
+    ],
+    [
+        "the 10 daftest scare stories from the no campaign\n\nsay goodbye to your pandas\nas one westminster official... http://t.co/bwz4nrbmsd/n",
+        "Text"
+    ],
+    [
+        "pandas and lobsters: why google cannot build social applications... http://post.ly/mwdr (via @sacca)/n",
+        "Text"
+    ],
+    [
+        "rt @maggiekb1: what i would not give to be covered in baby pandas right now... https://t.co/ax0nr1bqqg/n",
+        "Text"
+    ],
+    [
+        "amused every time i see `import pandas` in a stats-y python project./n",
+        "Lib"
+    ],
+    [
+        "@gfitzp i didn't know that was a thing. though it doesn't seem that'd help take pandas off the endangered species list...?/n",
+        "Text"
+    ],
+    [
+        "easy way to impress you son: know the songs by the white pandas & the vines (when sampled or covered fr. classic rock)/n",
+        "Text"
+    ],
+    [
+        "rt @wesmckinn: i'm believe this was the moment in 2011 where i resolved to quit grad school and work on pandas full time for at least a yea/n",
+        "Text"
+    ],
+    [
+        "@willingcarol btw, pandas should be in f21 final release, i added it after you mentioned it here!/n",
+        "Lib"
+    ],
+    [
+        "seo: avoiding penguins and pandas > http://t.co/ern5r8uu/n",
+        "Text"
+    ],
+    [
+        "\"pandas fundamentals\" https://t.co/flysv3qekb #pluralsight/n",
+        "Lib"
+    ],
+    [
+        "rt @ogrisel: pandas 0.15 will feature native support for categorical variables: http://t.co/pv09dy1ogf #pydata/n",
+        "Lib"
+    ],
+    [
+        "rt @amitness: found today that tqdm allows adding progress bar to apply method in pandas dataframe. \n\njust import and you can use '.progres/n",
+        "Lib"
+    ],
+    [
+        "rt @nautiljon: quand tu veux juste faire ton job mais que tu as oubli que tu travaillais avec des pandas  @pandpiachannnel https://t.co/i/n",
+        "Text"
+    ],
+    [
+        "rt @koehrsen_will: pandas now supports a nullable integer data type. this means you can have missing values and integers in a column withou/n",
+        "Lib"
+    ],
+    [
+        "rt @btunplugged: my favorite switches the holy pandas are back in stock awwww yeeahhhh.. cop them here @drop : https://t.co/a3gtjktohm http/n",
+        "Text"
+    ],
+    [
+        "pandas apply:\nhttps://t.co/cfuhcyg6ax\n@data_kind/n",
+        "Lib"
+    ],
+    [
+        "those pandas were just the wookie league compared to this. https://t.co/0tvpoklpnn/n",
+        "Text"
+    ],
+    [
+        "new article : ordering rows in pandas data frame and bars in plotly bar chart (by day of the week or any other user defined order) https://t.co/ix06qzuw0y by lucas jellema/n",
+        "Lib"
+    ],
+    [
+        "die seos feiern jetzt mit pinguinen und pandas im hannoveraner zoo #pubcon #semseo/n",
+        "Text"
+    ],
+    [
+        "rt @coreymschafer: python pandas tutorial (part 5): updating rows and columns - modifying data within dataframes\n\nhttps://t.co/yp6phf45si/n",
+        "Lib"
+    ],
+    [
+        "as often as i use pandas why did i not know about this? https://t.co/rlaoamnpba/n",
+        "Lib"
+    ],
+    [
+        "*creates php7 branch on php pandas source repo* https://t.co/0iovj6wnwg/n",
+        "Text"
+    ],
+    [
+        "@sembuh_ invest time in learning python & using pandas  https://t.co/kzz17waqgj https://t.co/tui6km8izl/n",
+        "Lib"
+    ],
+    [
+        "@ellisonbg it's already rendering tables in html.  but pandas integration is exactly my next ambition, after some cleanup./n",
+        "Lib"
+    ],
+    [
+        "pandas groupby tutorial\n\n https://t.co/0ggznfwhp3/n",
+        "Lib"
+    ],
+    [
+        "mining java performance problems with jprofiler, jqassistant, neo4j and pandas. great tools, guys! #jprofiler #jqassistant #neo4j #pandas/n",
+        "Lib"
+    ],
+    [
+        "@fnando pandas ?/n",
+        "Text"
+    ],
+    [
+        "rt! reply with a panda fact or something you love about pandas- include #pandapal & you're entered to win a panda pal speaker!/n",
+        "Text"
+    ],
+    [
+        "rt @enthought: #python #pandas quick reference: split/apply/combine w/ dataframes. more in our pandas mastery workshop: https://t.co/p2y6c5/n",
+        "Lib"
+    ],
+    [
+        "how to speed up pandas by 4x with one line of code - kdnuggets https://t.co/pzgikjts10/n",
+        "Lib"
+    ],
+    [
+        "python1pandas/n",
+        "Lib"
+    ],
+    [
+        "rt @pandas_dev: pandas 1.0 is here!\n\n* read the release notes: https://t.co/jxs381xza4\n* read the blogpost reflecting on what 1.0 means to/n",
+        "Lib"
+    ],
+    [
+        "pandas-vet https://t.co/8cjhuvighy via @instapaper/n",
+        "Text"
+    ],
+    [
+        "rt @bbcworld: giant pandas perform roly-polys in the snow as they go on show for the first time at a finland zoo.  https://t.co/d9t0atc/n",
+        "Text"
+    ],
+    [
+        "analyzing the stack overflow survey with python and pandas by @moshezadka https://t.co/nsewbionle https://t.co/gmek8stotb/n",
+        "Lib"
+    ],
+    [
+        "(5) eksik deerleri bulup doldurabilmeli, u deerleri hzlca tespit edebilmeli ve veriyi kesikli hale getirmemiz gerekiyorsa bunu da yapacak fonksiyonlar basite kullanabilmeliyiz. ayrca bu ktphaneleri kullanarak mutlaka sql yazar gibi kod yazabilmeliyiz (pandas dataframe)./n",
+        "Lib"
+    ],
+    [
+        "rt @whnt: it's official! the new baseball team will be named the rocket city trash pandas!! https://t.co/3ln59tsk0v #trashpandas4life https/n",
+        "Text"
+    ],
+    [
+        "rt @jeresig: \"if pandas worked harder and pulled themselves up by their bootstraps they'd be mauling salmon like a grizzly.\" - via reddit/n",
+        "Text"
+    ],
+    [
+        "#spark with #python is both a resource hog and complex solution. we've just replaced our main ingestion pipeline with a queue of pandas jobs on #kubernetes (accessing google storage)  cutting hardware by a factor of 8 and processing time by a factor of 2/n",
+        "Lib"
+    ],
+    [
+        "rt @cmastication: plotly & bokah are now interchangeable plotting backends for pandas plotting methods. this is pretty cool. \n\nhttps://t.co/n",
+        "Lib"
+    ],
+    [
+        "#analyzing data with #python with @sarah_guido:  pandas, scikit-learn, nltk, mrjob, and matplotlib for data analysis: http://t.co/xgp3ebtjqj/n",
+        "Lib"
+    ],
+    [
+        "ipython jupyter + numpy, scipy, matplotlib, pandas, jsonschema, seaborn =  /n",
+        "Lib"
+    ],
+    [
+        "@observablehq this is really exciting. will energise js ecosystem & better libs for data wrangling (like pandas) + ml (like scikit-learn) should emerge./n",
+        "Lib"
+    ],
+    [
+        "@sarakata @ryankanno pandas vs cats for the run? http://t.co/nvy3jbevo3 hahaha/n",
+        "Text"
+    ],
+    [
+        "rt @zairianking: do pandas actually have a purpose or are they just here for vibes? https://t.co/krvvo7j6pa/n",
+        "Text"
+    ],
+    [
+        "rt @fringetracker: oh wow - matplotlib, numpy and pandas, essential scientific infrastructure used by millions, are each maintained by fewe/n",
+        "Lib"
+    ],
+    [
+        "dont underestimate pandas, their bodies can neutralize cyanide https://t.co/5zk8pev6kz/n",
+        "Text"
+    ],
+    [
+        "read http://ifindkarma.posterous.com/pandas-and-lobsters-why-google-cannot-build-s on google, facebook, #twitter an http://bit.ly/boil6r/n",
+        "Text"
+    ],
+    [
+        "essential cheat sheets for machine learning and deep learning engineers by kailash ahirwar https://t.co/avr3nuf7t5 #machinelearning #deeplearning #artificialintelligence #python #r #datascience #keras ##pyspark #ggplot2 #neuralnetworks #scikit-learn #matplotlib #pandas #numpy https://t.co/jkbizidx8d/n",
+        "Lib"
+    ],
+    [
+        "rt @geroalbornoz: para quienes estn interesados en pandas de python les paso un ejemplo didctico de anlisis de datos de series de tiempo/n",
+        "Lib"
+    ],
+    [
+        "rt @neuroimmunekids: the medical community needs to start routinely considering immune mediated causes of mental illness. #pans #pandas #ae/n",
+        "Text"
+    ],
+    [
+        "i can't cope with halloween. i just saw a prius being driven by a panda. pandas aren't even scary!!/n",
+        "Text"
+    ],
+    [
+        "@gnb pandas never feed in the same place twice. you'll find him, don't worry./n",
+        "Text"
+    ],
+    [
+        "poor little trash pandas! https://t.co/0dy3jmfdvg/n",
+        "Text"
+    ],
+    [
+        "rt @wesmckinn: thanks for writing about pandas! and thanks to the maintainers (@jreback, @jorisvdbossche @tomaugspurger et al) for all thei/n",
+        "Text"
+    ],
+    [
+        "rt @sergeifilippov: the explanation of polymorphism in php pandas book is alone worth the  price admission. :) bravo sir! @daylerees/n",
+        "Text"
+    ],
+    [
+        "if you don't pair it makes pandas sad.  #gotober @rachelcdavies http://t.co/le9en3jlko/n",
+        "Text"
+    ],
+    [
+        "pandasparquet #dbts2018/n",
+        "Text"
+    ],
+    [
+        "@redouad @jburnmurdoch for belgium you find data from @sciensano this blogpost illustrates how to obtain the data with pandas: https://t.co/zttvdgspwa or have a look here for eu countries: https://t.co/e2qgxt3c6k it are the data loaders that are behind https://t.co/usrqb3c6tc/n",
+        "Lib"
+    ],
+    [
+        "rt @mcfunkypants: here's one reason why 2016 didn't suck:\n\nhumpback whales, giant pandas, manatees, and green sea turtles are no longer end/n",
+        "Text"
+    ],
+    [
+        "i'd love it if you'd spread the word of my latest title php pandas to new developers! consider tweets, sub-reddits and blogs. thanks! :)/n",
+        "Text"
+    ],
+    [
+        "hahaha cute -> @undergroundpixl: impossible not to smile. rt @nattylux omg. escaping baby pandas. http://t.co/rlgmpxkr/n",
+        "Text"
+    ],
+    [
+        "don't: struggle to find and configure software to pull data from mysql to postgresql\ndo: use `mysql_fdw`, or pandas `read_sql` and `to_sql`/n",
+        "Lib"
+    ],
+    [
+        "rt @deniseyu21: hey! listen! \n\n@stevesmithcd and i are writing a book! \n\nit's going to contain cats, pandas, and continuous delivery. in s/n",
+        "Text"
+    ],
+    [
+        "hidden moves - pandas & cigarettes http://post.ly/1el8h/n",
+        "Text"
+    ],
+    [
+        "rt @bdkhealth: a zoo in hong kong tried to  mate giant pandas ying ying and le le for 10 years. \n\nno success.\n\nwhen coronavirus shut the zo/n",
+        "Text"
+    ],
+    [
+        "rt @androidpolice: no may 7th android 2.1 update for sprint htc hero - and yet again we are sad pandas http://bit.ly/cjfqeg/n",
+        "Text"
+    ],
+    [
+        "@wesmckinn we use pandas a lot at @digestodados to build better legal tools and understand how law is practiced here in brazil. thanks!/n",
+        "Lib"
+    ],
+    [
+        "rt @chris1610: great example of using pandas for cohort analysis. he makes it look so easy! https://t.co/kifz5fdvyu/n",
+        "Lib"
+    ],
+    [
+        "@jennbradford777 i love pandas, but given its popularity the api is surprisingly obtuse./n",
+        "Lib"
+    ],
+    [
+        "rt @justmarkham:  pandas trick:\n\nif you've created a groupby object, you can access any of the groups (as a dataframe) using the get_g/n",
+        "Lib"
+    ],
+    [
+        "@wesmckinn what do you have planned?  new features in pandas?/n",
+        "Lib"
+    ],
+    [
+        "numfocus: highlights from the 2019 pandas hack https://t.co/n4y8l7vjzy #python #programming #code/n",
+        "Lib"
+    ],
+    [
+        "trying pandas, as it's the go to tool for spreadsheet loading these days. \n\nit is super slow :-(/n",
+        "Lib"
+    ],
+    [
+        "you know red pandas are freaking adorable right?!?!?! http://t.co/ej5dmxyo/n",
+        "Text"
+    ],
+    [
+        "rt @koehrsen_will: one of my favorite small python tricks for producing a nice title out of an ugly string (such as a pandas dataframe colu/n",
+        "Lib"
+    ],
+    [
+        "pandas and penguins  googles recent updates | business 2 community http://t.co/m92rsbze/n",
+        "Text"
+    ],
+    [
+        "pandas on steroids: end to end data science in python with dask https://t.co/kfyap5jpce https://t.co/9razk8prdx/n",
+        "Lib"
+    ],
+    [
+        "@brucel not sure the pandas want to be associated./n",
+        "Text"
+    ],
+    [
+        "\"@sukitea rpt-poo for tea: china's pandas brew a top drop http://t.co/gimieubp via @reuters/n",
+        "Text"
+    ],
+    [
+        "@pavgod and pandas.../n",
+        "Text"
+    ],
+    [
+        "good read, small steps to break your excel habit: using excel with pandas #datascience https://t.co/x9z0ugxfcj/n",
+        "Lib"
+    ],
+    [
+        "rt @kirkdborne: (free 1600+ page book) pandas  #python data analysis toolkit for #datascience: http://t.co/mxj2i4iz2q #bigdata http://t.co/n",
+        "Lib"
+    ],
+    [
+        "pandas python package & google analytics | @yhathq | http://t.co/u182cpjyhx/n",
+        "Lib"
+    ],
+    [
+        "rt @phpem: thanks to @daylerees for the copies of his php pandas book that we'll have for our uncon! great support! #phpem15 https://t.co/n/n",
+        "Text"
+    ],
+    [
+        "rt @wesmckinn: the truth: pandas (2010-13) was mostly funded by the lost income of @changhiskhan, @atomklein, and me https://t.co/l94jjdwmdi/n",
+        "Text"
+    ],
+    [
+        "canada fears photo of prime minister with pandas could worsen american refugee crisis - the new yorker https://t.co/6dorhek5dy/n",
+        "Text"
+    ],
+    [
+        "wes mckinney: \"i heard from this guy: 'i love pandas, keep it up'. funny, a few years later i work for him. (i guess it's not so weird...)\"/n",
+        "Text"
+    ],
+    [
+        "this week in jobs: bei bei goes home edition https://t.co/5cmlewljfw via @technicallydc\njobs, pandas and free classes for veterans. #dcjobs/n",
+        "Text"
+    ],
+    [
+        "rt @soklux83: scan througth sample pages php pandas book by @daylerees, his writing just amazing recommend this book to phpbie http://t.co//n",
+        "Text"
+    ],
+    [
+        "rt @amivee: hello there baby pandas! https://t.co/1obk4wvmfp/n",
+        "Text"
+    ],
+    [
+        "join us 12/14 for our live \"data analysis in python with pandas\" webinar by @wintellect https://t.co/jgtzhac8nj #python #pandas #wintellect https://t.co/gefff5ck8n/n",
+        "Lib"
+    ],
+    [
+        "two raccoons just tried to come into my house through the dog door. heard something rustling and thought the dog was struggling to come back in. walked around the corner and staired the trash pandas in the face through the flap and they slowly waddled off./n",
+        "Text"
+    ],
+    [
+        "rt @databricks: learn how easy it is to convert code written in pandas to koalas on #apachespark, including best practices on how to use ko/n",
+        "Lib"
+    ],
+    [
+        "surprised this red panda cub isn't... red? red pandas don't get their trademark coloring until they're a little older! \n\nwillow's cubs are still cute though!\n\n#insidethezoo https://t.co/mtabz5qqlh/n",
+        "Text"
+    ],
+    [
+        "rt @datasciencedojo: top 3 pandas functions for beginners #datascience #programming https://t.co/otkc4cdv6e/n",
+        "Lib"
+    ],
+    [
+        "rt @jricowilliamson: enjoying a wednesday evening thinking about data frames and pandas.  i teach my hci third year course and my mozilla h/n",
+        "Lib"
+    ],
+    [
+        "open chrome tabs on startup: codecademy, imdb search for \"annie clark\", and buzzfeed countdown of red pandas. i'm officially a cliche./n",
+        "Text"
+    ],
+    [
+        "toda vez que eu escuto \"tem que abrir uma solicitao\" morre 3 pandas./n",
+        "Text"
+    ],
+    [
+        "working with pandas datetime\n\n https://t.co/7njjxk81dn/n",
+        "Lib"
+    ],
+    [
+        "pandas in liverpool street station giving free hugs/n",
+        "Text"
+    ],
+    [
+        "how many humans do you think the earth should support? how many cows/whales/mice/pandas?/n",
+        "Text"
+    ],
+    [
+        "rt @tasafo: nosso post da semana do blog tsafo \"ssl, heris, nuvens, pandas e drages\", por @luizsanxes http://t.co/tlzfrijz2i/n",
+        "Text"
+    ],
+    [
+        "@pydatacba @datapythonista muestra que ahora pandas soporta cambiar el engine de grficos /n",
+        "Lib"
+    ],
+    [
+        "@wesmckinn pandas doesn't brainwash people. people brainwash people./n",
+        "Text"
+    ],
+    [
+        "rt @hermida: no comment needed rt @jenmacmillan: 14 baby pandas! in a crib! that is all. http://t.co/mphvpkkoao/n",
+        "Text"
+    ],
+    [
+        "vyclone is featured in the uk app store. it's free and has movies of pandas. http://t.co/7v0dpan7/n",
+        "Text"
+    ],
+    [
+        "@protectedpick pandas deserve to go extinct/n",
+        "Text"
+    ],
+    [
+        "using sql, pandas, and python to work with data by @johnb30 | via @pythonweekly http://t.co/q63qw4flkx/n",
+        "Lib"
+    ],
+    [
+        "@machinedidact i agree: the amount of money which has gone towards this single species could have been used to save so many others which stood a better chance but that \"weren't as cute\". and that's to say nothing about china owning all the pandas (and just rent them out to international zoos)./n",
+        "Text"
+    ],
+    [
+        "rt @tdatascience: 7 pandas functions to reduce your data manipulation stress by andre ye https://t.co/o2zgwq9vwx/n",
+        "Lib"
+    ],
+    [
+        "#python pandas basics - https://t.co/cyclbjqjfb/n",
+        "Lib"
+    ],
+    [
+        "more on pandas 1.0rc and what changesd: \"pandas, the data analysis library for python, has finally reached a 1.0 release candidate. pandas 1.0 removes a great deal of deprecated functionality and requires python 3.6 or better\" https://t.co/uo399x6zxy/n",
+        "Lib"
+    ],
+    [
+        "@tombreur @davidjpoole @ronalddamhof in the last two years, i have been working deep in data pipelines using python, spark, pandas and file based data flows. away from rdbmss, we dont talk as much about data warehouses and data modeling. this why i am a little quiet :)/n",
+        "Lib"
+    ],
+    [
+        "how to iterate over rows in a pandas dataframe https://t.co/rtjmkeqhzo/n",
+        "Lib"
+    ],
+    [
+        "#2. python ile veri tanmaya ve temel istatistie dal\n2.1. veri tanma fonksiyonlar (pandas dataframe)\n2.2. temel istatistik fonksiyonlar\n merkezi eilim lleri: mod, medyan, aritmetik ortalama\n dalm lleri: standart sapma, varyans, kovaryans, korelasyon/n",
+        "Text"
+    ],
+    [
+        "now, now, the smilies are nice too. :) rt @carols10cents: pandas... choose the pandas... do it... you know you want to! /cc @mercury_app/n",
+        "Text"
+    ],
+    [
+        "here's a quick tip for those working with pandas data frames stored as json in databricks/spark: call https://t.co/9a6tw8gkfm_json('...', orient='records') this is the only way you can be sure spark reads the file correctly!/n",
+        "Lib"
+    ],
+    [
+        "rt @tedpetrou: can anyone find a discussion of the available pandas data types in the documentation? it doesn't seem to exist. https://t.co/n",
+        "Lib"
+    ],
+    [
+        "pandas and lobsters: why google cannot build social applications http://ff.im/-nhqbe/n",
+        "Text"
+    ],
+    [
+        "there were 2 pandas. \none was brave & dedicated himself to fighting evil; they called him: \nkung fu panda \n\nthe other, couldn't be bothered and dedicated himself to apathy; he was called:\nki farak panda \n--\na friend shared this with me today./n",
+        "Text"
+    ],
+    [
+        "rt @theregister: python explosion blamed on pandas https://t.co/3a3t8phbka/n",
+        "Lib"
+    ],
+    [
+        "rt @wesmckinn: new blog post: how we enabled @apachearrow to create pandas dataframe objects faster than pandas itself (sometimes)\n\nhttps://n",
+        "Lib"
+    ],
+    [
+        "a reminder to seed your random numbers and to treat your raw data as an append only collection should come with every pandas install. they're incredibly simple things to do and i've watched way to many people learn to do them the hard way./n",
+        "Lib"
+    ],
+    [
+        "was looking for the inverse of quantile in pandas, but there isnt one. this so answer is handy instead: http://t.co/vzi0gcoaki/n",
+        "Lib"
+    ],
+    [
+        "@jgjay @samstarling bookmarked for 10% time. although \"install numpy, scipy, pandas, patsy, statsmodels, msgpack_python in that order.\" /n",
+        "Lib"
+    ],
+    [
+        "rt @pydata: ever thought that pandas documentation could be better? \nmarch 10th is your opportunity to help improve it! \n\njoin a sprint in/n",
+        "Lib"
+    ],
+    [
+        "&pandas()/n",
+        "Text"
+    ],
+    [
+        "@suziegardner pandas originally via @iandstewart/n",
+        "Text"
+    ],
+    [
+        "rt @wesmckinn: ibis 0.6 released! expanded impala support, better pandas integration https://t.co/5wztcpenna/n",
+        "Lib"
+    ],
+    [
+        "have you been wondering what the google pandas and penguins are? interested in seo but have no idea where to... http://t.co/8esdvtos/n",
+        "Text"
+    ],
+    [
+        "using excel with pandas.\n\nhttps://t.co/q5wbmrmjcx/n",
+        "Lib"
+    ],
+    [
+        "rt @zmangames_: we're excited to announce a new edition to the pandemic family: pandademic! save the pandas. save the world.\n\nlearn more: h/n",
+        "Text"
+    ],
+    [
+        "rt @amontalenti: pandas releases the gil for group/agg operations in new version; enables multicore analysis. nice! http://t.co/egcps1qc0h/n",
+        "Lib"
+    ],
+    [
+        "rt @rmistaken: questo sabato in @tlbxcoworking parteciperemo allo sprint mondiale sulla documentazione di #pandas. se usi #pandas  una ott/n",
+        "Text"
+    ],
+    [
+        "rt @kanbanpanda: dont be afraid to challenge your sacred cows. be open to learn! dont challenge your pandas, though. @ryanripley @totting/n",
+        "Text"
+    ],
+    [
+        "rt @planetpython: data school: easier data analysis in python with pandas (video series) https://t.co/hr1pnhsw6f/n",
+        "Lib"
+    ],
+    [
+        "fotos de pandas -- http://t.co/7libzummyp/n",
+        "Text"
+    ],
+    [
+        "rt @robinmillar8: pleased to join this appg on pans/pandas. let's see how we can help move this forward./n",
+        "Text"
+    ],
+    [
+        "rt @gwenshap: omg. it looked like we acquired the pandas team. i'm rarely so proud to be part of @clouderaeng . http://t.co/bgpzyroh61/n",
+        "Text"
+    ],
+    [
+        "i'm so into red pandas right now, but that sloth is sassy i don't know which way to turn in the https://t.co/7zzaeg63lk zoo tweet off./n",
+        "Text"
+    ],
+    [
+        "@chiefscientist -,   pandas     250 mb .../n",
+        "Text"
+    ],
+    [
+        "this is really cool, we are starting to use pandas pivot tables inside a jupyter notebook to visualize @jira data (from a graph created by navigating jira issues links)\n\n @askatlassian another feature for you to add to your backlog :) https://t.co/8bkical6t5/n",
+        "Lib"
+    ],
+    [
+        "drawing pandas, watching a whiteout snowboard movie and stuff. it's friday people!/n",
+        "Text"
+    ],
+    [
+        "rt @popehat: maybe @seanhannity should look into this thing about sex/death pandas that tucker has been reporting on, seems like that works/n",
+        "Text"
+    ],
+    [
+        "cute overload! rt @wired how many baby pandas is too many? not 16, but maybe 17. http://bit.ly/bqkwyl/n",
+        "Text"
+    ],
+    [
+        "stack abuse: beginner's tutorial on the pandas python library https://t.co/nbhigfub59 #python #feedly/n",
+        "Lib"
+    ],
+    [
+        "speaking of pandas, last night we went on a group bike ride dressed as chengdu's official mascot! with music! https://t.co/xzessvv4op/n",
+        "Text"
+    ],
+    [
+        "new article : tour de france data analysis using strava data in jupyter notebook with python, pandas and plotly  step 1: single rider loading, exploration, wrangling, visualization https://t.co/dlr00sl493 by lucas jellema/n",
+        "Lib"
+    ],
+    [
+        "oh: my new favorite thing is pandas in the snow/n",
+        "Text"
+    ],
+    [
+        "rt @drewconway: great post rt @siah: \"r and pandas and what i've learned about each\" http://t.co/4djioayycp/n",
+        "Text"
+    ],
+    [
+        "rt @rachelaxler: writing is rewriting\nstoring is restoring\npressing is repressing\nlishing is relishing\ndherring is red herring\nd pandas are/n",
+        "Text"
+    ],
+    [
+        "rt @ahappierday: feeding time for baby red pandas. https://t.co/pqac5o2m8j/n",
+        "Text"
+    ],
+    [
+        "a pandas-like deferred expression system, with first-class sql support (impala, postgresql, sqlite, ...) https://t.co/ezoyw4fan7\nhttps://t.co/adidnvbhjy/n",
+        "Lib"
+    ],
+    [
+        "rt @stephenpiment: high performance database joins with pandas dataframe, more benchmarks #python https://t.co/bxyppmpuev/n",
+        "Lib"
+    ],
+    [
+        "at @startupedmonton learning about python data analysis with pandas.\n\nvery cool. i need to come out to more of the @edmontonpy meetups! https://t.co/5c56i2pkld/n",
+        "Lib"
+    ],
+    [
+        "master techniques to reduce costs & run times, handle huge datasets, implement complex #machinelearning apps efficiently in #python. \n\npeek into high performance python for #dataanalytics on livebook. \n\nfive minutes a day for free: https://t.co/b1bkrbg7th #pandas #numpy #cython https://t.co/lgqedppj2d/n",
+        "Lib"
+    ],
+    [
+        "&quot;pandas on slides&quot; is the video compilation of your dreams http://t.co/moyokrc88h/n",
+        "Text"
+    ],
+    [
+        "ok. i need to learn pandas https://t.co/2ylbhqpwco #python/n",
+        "Lib"
+    ],
+    [
+        "rt @yhathq: analyzing iphone step data using pandas timeseries, rodeo, and ggplot | https://t.co/jflismgtdq via @rosskipp https://t.co/pxhw/n",
+        "Lib"
+    ],
+    [
+        "watch this beautiful video about #pandas ::: https://t.co/3qam8uvphi/n",
+        "Text"
+    ],
+    [
+        "rt @dhabolt: 50% off @informit ebook (through mar. 10): \"pandas for everyone: python data analysis\" by daniel chen @chendaniely #pandas #da/n",
+        "Lib"
+    ],
+    [
+        "i added a video to a @youtube playlist https://t.co/xwqeb6epki pandas class 3 by sir muhammad qasim at saylani | digital molvi/n",
+        "Lib"
+    ],
+    [
+        "rt @maxkatz:  live now\n geospatial analysis with pandas - introduction to pandas with @margrietgr & @lidderupk from @ibmdeveloper \n join/n",
+        "Lib"
+    ],
+    [
+        "@bodil holy pandas are nice when lubed well/n",
+        "Text"
+    ],
+    [
+        "@ctitusbrown @gaelvaroquaux @docfast @betatim with a workflow engine exposed as a python api, one can in fact do both.\n\ndoing this in a recent project - seen in the screenshot i posted in thread https://t.co/rm2hd59pho where i first do a parametrized call to a sciluigi workflow, then import into pandas for interactive expl./n",
+        "Lib"
+    ],
+    [
+        "rt @modernscientist: the modern pandas series by @tomaugspurger is the abbreviated strunk & white of data analysis #pydata\n\nstart here: h/n",
+        "Lib"
+    ],
+    [
+        "rt @dataconomymedia: 14 best python pandas features http://t.co/lfmhozut03 #bigdata http://t.co/o874rmte10/n",
+        "Lib"
+    ],
+    [
+        "rt @craigkerstiens: building a recommendation engine inside postgres with python and pandas - https://t.co/9yw9nd7u7n/n",
+        "Lib"
+    ],
+    [
+        "come on edinburgh pandas! you can do it./n",
+        "Text"
+    ],
+    [
+        "reading a git log file output with pandas https://t.co/7hbqfm8cyi #pandas #git #data #wrangling/n",
+        "Lib"
+    ],
+    [
+        "three pandas tips for pandas noobs https://t.co/tnpowv97vo #python #pandas/n",
+        "Lib"
+    ],
+    [
+        "rt @yhathq: data wrangling with pandas by chris fonnesbeck | http://t.co/bol8vlqhdr | @fonnesbeck (ipynb)/n",
+        "Lib"
+    ],
+    [
+        "rt @pycoders: pandas 0.21.0 released!  https://t.co/cmzmqkoyq3/n",
+        "Lib"
+    ],
+    [
+        "@pjmorgan @mehlibrarian if so, be sure to check out pandas: http://t.co/8zb7ntdu3g/n",
+        "Text"
+    ],
+    [
+        "in 3hrs! subscribers to my #onlyfans get to hang out in my #livechat today!\n\nthere may be some toys, there may not...either way, i always have a blast chatting and doing q&as with my pandas \n\n 3pm pst / 6pm est, only at... \n\nhttps://t.co/b8ldugvdmg https://t.co/faxyziyq20/n",
+        "Text"
+    ],
+    [
+        "rt @adilkhash: introduction to pandas by examples (titanic, apple stocks)  https://t.co/6ubu7kqedv #pandas #python #datascience #dataviz #/n",
+        "Lib"
+    ],
+    [
+        "rt @wesmckinn: very cool to see more r&d in distributed schedulers for pandas. here, powered by zero-copy plasma / @apachearrow interchange/n",
+        "Text"
+    ],
+    [
+        "rt @sethmlarson:  i'm giving a free webinar on eland, a new library for accessing #elasticsearch via a #pandas dataframe interface and int/n",
+        "Lib"
+    ],
+    [
+        "rt @coursesgonefree: #python pandas: data manipulation and analysis | #udemy ($114.99 to free) https://t.co/6e8fxkqcoo #free #course/n",
+        "Lib"
+    ],
+    [
+        "pandas: proving that if i'm going to skip reading documentation, i'm guaranteed to do it wrong since 2018/n",
+        "Lib"
+    ],
+    [
+        "red pandas out here setting an example, showing we could all live off weetabix and attitude if we just put some effort in  https://t.co/jtoqcjn30x/n",
+        "Text"
+    ],
+    [
+        "i'd fake being pregnant, if it meant i'd get to eat more bamboo from humans. way to evolve pandas!/n",
+        "Text"
+    ],
+    [
+        "pandas, penguins, hummingbirds, oh my! how to keep up with the latest seo trends http://t.co/cymp1fjjss via @hubspot/n",
+        "Text"
+    ],
+    [
+        "rt @simongerman600: the solar pandas in #datong in #china are probably the best advertisement the solar power industry could've wished for./n",
+        "Text"
+    ],
+    [
+        "rt @dayus4heaven: python cheat sheet for pandas \n#webdev #bigdata #analytics #datascience #cybersecurity #iot #iiot #pytorch #python #rstat/n",
+        "Lib"
+    ],
+    [
+        "rt @david__colton: i just cracked bite 253. more pandas series practice - on behalf of @pybites i challenge you!  https://t.co/wkpbizbgmg #/n",
+        "Lib"
+    ],
+    [
+        "~@shichuan right! in my textbooks, it said all chinese people know kungfu and own pandas./n",
+        "Text"
+    ],
+    [
+        "all you should know about datetime variables in python and pandas https://t.co/acyp4zsolm #bigdata #data #datascience #dataengineering/n",
+        "Lib"
+    ],
+    [
+        "@pandas yeah lol  feeling a bit sick and tired/n",
+        "Text"
+    ],
+    [
+        "rt @randal_olson: the most popular pandas, numpy, and scipy functions on #github visualized. #python #dataviz\n\nhttps://t.co/d40n0qdxfm http/n",
+        "Lib"
+    ],
+    [
+        "rt @__mharrison__: in the spirit of great artists steal, i'm borrowing a page from @chrisalbon and including flashcards for pandas in my up/n",
+        "Text"
+    ],
+    [
+        "@thai_tea  youre half way to some holy pandas right there./n",
+        "Text"
+    ],
+    [
+        "pandas of the seaaaaaaa  https://t.co/4m7jbnjkwf/n",
+        "Text"
+    ],
+    [
+        "rt @olivierbeghain: national geographic at #ibminnovate. the extinction of rinos and pandas. channel: ppm-1568 time: 9:45am presenter: @ .../n",
+        "Text"
+    ],
+    [
+        "rare surviving panda triplets are impossibly cute: what's cuter than one baby panda? three baby pandas that ha... http://t.co/8ritorci9u/n",
+        "Text"
+    ],
+    [
+        "a peek at pandas in their remote mountain habitat | stories | wwf https://t.co/ceuykmpdv2/n",
+        "Text"
+    ],
+    [
+        "teamcity 9.0: best for pandas http://t.co/ay8kxcjnch/n",
+        "Text"
+    ],
+    [
+        "rt @downtohoerth: ....so you're saying\n\ni can acquire fine attire with red pandas and vr headsets?\n\nyou got me, mozilla. \n\nyou got me./n",
+        "Text"
+    ],
+    [
+        "pyspark blends the powerful spark #bigdata processing engine with the #python to provide a data analysis platform that can scale up for nearly any task. \n\nget on board with data analysis with python and pyspark: https://t.co/aajayiak8d #apachespark #api #pandas #datascience https://t.co/4l7lcmifzb/n",
+        "Lib"
+    ],
+    [
+        "rt @rt_com: pandas doomed? study finds bamboo digestion may affect their sex lives https://t.co/yejjdcgjob https://t.co/yjgrgvvy1o/n",
+        "Text"
+    ],
+    [
+        "every #pandas user when they use #spark for the first time on 10+ gb of data.... \"*just to run a simple count* it takes so long\". every. bloody. time. on the full dataset. it's like physics isn't even a thing./n",
+        "Lib"
+    ],
+    [
+        "seo - penguins and pandas: a black and white issue http://t.co/mh9ttrdm/n",
+        "Text"
+    ],
+    [
+        "pandas and lobsters: why google cannot build social applications http://bit.ly/cy1idr/n",
+        "Text"
+    ],
+    [
+        "rt @feststelltaste: i've just uploaded a short video on youtube: \"linux git log analysis\" #linux #git #jupyter #pandas https://t.co/5g1dkqa/n",
+        "Lib"
+    ],
+    [
+        "pandas #ftw  https://t.co/o22docrgw0/n",
+        "Text"
+    ],
+    [
+        "rt @drmaciver: \"pandas is what happened when someone concluded that the problem with python was that it wasn't enough like r, so built an r/n",
+        "Lib"
+    ],
+    [
+        "the @elastic clients team is looking for someone skilled with python that has had exposure to data science: if that's you please apply! if that's someone you know please share! #python #pandas #datascience #elasticsearch #rlang https://t.co/7fhfsno9zo/n",
+        "Lib"
+    ],
+    [
+        "i'm writing a new book, \"#pandas workout\" (for @manningbooks), to help improve your fluency with this amazing #python package.\n\nso: what are your biggest pain points with pandas? what don't you understand? the more feedback i get, the better the book can be./n",
+        "Lib"
+    ],
+    [
+        "rt @pythonhub: a cheatsheet for data wrangling usingpandas\n\ntransform raw data into functional form\n\nhttps://t.co/eznaqtczje https://t.co//n",
+        "Lib"
+    ],
+    [
+        "@rdmurphy @austral_veiga familiarity matters, i think. whenever i have to reset index or whatever in pandas i get annoyed because the mental model feels so convoluted for what i'm getting. with  others at least the concepts map more cleanly to core language and benefits like windowing are more clear./n",
+        "Lib"
+    ],
+    [
+        "rt @sue_beachcover: shocking statistics showing lack of treatment for young children @youngmindsuk #pans #pandas #panspandasuk https://t.co/n",
+        "Text"
+    ],
+    [
+        "last night i presented on civic hacking with ipython and pandas at @datamke and tech engine milwaukee. transcript: http://t.co/reotxjewi2/n",
+        "Lib"
+    ],
+    [
+        "if we can't save pandas, we can't save anything https://t.co/gvanz4z31c/n",
+        "Text"
+    ],
+    [
+        "pandas? we have monkies in ey ;-) http://t.co/uuyz2e6v/n",
+        "Text"
+    ],
+    [
+        "rt @nytimes: ying ying and le le, two giant pandas who could never quite get in the mood over 13 years of living together in a hong kong zo/n",
+        "Text"
+    ],
+    [
+        "exploring the top incomes database with pandas and matplotlib  jupyter notebook http://t.co/mpzu2wfjtt/n",
+        "Lib"
+    ],
+    [
+        "biggest take away from #pydatanyc is i need to get more familiar with indexes in pandas... and pandas in general. thanks @tedpetrou and @tomaugspurger ;)/n",
+        "Lib"
+    ],
+    [
+        "@waxzce c'est quand mme l'homme qui murmurait  l'oreille des pandas... et de laurent wauquiez  https://t.co/mcthe6uvcy/n",
+        "Text"
+    ],
+    [
+        "rt @tdatascience: matplotlib + seaborn + pandas https://t.co/p6eargjavu https://t.co/pa2j1qbhli/n",
+        "Lib"
+    ],
+    [
+        "drawing pandas. (0@0)/n",
+        "Text"
+    ],
+    [
+        "still looking for chinese + japanese translators for my latest book php pandas. 50/50 profit share. http://t.co/dzmgjzd0db/n",
+        "Text"
+    ],
+    [
+        "there are 8 translations of php pandas currently underway. it - de - fr - sr - ru - tr - ar - pl  <3 https://t.co/hqmktwnxrv/n",
+        "Text"
+    ],
+    [
+        "pandas-based interfaces to git & twitter data #pydata https://t.co/wo8x7vlzk6/n",
+        "Lib"
+    ],
+    [
+        "@mangoshindig jira makes pandas cry. worst ui ever./n",
+        "Text"
+    ],
+    [
+        "very interesting article \"python pandas: tricks & features you may not know\" at @realpython about #pandas #python https://t.co/1jxdey3jww/n",
+        "Lib"
+    ],
+    [
+        "@placersheriff free the trash pandas!/n",
+        "Text"
+    ],
+    [
+        "rt @fairheadc: cutest branding effort ever? http://bit.ly/hmkbyu i love red pandas. @firefox, give 'em a petting from us!/n",
+        "Text"
+    ],
+    [
+        "@pschnorbus its raining pandas... halleluja..../n",
+        "Text"
+    ],
+    [
+        "@nycoherzog if it was a panda, i think you have a winner, they like pandas and pajamas :)/n",
+        "Text"
+    ],
+    [
+        "pandas & immutable.js by @stratodem https://t.co/ofl5ursan8/n",
+        "Lib"
+    ],
+    [
+        "rt @mashable: 10 ways pandas are just like us http://t.co/c1h7l5emvv/n",
+        "Text"
+    ],
+    [
+        "rt @pmhobson: this pandas-profiling module is the coolest!\ndemo: https://t.co/pxewlzif5u\ngithub: https://t.co/ofuca4iwbd/n",
+        "Text"
+    ],
+    [
+        "@ohhimarta learning pandas / dataframes in python was one of my favourite holiday projects ever. enjoy!/n",
+        "Lib"
+    ],
+    [
+        "some time series pros roll their eyes at prophet because they can build better models by hand. but that misses the point. similarly, i have numpy guru friends who can hand roll code that does certain pandas functionality better than pandas. ive seen the benchmarks.../n",
+        "Lib"
+    ],
+    [
+        "@hamrounez sharding the date during ingestion into  google storage, setting up kubernetes with a queue for parallel processing (something along https://t.co/y3wffiiqvo)  some python code to read-write to google storage and pandas to handle the data/n",
+        "Lib"
+    ],
+    [
+        "@hollystair @johnjannuzzi @jamesnord @johnholdun @johnjannuzzi zoos. pandas.  mexicans. #tenfohr/n",
+        "Text"
+    ],
+    [
+        "automate repetitive spreadsheet functionality, derive insight from data by sorting columns, filter data subsets, create multi-leveled indices; with pandas in action, our deal of the day. https://t.co/cbxupacsbn #python #numpy #pandas #dataanalysis https://t.co/qpsnwxasak/n",
+        "Lib"
+    ],
+    [
+        "til from @teonbrooks about pyodide using web assembly to get numpy, pandas, matplotlib etc on the web! #csvconf/n",
+        "Lib"
+    ],
+    [
+        "rt @tedofficialpage: i love pandas, they're so chill.\n\nthey're like \"dude, racism is stupid. i'm white, black, and asian...\"/n",
+        "Text"
+    ],
+    [
+        "mining performance hotspots with jprofiler, jqassistant, neo4j and pandas (1) https://t.co/zqnmzisfnn #jprofiler #jqassistant #neo4j #pandas/n",
+        "Lib"
+    ],
+    [
+        "@danilop lambda's code cannot be more then 50mib zipped, and you can struggle to add pandas. plus it has a limit in execution time. so you need a way to use a small ml library and that terminates in 15 minutes/n",
+        "Lib"
+    ],
+    [
+        "lubing 100 holy pandas. lessgo./n",
+        "Text"
+    ],
+    [
+        "rt @pydata: messy data? try this video on cleaning and tidying data using pandas from our pydata dc meetup#tidydata #datacleaning\n\nhttps:///n",
+        "Lib"
+    ],
+    [
+        "heatmaps for pandas dataframes https://t.co/slmnyzo26g https://t.co/2aptsve18d/n",
+        "Lib"
+    ],
+    [
+        "rt @maomimi: je suis en train de masturber les pandas dans #libration http://www.flickr.com/photos/hopscotchinda/5237064461/ (@har0ld @ .../n",
+        "Text"
+    ],
+    [
+        "pandasltpandas #osakapy/n",
+        "Text"
+    ],
+    [
+        "rt @le_museum: naissance de deux pandas roux  la #mnagerie du #jardindesplantes ! #mnhn http://t.co/7anzfd1ili/n",
+        "Text"
+    ],
+    [
+        "baby red pandas at the zoo!!! https://t.co/ddftjn9cgn https://t.co/qrr8sprzdw/n",
+        "Text"
+    ],
+    [
+        "rt @enthought: 10 minutes to python's #pandas library: http://t.co/fpj2hqjzgs/n",
+        "Lib"
+    ],
+    [
+        "pair programming pour ne pas rendre les pandas malheureux #gdcr14 http://t.co/8hvvzo3gnz/n",
+        "Text"
+    ],
+    [
+        "@klmr (not trying to troll, srsly interested) is it still a good idea to use #rstats with #pandas and friends being available for #python/n",
+        "Lib"
+    ],
+    [
+        "over your day-job? why not give dressing as a giant panda a go! who doesn't love pandas...eh? http://t.co/107jgm2r/n",
+        "Text"
+    ],
+    [
+        "high performance riptable for optimized pandas data frames and numpy arrays developed for financial quantitative use cases \n\nhttps://t.co/ptdigdtlrw https://t.co/galhbxkt3h/n",
+        "Lib"
+    ],
+    [
+        "using pandas in jupyter to double check the excel data before stuffing it into the database\n\nyou know what i am gonna call that data science\n\nbrb updating resume/n",
+        "Lib"
+    ],
+    [
+        "weve had fake eyelashes, fake fur, fake news and now  a caf in chengdu, china, has gotten itself into the news round the world by dying pet dogs to look like giant pandas https://t.co/g0h7h5jgxg.  boxers could be a challenge #fakepandas/n",
+        "Text"
+    ],
+    [
+        "rt @svpino: machine learning curriculum to get started:\n\n1. python + numpy, pandas\n2. notebooks (jupyter or colab)\n3. machine learning conc/n",
+        "Lib"
+    ],
+    [
+        "a plague of wwf chuggers has decended on newport. rude nasty little pandas they are.../n",
+        "Text"
+    ],
+    [
+        "@coreyhaines with more pandas!/n",
+        "Text"
+    ],
+    [
+        "i just registered for the course data analysis with python: zero to pandas with @jovianml #datascience #machinelearning https://t.co/ahxfmfp3d2/n",
+        "Lib"
+    ],
+    [
+        "minimally sufficient pandas by ted petrou https://t.co/vdqogovqys/n",
+        "Text"
+    ],
+    [
+        "censored pandas rt @nationalzoo: mei & tian are together for natural breeding. the cam may be turned off at certain times./n",
+        "Text"
+    ],
+    [
+        "rt @open_threads: pandas-dev/pandas\n\nflexible and powerful data analysis / manipulation library for python, providing labeled data structur/n",
+        "Lib"
+    ],
+    [
+        "rt @tedpetrou: completely master the pandas library to do data analysis with python. with over 300 exercises and detailed solutions coverin/n",
+        "Lib"
+    ],
+    [
+        "@mkellerman had quickly fleeting thoughts of porting pandas way back :)/n",
+        "Text"
+    ],
+    [
+        "canada fears photo of prime minister with pandas could worsen american refugee crisis https://t.co/w8q8oynrpq/n",
+        "Text"
+    ]
+]

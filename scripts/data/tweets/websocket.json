@@ -1,0 +1,1410 @@
+[
+    [
+        "oh there are different implementations of the websocket handshake protocol... :(/n",
+        "Text"
+    ],
+    [
+        "rt @html5: rfc 6455: the websocket protocol staged up for final ietf publication as an internet standard http://t.co/yrduc4z1 via @fum .../n",
+        "Text"
+    ],
+    [
+        "build a real-time application using html5 websockets  http://t.co/xg6bmpy3 #html5 #php #websocket/n",
+        "Text"
+    ],
+    [
+        "@developerankit  what about #wasync? http://t.co/ql3l8htgyz there's others in npm too. #socket #websocket #nodejs #android/n",
+        "Text"
+    ],
+    [
+        "neo4jhttp, bolt, websocket/n",
+        "Text"
+    ],
+    [
+        "@theleastbad @jaredcwhite @stimulusreflex ive not used api gateways websocket support yet or tested the integration with rack/lamby. \n\ncost wise i would imagine almost nothing. most aws cost is other resources, nat gateway, rds, etc. lots of it depends. but websockets docs are on my list./n",
+        "Text"
+    ],
+    [
+        "rt @sergialmar: i'll be presenting 'from zero to hero with spring websocket' at springone 2gx 2015 washington dc https://t.co/engskifwei #s/n",
+        "Text"
+    ],
+    [
+        "node.js-jp: http  websocket  http://htn.to/kze5np/n",
+        "Text"
+    ],
+    [
+        "rt @musketyr: have you known that you can create websocket api with @awscloud api gateway? and that you can easily use @micronautfw to writ/n",
+        "Text"
+    ],
+    [
+        "rt @java: three steps to build a killer websocket app with #javafx http://t.co/2qqn0q4y #javaone/n",
+        "Text"
+    ],
+    [
+        "rt @copyconstruct: websocket introspection and stress testing with tcpkali by @levwalkin \n\nit's like chaos engineering for websocket and ot/n",
+        "Text"
+    ],
+    [
+        "@twitchdev you have both a webhook and a websocket api, which one should one use when implementing an overlay that shows subscribers as they come in during the stream?/n",
+        "Text"
+    ],
+    [
+        "optimizing multiplayer 3d game synchronization over the web http://t.co/cgbqvrum4l #websocket/n",
+        "Text"
+    ],
+    [
+        "websocket-client: python package for working with websockets: https://t.co/bx3kpeyc2h/n",
+        "Lib"
+    ],
+    [
+        "rt @gopivotal: #apachetomcat 8: what it is, what you need to know | http://t.co/fi0naoib3t  #java #websocket #spdy/n",
+        "Text"
+    ],
+    [
+        "@panesofglass i specifically need a websocket client library to provide support for https://t.co/p0seqivp/n",
+        "Text"
+    ],
+    [
+        "rt @joewalnes: ten second websocketd tutorial. write websocket backends in any language, even bash.\n\nhttps://t.co/g3cyee1iph https://t.co/t/n",
+        "Text"
+    ],
+    [
+        "@azepane c'est peut-etre un proxy sur le rseau qui interfre avec la websocket ? y a-t-il des messages d'erreur dans la console ?/n",
+        "Text"
+    ],
+    [
+        "rt @monteslu: binary websocket amd loader. evil genius stuff right there, by @blainebublitz  http://t.co/mtnecqxazx/n",
+        "Text"
+    ],
+    [
+        "rt @oss_php: websocket - the hoa\\websocket library. https://t.co/otbvqkjxai/n",
+        "Lib"
+    ],
+    [
+        "trying, trying, trying to hand the websocket spec off to the rfc editor. yes, trying is the word.../n",
+        "Text"
+    ],
+    [
+        "rt @justinvincent: the road to 2m websocket connections in phoenix https://t.co/vr3hwe2fli/n",
+        "Text"
+    ],
+    [
+        "rt @firefoxdevtools: we heard you!\n\nyou told us you need websocket inspection and better js debugging.\n\nthank you, for all the feedback (go/n",
+        "Text"
+    ],
+    [
+        "@gabrielg439 servant websocket example would be awesome/n",
+        "Text"
+    ],
+    [
+        "me: implements progress reporting over a websocket. process is too slow. changes process to run concurrently. fun new race like many i have problems now conditions./n",
+        "Text"
+    ],
+    [
+        "rt @javaspotlight: java spotlight episode 117: danny coward on jsr 356 java api for websocket @jcp http://t.co/cfx0zlsp/n",
+        "Text"
+    ],
+    [
+        "rt @natim: @mozilla is giving 150000$ to add websocket support to @djangoproject also 75000$ for #mercurial and 48000$ to @readthedocs so #/n",
+        "Text"
+    ],
+    [
+        "rt @silverspoon: the whole websocket api for #elmlang @micktwomey https://t.co/w2fdajs08f/n",
+        "Text"
+    ],
+    [
+        "rt @ocozalp: @ulasergin ben de dartta websocket seysi yazdm bi tane :) https://t.co/znie8nn1sp/n",
+        "Text"
+    ],
+    [
+        "rt @pythonquestions python websocket based application framework / server http://t.co/sfusmm6b #python/n",
+        "Lib"
+    ],
+    [
+        "@notmyname @headius it also is hugely competent with websocket traffic, which is a very useful ability too/n",
+        "Text"
+    ],
+    [
+        "#websocket, #html5 http://t.co/lea6naqa/n",
+        "Text"
+    ],
+    [
+        "rt @playframework: play 1.2.4 final is out! - with java 7 support, latest websocket protocol and more than 100 bugs fixed./n",
+        "Text"
+    ],
+    [
+        "just blogged about using fanout (websocket as a service) in django\nhttps://t.co/pkn7orlyib\n#django #2/n",
+        "Text"
+    ],
+    [
+        "rt @agile_geek: even tho i'm a #clojure advocate i'm pleasantly surprised by these results.  #websocket shootout: clojure, c++, elixir, go,/n",
+        "Text"
+    ],
+    [
+        "30 minutes to make a multi user real time paint with play 2 framework, canvas and websocket. http://t.co/3ujd6rjf via @greweb/n",
+        "Text"
+    ],
+    [
+        "the real-time web: http/1.1 to websocket, spdy and beyond http://t.co/et4wvcvy/n",
+        "Text"
+    ],
+    [
+        "yay @trufflesuite ganache 1.2 beta released with websocket support and fixes for the crashes we have had the last weeks! #upgradenow https://t.co/rkf3adjhzw https://t.co/dchddhzr3c/n",
+        "Text"
+    ],
+    [
+        "@mrjaba another clear case of missing websocket implementation :)/n",
+        "Text"
+    ],
+    [
+        "every 6-12 months, i come across a post on elm and congratulate myself for not investing the time in it. 3 year-old unacknowledged bug in a websocket library only the maintainers own? gtfo./n",
+        "Text"
+    ],
+    [
+        "rt @micronautfw: micronaut 1.0 rc1 for @java, @kotlin and @apachegroovy released with support for @graalvm, @swaggerapi, websocket, compile/n",
+        "Text"
+    ],
+    [
+        "hacking slack using postmessage and websocket-reconnect to steal your precious token https://t.co/htsoczqehg/n",
+        "Text"
+    ],
+    [
+        "@searchsoa: best uses for #api #mashups and the #websocket protocol http://t.co/qpqkgeyhm4/n",
+        "Text"
+    ],
+    [
+        "new version of lomond (#websocket library for #python) has a super-simple interface. this example streams realtime btc price from gdax. https://t.co/buvydum24p/n",
+        "Lib"
+    ],
+    [
+        "dailyjs: jquery roundup: jquery-mobile-960, easy websocket, mapkey, bvalidator http://t.co/ym3x1eq/n",
+        "Text"
+    ],
+    [
+        "#android apps seem to start decaying the minute you install them. mine just stopped making websocket connections for no apparent reason.#wtf/n",
+        "Text"
+    ],
+    [
+        "rt @playexperiments: a new #play2 experiment is online: http://t.co/uf3u9jcn #canvas #websocket #iteratee #playframework/n",
+        "Text"
+    ],
+    [
+        "php websocket chat application 2.0 http://t.co/wzlivuw9xk va @flynsarmy/n",
+        "Text"
+    ],
+    [
+        "https://t.co/prabjqumgy java websocket containers: thepossibilities | dzone integration/n",
+        "Text"
+    ],
+    [
+        "hacking slack using postmessage and websocket-reconnect to steal your precious token https://t.co/trk9c5bpun/n",
+        "Text"
+    ],
+    [
+        "anyone else had problems with win8's messagewebsocket? with mtgox's websocket api it receives a few messages then absolutely nothing./n",
+        "Text"
+    ],
+    [
+        "websocket server written in go, communication done by stdin/stdout - another diamond for my toolbox - http://t.co/rixtspguto/n",
+        "Text"
+    ],
+    [
+        "rt @briannoguchi: just released a node.js module. use @learnboost's socket.io comet & websocket module in your connect (@senchainc) app  .../n",
+        "Lib"
+    ],
+    [
+        "rt @alextkachman: very good websocket performance with kotlin and vertx https://t.co/wct2kjrg/n",
+        "Text"
+    ],
+    [
+        "one of the first node.js projects i remember working on was a tool for testing a websocket api. https://t.co/i3jue3y93j/n",
+        "Text"
+    ],
+    [
+        "rt @jfarcand: hitchiker guide to the atmosphere framework using websocket, long-polling and http streaming http://t.co/fhtx2wzb/n",
+        "Text"
+    ],
+    [
+        "#webperf on #aws rt @jedisct1 websocket benchmark: http://t.co/ov7gfgll /n",
+        "Text"
+    ],
+    [
+        "rt @agentzh: ngx_openresty 1.4.2.9 is out: http://t.co/jqn68o0av6 included lua-resty-websocket, lua-resty-lock & a lot of changes: http://t/n",
+        "Text"
+    ],
+    [
+        "the websocket protocol is now official http://t.co/kxldrhsc (rfc 6455)/n",
+        "Text"
+    ],
+    [
+        "@mulpat i was able to get data on a websocket connection to web browser on client. now, i want to record the data on a local file on client./n",
+        "Text"
+    ],
+    [
+        "presented a #springboot, #websocket, and #gradle architectural prototype to client's eng team. happy client, happy consultant.  great stuff!/n",
+        "Text"
+    ],
+    [
+        "rt @davidfowl: looks like websocket compression is coming in .net 6 https://t.co/cwkvtvhkan #dotnet/n",
+        "Text"
+    ],
+    [
+        "rt @mwessendorf new web sockets plugin for jquery called jquery-websocket... (via @kaazing)/n",
+        "Text"
+    ],
+    [
+        "rt @litespeedtech: #lsws 5.0 rc1 available! spdy/3.1, esi support, websocket proxy, cpu affinity. try it now: http://t.co/vygkax9zsd/n",
+        "Text"
+    ],
+    [
+        "pissed with websocket support in windows 8/n",
+        "Text"
+    ],
+    [
+        "good recap of websocket alternatives for soft realtime web apps http://t.co/qcixaajksu via @newsycombinator/n",
+        "Text"
+    ],
+    [
+        "yay! rt @nginxorg: websocket proxy code is on its way/n",
+        "Text"
+    ],
+    [
+        "websocket 101 - understanding the implementation of websocketenabled technology with peter moskovits of @kaazing - http://t.co/dqio8bp3/n",
+        "Text"
+    ],
+    [
+        "i'll be streaming this afternoon at 1600ct to add websocket support to the app we're building. when someone reserves a slot, all browsers should see that it is reserved. rails action cable + @elmlang ftw! follow on twitch to get notified! https://t.co/bsdj0ires4/n",
+        "Text"
+    ],
+    [
+        "let's try. hope it works great. rt @grailsplugins: spring websocket plugin 1.0.0 released: http://t.co/8pglodicft/n",
+        "Text"
+    ],
+    [
+        "#websocket support in #nginx should really be a higher priority than #spdy. http://t.co/lucbo8mo/n",
+        "Text"
+    ],
+    [
+        "rt @jonasjacobi: html5 and html5 websocket is now beyond the traditional browser and mobile device - here comes audi and the automotive .../n",
+        "Text"
+    ],
+    [
+        "a modern home karaoke system built with youtube api, websocket, redis, qr codes, and a chrome extension/webaudio https://t.co/rm1y8dwkie/n",
+        "Text"
+    ],
+    [
+        "20% of desktop and 80% of mobile #websocket connections will just fail. use ssl, proxies etc suck! #edgeconf/n",
+        "Text"
+    ],
+    [
+        "rt @dzone: three steps to build a killer websocket app with javafx - http://t.co/qjwmuyua - @dzone big link by jlweaver/n",
+        "Text"
+    ],
+    [
+        "silverlight html5 websocket client with an html bridge to ajax ... http://ff.im/onjfg/n",
+        "Text"
+    ],
+    [
+        "sockjs: library that provides a websocket-like object; gives you a coherent, cross-browser, javascript api https://t.co/kut0fkqm #javascript/n",
+        "Text"
+    ],
+    [
+        "rt @mwessendorf: wamp - websocket application messaging protocol => http://t.co/wih6qs4f/n",
+        "Text"
+    ],
+    [
+        "rt @dzone: tomcat 8: websocket, lamda expressions, springoneg2x &amp; more - http://t.co/00o62jwfqo - @dzone big link by kimberlylambert/n",
+        "Text"
+    ],
+    [
+        "centrifugo  language agnostic real-time (websocket and sockjs) server in go #golang https://t.co/wfjsd4clli/n",
+        "Text"
+    ],
+    [
+        "using rails 5 actioncable and rethinkdb to build a reactive websocket app https://t.co/ytncphp6cm\n   #rails5 #actioncable/n",
+        "Text"
+    ],
+    [
+        "#vnc#websocket#canvashttp://t.co/5y3xzprx/n",
+        "Text"
+    ],
+    [
+        "rt @syncfusion: get the basics of #nodejs with @emadb's ebook! learn about real-time apps with #websocket, accessing the database, and more/n",
+        "Text"
+    ],
+    [
+        "something like logstash + nosql with tcp-io access for a websocket+angularjs combination with akka. whatever, it'll be fun for sure/n",
+        "Lib"
+    ],
+    [
+        "rt @andrasjanko: event-loop based, type safe websocket abstraction coming very soon for #websharper on #dotnetcore, similar to websharper.o/n",
+        "Text"
+    ],
+    [
+        "rt @selfconference: how cool is this?! @jwright is going to talk about the time he built a realtime websocket api with phoenix. we're ready/n",
+        "Text"
+    ],
+    [
+        "enclosing socket.io websocket connection inside a html5sharedworker http://t.co/yclmfy08d3/n",
+        "Text"
+    ],
+    [
+        "video - java ee 7 & websocket api with oracle's @arungupta http://t.co/h05ncgljsp http://t.co/2gvty8c6eh ( #javaee7 #html5 #websocket #json)/n",
+        "Text"
+    ],
+    [
+        "pusher /   sinatra rocketiowebsocketcomet http://t.co/ytnzv3y4cl/n",
+        "Text"
+    ],
+    [
+        "rt @hoaproject: websocket (v10) draft is getting last call status at ietf. hope it will persist.\n#websocket #ietf #lastcall/n",
+        "Text"
+    ],
+    [
+        "rt @dzone: how apache tomcat implemented websocket - http://t.co/u60xkxaz - @dzone big link by stacey schneider/n",
+        "Text"
+    ],
+    [
+        "kaazing employees release 'the definitive guide to hmtl5 websocket' http://t.co/58svocutgr/n",
+        "Text"
+    ],
+    [
+        "oracle releases java ee 7 with eye on html5 development http://t.co/zc0pdyrfx8 ( #javaee7 #java #htlm5 #websocket #json #jaxrs #rest )/n",
+        "Text"
+    ],
+    [
+        "rt @dzone how #apache #tomcat implemented #websocket - http://t.co/nydfrpgo/n",
+        "Text"
+    ],
+    [
+        "rt @igrigorik: good news, websocket support landed in goliath master today.. now you can run both http and ws: http://t.co/fcqvrhbj/n",
+        "Text"
+    ],
+    [
+        "rt @jaxentercom: #spdy and #websocket protocols are main focus of new jetty release http://t.co/aihaket1j1/n",
+        "Text"
+    ],
+    [
+        "good summary on #websocket #sse rt @mwessendorf: soap and/or rest and/or websockets: http://t.co/xqsmmt3g/n",
+        "Text"
+    ],
+    [
+        "rt @thecodeproject: a c++ websocket server for realtime interaction with web clients http://t.co/y5az56e4/n",
+        "Text"
+    ],
+    [
+        "ever wanted to get to grips with the websocket protocol? read how to build a websocket server from scratch tutorial http://t.co/y8hn6unfjw/n",
+        "Text"
+    ],
+    [
+        "websocket - past, present and future with @frankgreco of @kaazing up now at http://t.co/3u6jrjtr9c/n",
+        "Text"
+    ],
+    [
+        "rt @wmacgyver: #erlang misultin is a fast webserver with sinatra like route support and websocket. http://j.mp/coofil/n",
+        "Text"
+    ],
+    [
+        "rt @zcourts: 20% of desktop and 80% of mobile #websocket connections will just fail. use ssl, proxies etc suck! #edgeconf/n",
+        "Text"
+    ],
+    [
+        "rt @glassfish: java api for websocket (jsr 356) early draft now available: http://t.co/yr4lzqem to be posted on http://t.co/tcibptgb soo .../n",
+        "Text"
+    ],
+    [
+        "@grahamoregan no need for an api just yet. unless you count game state over websocket./n",
+        "Text"
+    ],
+    [
+        "@mwessendorf to compare apples with apples they should not compare websocket to long polling, but to http streaming./n",
+        "Text"
+    ],
+    [
+        "scaling node.js on ec2 to 600k websocket connections: http://t.co/kdvipqn6cg/n",
+        "Text"
+    ],
+    [
+        "rt @newsycombinator: 600k concurrent websocket connections on aws using node.js https://t.co/nvlvfa51yg/n",
+        "Text"
+    ],
+    [
+        "using websocket #nodejs and webpack never felt better/n",
+        "Text"
+    ],
+    [
+        "rt @_felipera: my latest article on #log4j #websocket ui for #playframework on #javalobby http://bit.ly/jfthgi/n",
+        "Text"
+    ],
+    [
+        "pwa + websocket = <3/n",
+        "Text"
+    ],
+    [
+        "ml has added a number of globals to the browser, some of which are not documented or in use as far as i can tell. looks like i'll have to build a small websocket server to expose the rest of the sdk for now.\nhere's a list of the globals: https://t.co/d4q8k2ajyv/n",
+        "Text"
+    ],
+    [
+        "sharing sparks (generate realtime charts using vert.x websocket and highchart.js) http://t.co/iqanln23/n",
+        "Text"
+    ],
+    [
+        "@nomadphp a server websocket lib is still recommended as this doesn't handle all the various websocket versions which are browser dependent./n",
+        "Lib"
+    ],
+    [
+        "rt @hansb001: http://t.co/zdcnc08qnl  - build a #websocket app to visualize tweet volumes on a map #bluemix #nodejs/n",
+        "Text"
+    ],
+    [
+        "rt @nodejscommunity: ws: the fastest websocket module for node.js http://t.co/wizyuiaf http://t.co/3rbgd13z/n",
+        "Text"
+    ],
+    [
+        "you know you're having a rough day when your best solution to browser security issues is websocket mood rings :p/n",
+        "Text"
+    ],
+    [
+        "igm/sockjs-go: websocket emulation - go server library https://t.co/khhfcztse1 #golang #websocket/n",
+        "Text"
+    ],
+    [
+        "rt @meetingcpp: beast - http & websocket c++ library\nhttps://t.co/nz5tslbu7i\n#cpp\n#cplusplus/n",
+        "Text"
+    ],
+    [
+        "rt @elijahmanor: \"websocket disabled in firefox 4 & opera\" #tech #webdev http://mzl.la/gropjw/n",
+        "Text"
+    ],
+    [
+        "spring framework 4.0 m2: websocket messaging architectures: overview as i wrote previously, a we... http://t.co/uizczgfg0g #springsource/n",
+        "Text"
+    ],
+    [
+        "rt @mgreau: @arungupta thanks :). yes i read this blog post from @shekhargulati https://t.co/x7e3mcw29f  #websocket #openshit #wildfly/n",
+        "Text"
+    ],
+    [
+        "rt @sparkjava: proposed #websocket syntax for our @kotlin api. opinions pls! #spark #kotlin #sparkframework https://t.co/o1octo1yrz/n",
+        "Text"
+    ],
+    [
+        "ya'll under-estimate http2. it's gonna be on fire i tell you. websocket connection + local debugging w/ primed push. and just today learning about wasm perf in firefox sheeeeeit. times are about to get real interesting./n",
+        "Text"
+    ],
+    [
+        "@binance for some reason i'm not receiving orderbook updates via websocket subscription of ethbtc@depth20@0ms. any idea why? other markets are working fine/n",
+        "Text"
+    ],
+    [
+        "\"building and testing a websocket server with undertow | java code geeks\" good read http://t.co/bvrecaklte/n",
+        "Text"
+    ],
+    [
+        "rt @socketnorm: really cool to be able to do serverless websocket. i ported the sample to #dotnetcore for those curious to what that would/n",
+        "Text"
+    ],
+    [
+        "java theory and practice: explore the new #java se 11 http client and websocket apis  @_tamanm  https://t.co/ryyejmmlkf/n",
+        "Text"
+    ],
+    [
+        "@nick_craver has anyone come up with any clients for the websocket server you gents have on github?/n",
+        "Text"
+    ],
+    [
+        "rt @raffaeler: success! i could finally stream the h264 video from the rpi with #aspnetcore #websocket to an html page. had to tweak the fr/n",
+        "Text"
+    ],
+    [
+        "#faye for #nodejs is a great pub-sub framework : today we discovered it seamlessly degrades from websocket to polling depending on browser/n",
+        "Text"
+    ],
+    [
+        "rt @springcentral: oct 8th webinar: building websocket browser applications with spring http://t.co/glcpdk0ojk #websocket #http #sockjs #ja/n",
+        "Text"
+    ],
+    [
+        "rt @jeffbarr: new #aws application load balancer - containers, http/2, websocket - https://t.co/itjei2xiax #awssummit https://t.co/tdp9lc5x/n",
+        "Text"
+    ],
+    [
+        "rt @fryguy9: @crystalkemal websocket support is crazy easy to use.  had an end to end prototype done for my app in literally 10 minutes./n",
+        "Text"
+    ],
+    [
+        "long shot: anyone out there have any experience with websockets? trying to reverse engineer a websocket connection and having trouble./n",
+        "Text"
+    ],
+    [
+        "@dhh just said rails is taking websocket ideas from @elixirphoenix/n",
+        "Text"
+    ],
+    [
+        "nice websocket shootout article from @hashrocket https://t.co/njl1tjswqq/n",
+        "Text"
+    ],
+    [
+        "websocket over nginx http://t.co/jf40rrb4rf/n",
+        "Text"
+    ],
+    [
+        "@teabass @svenlito +1 @heroku now with websocket support!/n",
+        "Text"
+    ],
+    [
+        "platformability: iphone and ipad websocket support - http://bit.ly/fw790v #html5/n",
+        "Text"
+    ],
+    [
+        "sapui5 websocket app to send/receive whatsapp message   https://t.co/xdxansv1y7/n",
+        "Text"
+    ],
+    [
+        "rt @pocoproject: websocket (rfc 6455) support is in the 1.4.3 svn branch./n",
+        "Text"
+    ],
+    [
+        "added support for #amqp event in #playground #nodejs server http://is.gd/db1v0 and updated #playground websocket client http://is.gd/db1ws/n",
+        "Text"
+    ],
+    [
+        "beginning to add websocket-based communication to a fable app, want to try elmish.bridge and can't find any samples on that, except for a minimalistic ping-pong app. am i missing something?/n",
+        "Text"
+    ],
+    [
+        "draft 28 of the w3c websocket api is a pretty easy read at about 17 pages - check it out http://dev.w3.org/html5/websockets//n",
+        "Text"
+    ],
+    [
+        "rt @davidfowl: minimal websocket server using https://t.co/4pmxmqn7sx core https://t.co/eovq6qtrdi #aspnetcore/n",
+        "Text"
+    ],
+    [
+        "sad that i am home writing a talk on #django and #websocket support instead of watching @stevewoz at #wozccmm. y'all better live tweet!/n",
+        "Text"
+    ],
+    [
+        "developing real-time communication apps with websocket https://t.co/yog4pwtkvv #xamarin/n",
+        "Text"
+    ],
+    [
+        "rt @chromiumdev: websocket frame inspection now available in chrome devtools http://t.co/xfczedo6/n",
+        "Text"
+    ],
+    [
+        "going  live in ~5 minutes: #livecoding #java #vuejs #springboot #tdd.\n\ntoday we're going to get that darned websocket working! also fixing some broken styling and auto-draw cards when discard/play happens. lots still to do!\n\nhttps://t.co/uf8ncr03pi https://t.co/w7aume5q5y/n",
+        "Text"
+    ],
+    [
+        "if you need to load test websocket applications thor looks good https://t.co/lpdkhwoknn/n",
+        "Text"
+    ],
+    [
+        "rt @pentesterlab: want to learn more about cross-site websocket hijacking (cswsh)? check out our latest pro exercise: https://t.co/wlxclo5g/n",
+        "Text"
+    ],
+    [
+        "i'll read this later: announcing websocket apis in amazon api gateway https://t.co/bzdngb5cvs https://t.co/89liq50mct/n",
+        "Text"
+    ],
+    [
+        "rt @jfarcand: smartmoney www.smartmoney.com is live using atmosphere & wordnik! all wallstreet journal site soon #websocket #jquery #sca .../n",
+        "Text"
+    ],
+    [
+        "rt @xrtml: security video! learn about authentication in the realtime framework: http://t.co/gfd02zdn #xrtml #realtimeweb #websocket #html5/n",
+        "Text"
+    ],
+    [
+        "rt @firefoxdevtools: new in firefox 71:\n faster devtools\n websocket message inspector\n network full-text search\n network request bl/n",
+        "Text"
+    ],
+    [
+        "rt @awscloud: today's #awslaunches!\n amazon cloudfront announces support for the websocket protocol\n amazon cloudfront announces support/n",
+        "Text"
+    ],
+    [
+        "rt @justinvincent persistent whiteboard with node.js and websocket http://bit.ly/dfj8ig/n",
+        "Text"
+    ],
+    [
+        "websocket realtime rocks! @google: @chromeexp racer lets you race friends across 5 devices: http://t.co/myhcmhz8wu #io13 via @googlechrome/n",
+        "Text"
+    ],
+    [
+        "now @lamischebbi is talking about rxjs websocket subject #angularday https://t.co/zgh3ongaot/n",
+        "Text"
+    ],
+    [
+        "debugging low level websocket problems. wireshark will decrypt ssl from firefox, safari, curl. not chrome or chromium./n",
+        "Text"
+    ],
+    [
+        "the websocket demos at redev webtrack just blew my mind. the future is here it seems./n",
+        "Text"
+    ],
+    [
+        "rt @ticofab: published 1.0.0 of my #scala client for the @krakenfx apis, including the new websocket api. with #akka http, you can manage h/n",
+        "Text"
+    ],
+    [
+        "walkthrough: redis pub-sub pattern with javascript and websocket - http://t.co/afdetq4qsm/n",
+        "Lib"
+    ],
+    [
+        "rt @jfarcand: ahc 1.7.1 released http://t.co/chyiioqw #websocket #http/n",
+        "Text"
+    ],
+    [
+        "rt @mpenet: first release of little jetty9 wrapper for client/server websocket (using clj.core.async) + http server in #clojure https://t.c/n",
+        "Text"
+    ],
+    [
+        "@gfredericks_ it uses the websocket api, definitely more full featured than the irc bridge. https://t.co/pv9hqijtt0/n",
+        "Lib"
+    ],
+    [
+        "rt @segphault: just discovered that chrome dev tools lets you inspect entire message history of a websocket connection. very useful https://n",
+        "Text"
+    ],
+    [
+        "rt @peterlubbers: #html5conf websocket: http://tech.kaazing.com/ and http://www.websockets.org//n",
+        "Text"
+    ],
+    [
+        "@heroku still no support for websocket on cedar stack?/n",
+        "Text"
+    ],
+    [
+        "rt @virtualvoid: the autobahn websocket testsuite dockerized for those who can't be bothered with the python dependency hell: https://t.co//n",
+        "Lib"
+    ],
+    [
+        "rt @suaveio: suave v2 released! https://t.co/dmwmkmivsq  owin, .net core support, websocket fixes and much more! #fsharp #dotnet/n",
+        "Text"
+    ],
+    [
+        "rt @elixirphoenix: our benchmark summary by @thegazler is up!\nthe road to 2 million websocket connections in phoenix\n\nhttps://t.co/ingjcx/n",
+        "Text"
+    ],
+    [
+        "cool, a server for the new html5 websocket api now exists for .net http://nugget.codeplex.com/ #nugget #html5/n",
+        "Text"
+    ],
+    [
+        "rt @j_brisbin: how do i process millions of events per second in a websocket app? use #reactor http://t.co/s4xgxjihtx @projectreactor/n",
+        "Text"
+    ],
+    [
+        "in the video when i change a collection in atlas (left) it updates the collectionchangestream. these changes are sent to the tornado server running in my terminal (bottom right) which pushes them via a websocket to my browser. the browser writes them to my console (top right)/n",
+        "Text"
+    ],
+    [
+        "learn how to add websocket-powered functionality to your #laravel apps with these pusher tutorials https://t.co/dgnbrbmh0t/n",
+        "Text"
+    ],
+    [
+        "@brycekahle no up and close experiance but i know that @jcoglan's faye-websocket module includes a good one./n",
+        "Text"
+    ],
+    [
+        "just worked out a websocket example....! bliss and awesomeness..../n",
+        "Text"
+    ],
+    [
+        "in awdhesh kumar's #coldfusion10 and #websocket presentation #cfobjective/n",
+        "Text"
+    ],
+    [
+        "i missed chrome adding websocket debugging, thanks to @blackberry. pass on my love to whoever is responsible. http://t.co/citnkblg #html5/n",
+        "Text"
+    ],
+    [
+        "rt @reddit: websocket-based real time multiplayer game using html5 exclusively (with source) [programming] 14 points http://reddit.com/biks4/n",
+        "Text"
+    ],
+    [
+        "introduction to the java api for websockets course from @pluralsight authored by @kevinrjones http://t.co/06mpuqp5hx #websocket/n",
+        "Text"
+    ],
+    [
+        "released #mojolicious 2.93 with a more flexible router and a few important #websocket bug fixes, enjoy. :) https://t.co/anigcoxf #perl/n",
+        "Text"
+    ],
+    [
+        "wow! heroku has websocket support built in for new apps. \nhttps://t.co/v4phy693w4/n",
+        "Text"
+    ],
+    [
+        "rt @cy6ergn0m: just my first try to get #reactive #websocket client with #rxjava and #kotlin \nhttps://t.co/opcvnrt9lr/n",
+        "Text"
+    ],
+    [
+        "experiments with websocket performance -\nhttp://t.co/e4c7udv4 #html5 #gamedev/n",
+        "Text"
+    ],
+    [
+        "rt @mozhacks: mozilla's browserquest  a massively multiplayer html5 (websocket + canvas) game experiment: http://t.co/2smyln5z/n",
+        "Text"
+    ],
+    [
+        "rt @mahdi: \"introduction to #html5 websocket\" http://t.co/csxifedijr #mahdipicks/n",
+        "Text"
+    ],
+    [
+        "i'm adding a long-time wanted feature to @crystalkemal  accessing http context from websocket routes. https://t.co/5vlkr8wepd #crystallang/n",
+        "Text"
+    ],
+    [
+        "rt @wspruijt: nginx announces support for websocket protocol http://t.co/t81rb4ak/n",
+        "Text"
+    ],
+    [
+        "rt @zeroturnaround: adding #websocket endpoints on the fly with #jrebel and @springboot  http://t.co/t3nfpeukcu via @zeroturnaround/n",
+        "Text"
+    ],
+    [
+        "authentification et websocket, avec node.js, express, et socket.io http://bit.ly/n7ziyk via @naholyr et @fgribreau/n",
+        "Text"
+    ],
+    [
+        "@olivpetit @johannpardanaud @sergentrif @pdewost je confirme que dans ma console, aucune donne saisie ne remonte ct serveur , que ce soit en requete http ou en websocket \n\net le code source, que j'ai lu,utilise https://t.co/rfusvdzc0p pour gnrer le pdf ct client/n",
+        "Text"
+    ],
+    [
+        "rt @igrigorik: chrome extension that connects <textarea> directly to sublime (via a websocket): http://t.co/ieudr5mrz6 - fun proof of conce/n",
+        "Text"
+    ],
+    [
+        "rt @hoaproject: who's going to be the 300th stargazer of hoa/websocket?\n\nhttps://t.co/mlglkitpzg\n\ngo go go :-]! https://t.co/wlbemerl57/n",
+        "Text"
+    ],
+    [
+        "@kowalskitom @shortjared @jeremy_daly @forrestbrazeal @tmclaughbos @ben11kehoe @brianleroux @hichaelmart my colleague @simon_tabor also detailed the issues we found with other managed websocket option here https://t.co/hbwlrsbitr (some of which have been addressed since, like the appsync scalability issue)/n",
+        "Text"
+    ],
+    [
+        "rt @d6e:      rfc 6455 on the websocket protocol http://t.co/wacqgx78 ~/n",
+        "Text"
+    ],
+    [
+        "clusterws build scalable node.js websocket applications https://t.co/8cc3chuzqz/n",
+        "Text"
+    ],
+    [
+        "@stilkov html, css, javascript, http, ajax, websocket, pwa (progessive web apps), the semantic web, xml, json/n",
+        "Text"
+    ],
+    [
+        "websocket is such an amazing technology until it isnt/n",
+        "Text"
+    ],
+    [
+        "rt @sergiomscosta: why work with raw #websocket? use a framework. less hassle and transparent fallback http://t.co/xkajkmyk @rtwworld/n",
+        "Text"
+    ],
+    [
+        "@ddribin i update charts every 0.5s from a websocket connection, every time i open chrome web inspector it freezes. http://t.co/hryvf4jg/n",
+        "Text"
+    ],
+    [
+        "rt @realdonaldjs: over the coming months, we'll be deprecating webrtc, websocket, serviceworker, https, and anything else that can be misco/n",
+        "Text"
+    ],
+    [
+        "@ulfbjo scalable web clients via websocket for real time notification in one to many broadcasts. polling doesn't seem scalable as n goes up/n",
+        "Text"
+    ],
+    [
+        "@vineelreddy formatting is screwed up in schedule - http://t.co/rnf5ekt web workers and websocket shud be in diff line :) cc @abhisheknagar/n",
+        "Text"
+    ],
+    [
+        "python::: creating a simple python websocket server | toptal via @toptalllc https://t.co/sgi5mpkeow/n",
+        "Lib"
+    ],
+    [
+        "rt @jfarcand: camel 2.10 ships with a new websocket component http://t.co/nztslxx0 << ahc based http://t.co/kovpzdmp/n",
+        "Text"
+    ],
+    [
+        "websocket 101 http://t.co/xgvn8poe/n",
+        "Text"
+    ],
+    [
+        "rt @caplintech: platformability: why no websocket server api? by @martintyler http://bit.ly/i2t6fu #html5 #websocket/n",
+        "Text"
+    ],
+    [
+        "@roidelapluie @grafana yes, but only test streaming datasource. we have yet to build a proper websocket live datasource/n",
+        "Text"
+    ],
+    [
+        "websocket support nowavailable https://t.co/gapdi61lgr https://t.co/ntbsnu7etm/n",
+        "Text"
+    ],
+    [
+        "you know that thing that happens when you stare at a word too long? websocket. socket. socket. socket.../n",
+        "Text"
+    ],
+    [
+        "can someone recommend a good #nodejs websocket library without the baggage of socket.io?/n",
+        "Text"
+    ],
+    [
+        "rt @mnriem: what to do when a websocket errors? see https://t.co/rydnkgloje @jakartaee/n",
+        "Text"
+    ],
+    [
+        "@nicksergeant the only thing i seem to be missing in ff devtools is the websocket frame inspector./n",
+        "Text"
+    ],
+    [
+        "problem lies with #emsigner and browser websocket connection on https://127.0.0.1:1585 . can a portable java based filer can be made instead of using browser./n",
+        "Text"
+    ],
+    [
+        "@cmpscabral my idea was:\n- native listening for websocket\n- pwa connects\n- user authorizes\n- pwa controls native via ws\n- native gives feedback about which pwa are listening to what\n\nfrom flutter demo app i got this far  but i don't  really know what i'm doing here https://t.co/2wfrjvwzls/n",
+        "Text"
+    ],
+    [
+        "rt @igrigorik: chrome team is working on improved implementation of websocket: http://t.co/fyquinm1nh - mostly small things, but still, fyi/n",
+        "Text"
+    ],
+    [
+        "rt @nthonychu: made a real-time drawing canvas with #java #azurefunctions and #azure #signalr service\n\n#serverless #websocket https://t.co//n",
+        "Text"
+    ],
+    [
+        "exploring socket.io, a crossbrowser websocket library.../n",
+        "Text"
+    ],
+    [
+        "@kaikodata does your websocket api provide historical data access as well or it's real-time only?/n",
+        "Text"
+    ],
+    [
+        "rt @chromiumdev:  websocketstreamintegrating streams with the websocket api:\n\nprevent your app from getting drowned in websocket messages/n",
+        "Text"
+    ],
+    [
+        "a simple example of websocket based microservice architecure using akka-http in screactiveala https://t.co/snoaheasdt via @knolspeak/n",
+        "Text"
+    ],
+    [
+        "writing your own websocket server  #altdevblogaday http://t.co/6rd5fpin/n",
+        "Text"
+    ],
+    [
+        "scrapbox - react & websocketwiki -  - scrapbox https://t.co/uxwsf0lxxk/n",
+        "Text"
+    ],
+    [
+        "using websocket in .net 4.5 (part 4) - codeproject http://t.co/oh6bqjanwd/n",
+        "Text"
+    ],
+    [
+        "rt @jfarcand: extremely good introduction to atmosphere's websocket/comet http://t.co/nwefuior by @n_colomer/n",
+        "Text"
+    ],
+    [
+        "rt @rstoya05: #springsecurity 4 with #websocket support is almost ga https://t.co/qcmz6xfn7g/n",
+        "Text"
+    ],
+    [
+        "perlwebsocketmojolicioushttp://t.co/rib681wztz/n",
+        "Text"
+    ],
+    [
+        "are you following or interested in following a @jakartaee project? #beanvalidation, #jsf, restful web services (formerly #jax-rs), #cdi, #websocket or something else? the @jee_ambassadors want to know! please fill out this very quick survey: https://t.co/jtbmx3ih79./n",
+        "Text"
+    ],
+    [
+        "rt @mozhacks: inspect websocket (incl. @socketio) connections with @janodvarko's @firefoxdevtools addon!  https://t.co/1pea0xpnhv https:///n",
+        "Text"
+    ],
+    [
+        "rt @rubyinside: using rails 5 actioncable and rethinkdb to build a reactive websocket app: https://t.co/vnvr5i4djd/n",
+        "Text"
+    ],
+    [
+        "twitter and websocket support in upcoming apache camel 2.10 http://t.co/k6xuytdl @davsclaus great one/n",
+        "Text"
+    ],
+    [
+        "awesome rt @cillierscharl: i can't believe how awesome #signalr is; i've moved over completely from my websocket server./n",
+        "Text"
+    ],
+    [
+        "rt @yveshwang: websocket: the road to hell is paved with good intentions http://t.co/1zxyi67qdz/n",
+        "Text"
+    ],
+    [
+        "socky is looking like a really nice option for a ruby websocket server - http://bit.ly/dnvwdg/n",
+        "Text"
+    ],
+    [
+        "@mmajis @heitor_lessa yeah, its funny to have container for the long poll/websocket need :)/n",
+        "Text"
+    ],
+    [
+        "#websocket exchangedemo working!!! , tablet, ie,firefox & chrome its #beertine now ... #nodejs http://t.co/damxvms4u0/n",
+        "Text"
+    ],
+    [
+        "nginx 1.4 released with lots cool features like proxying of websocket connections + more http://t.co/8voaeffari/n",
+        "Text"
+    ],
+    [
+        "spring boot websocket https://t.co/chzfavic64/n",
+        "Text"
+    ],
+    [
+        "played with play2, scala, websocket and reactivemongo, posponded now. #sad. some good javascript tricks, jquery plugin #joyofcoding./n",
+        "Text"
+    ],
+    [
+        "@mark_sabbatical @tonyarnold @jmacmullin mostly perfect. it's pretty slim if you just need websocket + protobuf on top./n",
+        "Lib"
+    ],
+    [
+        "rt @feross: want to use webrtc easily? check out socket.io-p2p! nice api, websocket fallback. powered by my simple-peer package! https://t./n",
+        "Lib"
+    ],
+    [
+        "@erichoresnyi @streamdataio any idea why aws is sill using long pooling for their queues: https://t.co/fasrktiqzt. no sse, no websocket? o_o/n",
+        "Text"
+    ],
+    [
+        "dozed off trying to read the websocket spec? (i have) try this websockets from scratch (in ruby) tutorial instead http://t.co/xnzdmh9r8u/n",
+        "Text"
+    ],
+    [
+        "upgrading to ios 4.2.1 for mobile safari websocket and accelerometer support. excited to try node.js and socket.io for web apps./n",
+        "Text"
+    ],
+    [
+        "sockjs: #websocket emulation and abstraction http://t.co/pd1lydna #js #javascript/n",
+        "Text"
+    ],
+    [
+        "rt @nodejscommunity: arduino, nodejs, websocket : looks nice! http://t.co/dwr7s9ke #hype http://t.co/iyy5vkfu/n",
+        "Text"
+    ],
+    [
+        "so @keystonejs will be perfect for one project, but the lack of built-in websocket support means exploration continues. still, a great fw!/n",
+        "Text"
+    ],
+    [
+        "rt @reactql: new in reactql 3.5: easily deploy a client-only spa to any host (e.g. @netlify) with `npm run static` + graphql websocket `sub/n",
+        "Text"
+    ],
+    [
+        "httpd, mysqld, mongod and finally websocketd! https://t.co/7cv2yagrur #websocket #languageagnostic/n",
+        "Text"
+    ],
+    [
+        "amazon api gateway now supports tag-based access control and tags on websocket apis - https://t.co/jnmxijmsed @awscloud #amazon #aws/n",
+        "Text"
+    ],
+    [
+        "rt @java: microservice communication: service location and using rest protocol vs an event-like websocket protocol\n\n#microservice\n\nhttps:///n",
+        "Text"
+    ],
+    [
+        "socket.io: the cross-browser websocket for realtime apps. http://t.co/czl2hk5/n",
+        "Text"
+    ],
+    [
+        "experiments with websocket performance - the artillery blog http://t.co/6kjjovxk/n",
+        "Text"
+    ],
+    [
+        "rt @newsycombinator: jetty introduces websocket support (reluctantly) http://bit.ly/7tgcur/n",
+        "Text"
+    ],
+    [
+        "rt @arungupta: #javaone 2013 best sellers at the bookstore: #javaee7 essentials is ranked 2nd, websocket is 3rd! // @oreillymedia http://t./n",
+        "Text"
+    ],
+    [
+        "rt @imai_factory: websocketelbwebsocketelbwebsocketrfc http://t./n",
+        "Text"
+    ],
+    [
+        "websocket blew my mind right now./n",
+        "Text"
+    ],
+    [
+        "rt @jelastic: three steps to build a killer #websocket #app http://t.co/edq9xuig ^ms/n",
+        "Text"
+    ],
+    [
+        "whos doing nuts and bolts of #websocket ? @arungupta #devoxx http://t.co/naegftj6vx/n",
+        "Text"
+    ],
+    [
+        "rt @superdalgas: websocket library stackexchange.netgain is now open source: https://t.co/8xhhgrg0qv it powers all websocket traffic for st/n",
+        "Lib"
+    ],
+    [
+        "@milanloveless skill trade!  help our rubberduck me with a websocket and js spike/toy?  :)/n",
+        "Text"
+    ],
+    [
+        "deploying #websockets to #kubernetes?  my ingress/router now supports routing to websocket applications: https://t.co/qftmwyen8l #oss/n",
+        "Text"
+    ],
+    [
+        "streaming data arduino -> usb -> https://t.co/g3cyee1iph -> browser\n\n# arduino\nserial.write(\"hello\\n\");\n\n# server\n$ websocketd --port 1234 screen /dev/ttyxx 9600\n\n# browser\nlet ws = new websocket('ws://localhost:1234')\nws.onmessage = ({data}) => console.log('arduino said:', data)/n",
+        "Text"
+    ],
+    [
+        "rt @igrigorik: yay, nginx landed proper websocket upgrade + proxy support: http://t.co/bhsmrflj - at last!/n",
+        "Text"
+    ],
+    [
+        "rt @springcentral: <drum roll> announcing spring framework 4.0 ga! http://t.co/afxsb2bl7n #java #websocket #rest #javaee7 #springframework /n",
+        "Text"
+    ],
+    [
+        "foi-se a poca da escalabilidade fcil: https://t.co/d0ls53aj78 #heroku #websocket/n",
+        "Text"
+    ],
+    [
+        "camel marry jetty to support websocket http://t.co/qclb3hsq/n",
+        "Text"
+    ],
+    [
+        "ok, got the websocket infrastructure up and going! now time to work it into the app.../n",
+        "Text"
+    ],
+    [
+        "@brianleroux is that endpoint only for iot \"things\" or could i get a browser websocket connected to it?/n",
+        "Text"
+    ],
+    [
+        "just played about 2 hours of my old mud, would be cool if i can figure out an html5 websocket client for it #nostalgia/n",
+        "Text"
+    ],
+    [
+        "rt @napolux: \"the autobahn project provides open-source implementations of the websocket and web application...\" http://t.co/a0bauu4pzr/n",
+        "Text"
+    ],
+    [
+        "rt @atmo_framework: atmosphere session has been accepted next javaone: building powerful websocket, comet, and restful applications usin .../n",
+        "Text"
+    ],
+    [
+        "rt java: microservice communication: service location and using rest protocol vs an event-like websocket protocol\n\n#microservice\n\nhttps://t.co/pgx0ycf7ai java/n",
+        "Text"
+    ],
+    [
+        "rt @elijahmanor: websocket frame inspection now in chrome devtools by @paul_irish via @html5rocks #webdev http://t.co/zzbrrswi/n",
+        "Text"
+    ],
+    [
+        "rt @firefoxdevtools:  firefox 73  2nd release of 2020 \n\n wamp support in websocket inspector \n copying text in changes panel ignores +/n",
+        "Text"
+    ],
+    [
+        "yeni jee7 - ejb3.2,java serv.3.1,jms2,jax-rs2,websocket 1, con. util.1,jsf 2.2,bean val.1.1, expression lng. 3.0,cdi 1.1,batch apps,jpa 2.1/n",
+        "Text"
+    ],
+    [
+        "configuring & optimizing websocket compression: http://t.co/taqnncoqa4/n",
+        "Text"
+    ],
+    [
+        "#websocket #js    ,   ,        https://t.co/bxbizd5wgn/n",
+        "Text"
+    ],
+    [
+        "rt @dejanb: mqtt over websocket transport in activemq http://t.co/mg73zxwass/n",
+        "Text"
+    ],
+    [
+        "rt @hashrocket: the truth about websocket performance across languages (including c++)\n\njack christensen (@j3c10) breaks it down!\n\nhttps:///n",
+        "Text"
+    ],
+    [
+        "@wictor if only the mcafee web gateway had support for inspecting websocket traffic, this is the showstopper for a lot of enterprises (for now)./n",
+        "Text"
+    ],
+    [
+        "rt @masoudfatemi:      front-end developer     javascript(es) / reactjs / websocket       /n",
+        "Text"
+    ],
+    [
+        "fantastic websocket security talk by @jcoglan at #realtimeconf:  http://t.co/kwm5hfgq09.  (ps.  thanks for faye - fantastic module)/n",
+        "Text"
+    ],
+    [
+        "stomp.js - stomp (simple/streaming text orientated messaging protocol) over websocket http://t.co/4gnyr5o8ka http://t.co/k5ofv5bbyz/n",
+        "Text"
+    ],
+    [
+        "rt @juliangay: rt @stshank: robert gezelter says html5 websocket protocol could repeat earlier mistakes: http://bit.ly/iizmcb/n",
+        "Text"
+    ],
+    [
+        "rt @nbaksalyar: published the first part of my article on #rustlang that covers low-level details of websocket and rust basics: http://t.co/n",
+        "Text"
+    ],
+    [
+        "interesting #googleglass overview. #devoxx. websocket feedback from glass is really cool. http://t.co/hlg8mqeq7a/n",
+        "Text"
+    ],
+    [
+        "rt @peterlubbers: super excited that @franksalim and i will be presenting an #sfhtml5 + #gtugsf #websocket code lab on march 10th. http: .../n",
+        "Lib"
+    ],
+    [
+        "rt @randompunter: proxykit 2.1.0 is out: websocket support and typed handlers https://t.co/pbbkbjrucr/n",
+        "Text"
+    ],
+    [
+        "runway update: full websocket polyfill flash shim for using @leapmotion device w/ browsers that lack native wesockets: http://t.co/x6abjcxq/n",
+        "Text"
+    ],
+    [
+        "awesome! during today's stream: move to @elmlang as front-end for rails app; create chat where ui is in elm, websocket is rails action cable. as with most things rails, it just worked!! elm -> rails js library -> rails -> other browser -> rails js library -> elm/n",
+        "Text"
+    ],
+    [
+        "well-written architectural overview on websocket/stomp messaging architecture in spring 4.0 @springcentral  http://t.co/9wupab0jok/n",
+        "Text"
+    ],
+    [
+        "rt @elixirlang: learn more about how the discord team is using elixir and the erlang vm to deliver more than 26 million websocket events pe/n",
+        "Text"
+    ],
+    [
+        "use the realtime protocols with stateless php used to be difficult and even impossible. how to use the popular realtime protocols with php and swoole: server-sent event, websocket, http2 are included in https://t.co/ujguawjzjy #php #swoole #websocket #http2 #sse/n",
+        "Text"
+    ],
+    [
+        "rt @msdev_es: cundo usar una llamada http frente a un websocket? https://t.co/7jo722t49j https://t.co/gthlghsxcd/n",
+        "Text"
+    ],
+    [
+        "rt @trendinggolang: chris124567 / zoomer: chat bots (& more) for zoom by figuring out their websocket protocol https://t.co/k64pcesztq #gol/n",
+        "Text"
+    ],
+    [
+        "rt @springcentral: <drum roll> announcing spring framework 4.0 ga! http://t.co/rsqrkgp3vl #java #websocket #rest #javaee7 #springframework /n",
+        "Text"
+    ],
+    [
+        "playing with websocket chat server demo using cramp http://github.com/akitaonrails/cramp_chat_demo/n",
+        "Text"
+    ],
+    [
+        "rt @tdash0: @phpstudy ratchetwebsocketlt\nhttps://t.co/calkelyhlp/n",
+        "Text"
+    ],
+    [
+        "slides from my #velocityconf talk: high performance websocket https://t.co/fa2uxgupcr/n",
+        "Text"
+    ],
+    [
+        "rt: @infoq: html5 labs launched and websocket update http://bit.ly/ewa3ky/n",
+        "Text"
+    ],
+    [
+        "rt @java: how to a build and run a websocket based #microservice - using a chat sample app #java \n\nhttps://t.co/qtbpbuojrf https://t.co/zxx/n",
+        "Text"
+    ],
+    [
+        "@fedor @grpcio i found for websocket it was gae or add your own single region frontend load balancer to gcp.  is it same for gke?/n",
+        "Text"
+    ],
+    [
+        "so, a fast c-based websocket vnc server on the same machine would send frames and theyd get buffered irretrievably before proxy started./n",
+        "Text"
+    ],
+    [
+        "rt @bennadel: i finally get it! coldfusion 10 websocket filters and channel listeners are mutually exclusive! http://t.co/8lopojwq/n",
+        "Text"
+    ],
+    [
+        "websocket ... firefoxs new websocket inspector  mozilla hacks - the web developer blog https://t.co/wllithduh3/n",
+        "Text"
+    ],
+    [
+        "@kslisenko websocket talk https://t.co/qncfbsoefz/n",
+        "Text"
+    ],
+    [
+        "does #websocket work only in chrome and safari?/n",
+        "Text"
+    ],
+    [
+        "@glenathan ahh its getting late now. wanted to talk about rabbit messaging and distributed websocket servers. you would be my goto for that/n",
+        "Text"
+    ],
+    [
+        "using #websocket in .net 4.5 (part 1): http://t.co/lzhjls3jfm/n",
+        "Text"
+    ],
+    [
+        "the latest #websocket spec looks really good, basic client/server implementation took only one evening. #perl #html5/n",
+        "Text"
+    ],
+    [
+        "@paulchinjr that's interesting. some kind of $reconnect would be cool too, although not in the websocket spec. like server-sent events, you could know if they reconnect and what their last seen message id was/n",
+        "Text"
+    ],
+    [
+        "@finnpoitier i want that feature so much. we are working on it but there's some other big stuff that will ship first. fauna's event based data model is designed for this, so while push/websocket would be a convenience and an optimization, you could build a polling tool that pushes correctly./n",
+        "Text"
+    ],
+    [
+        "broadcasting conference calls to browsers by @sammachin \n\n  @nexmo  websocket  @heroku  websockets   https://t.co/x47d3imkhh/n",
+        "Text"
+    ],
+    [
+        "@ericlaw it has that header, but no useful information.\n\ni somehow suspect the websocket on the page is interfering with this. can't dupe when i turn the live reload off. but not sure what could interfere with a page already loaded. https://t.co/8yutonorhu/n",
+        "Text"
+    ],
+    [
+        "rt @springcentral: #springsecurity 4.0rc2 big improvements w/ #websocket and httpresponse headers http://t.co/euvr78swbx  #java #security #/n",
+        "Text"
+    ],
+    [
+        "rt @arungupta: java api for websocket is now jsr 356: http://t.co/ns5nr3ak/n",
+        "Text"
+    ],
+    [
+        "rt @javacodegeeks: #html5 websocket example - #web #programming http://t.co/gio8gpmmex/n",
+        "Text"
+    ],
+    [
+        "tender surrender: websocket http://t.co/jcthjvhs/n",
+        "Text"
+    ],
+    [
+        "cloudrwebsocket/n",
+        "Text"
+    ],
+    [
+        "rt @tjanczuk: just shipped iisnode 0.2.0 with websocket support: host #nodejs websocket and http apps in iis 8 on windows http://t.co/md .../n",
+        "Text"
+    ],
+    [
+        "rt @demisbellot: alchemy websockets looks interesting: \"an extremely efficient c# websocket server for .net projects.\" \nhttp://t.co/rp3fmuow/n",
+        "Text"
+    ],
+    [
+        "bristleback is a modern, complete websocket framework written in java and javascript, powered by spring framework. http://t.co/tgzahhqiig/n",
+        "Text"
+    ],
+    [
+        "build a simple #xamarinforms chat app that leverages and connects to an https://t.co/y9erv6ivvl core #websocket: https://t.co/u3wk0fzgbu https://t.co/qicrfg3qio/n",
+        "Text"
+    ],
+    [
+        "good to see websocket support introduced in nginx ~5 hours after i tweeted about ;-) http://t.co/zhygm8o0/n",
+        "Text"
+    ],
+    [
+        "informative article about http/2, sse and how they compare to websockets. \"will websocket survive http/2?\" https://t.co/abrjriqqln #web/n",
+        "Text"
+    ],
+    [
+        "completely async nonblocking #node.js websocket app handles only 3k connections. wtf?? #work/n",
+        "Text"
+    ],
+    [
+        "rt @lmorchard: aww, sadness: websocket disabled in firefox 4 beta due to security vulnerabilities in the protocol itself http://mzl.la/e .../n",
+        "Text"
+    ],
+    [
+        "rt @craigatk1: using websockets in a @ratpackweb app (including different types of websocket tests) https://t.co/tpgbmmfkig/n",
+        "Text"
+    ],
+    [
+        "rt @patrickdebois: oh boy - websocket server in bash script - https://t.co/1s0ekwbu/n",
+        "Text"
+    ],
+    [
+        "@aphyr hey man, i did a performance test on riemann, seems like it cant handle 7k evnts/s, plus websocket subs delays minutes in 10m. idea?/n",
+        "Text"
+    ],
+    [
+        "let mutable sockets = list<websocket>.empty\n\noh, boy... there are mutable data structures just for that./n",
+        "Lib"
+    ],
+    [
+        "spent some time to implement websocket with an actor using @playframework 2.5, and succeeded despite lack of documentation./n",
+        "Lib"
+    ],
+    [
+        "rt @jimjag: yes, apache httpd 2.4.6 *does* support websocket proxy tunneling http://t.co/sjyobatet6/n",
+        "Text"
+    ],
+    [
+        "@jcoglan check out http://t.co/9tfwfgtytq they do streaming over websocket. i think there's a technical explanation why somewhere./n",
+        "Text"
+    ],
+    [
+        "rt @kaazing: why websocket is hot *and* cool  youdig? https://t.co/pgjr1tqzpk https://t.co/mc2ajokf0n/n",
+        "Text"
+    ],
+    [
+        "https://t.co/gg9tigqefd : teste de carga para websocket. gostei da ideia. #production_ready/n",
+        "Text"
+    ],
+    [
+        "rt @jordanorelli: looking to talk to some other engineers that work on multiplayer servers. i'm managing websocket servers with large conne/n",
+        "Text"
+    ],
+    [
+        "rt @bassman54321: rt @dzone: apache camel now with twitter and websocket - http://t.co/ptkoom6u  < nice twitter interface well done @ .../n",
+        "Text"
+    ],
+    [
+        "@christiekoehler  that is exactly the same reason i'm at websocket as well...and jquery ui is too introductory #oscon/n",
+        "Text"
+    ],
+    [
+        "rt @mwessendorf: \"cloud server monitor\": a nice #canvas and #websocket demo, that uses the #kaazing #stomp javascript client: http://goo .../n",
+        "Text"
+    ],
+    [
+        "mr. @denizozger diligently benchmarked and compared #websocket libraries for #nodejs: https://t.co/e2azpyc1np/n",
+        "Text"
+    ],
+    [
+        "@psychemedia your local filesystem, but kernel running on https://t.co/tx1ttq3xyj? either notebook server needs to be able to spawn kernels elsewhere other than the host it is running in, or you can do some sort of zmq / websocket proxy. first is the 'right' thing to do.../n",
+        "Lib"
+    ],
+    [
+        "rt @superfeedr: hey, if anyone is looking for  a hybrid #pubsubhubbub + #websocket server for @node_knockout, we made one http://bit.ly/ .../n",
+        "Text"
+    ],
+    [
+        "rt @thepracticaldev: ruby on rails takes on node.js with websocket support, api mode https://t.co/8w2m9cryjw #rails #rails5/n",
+        "Text"
+    ],
+    [
+        "rt @igrigorik: woot, looks like we'll have websocket support in goliath.. shortly. ex: http://bit.ly/ehzrik/n",
+        "Text"
+    ],
+    [
+        "@fossdotin u guys hv something to monitor ur tweet stream live? i could do something like http://inagist.com/wikileaks/live - websocket reqd/n",
+        "Text"
+    ],
+    [
+        "rt @chrismunns: announcing websocket apis in amazon api gateway https://t.co/wjxohj75il #amazonapigateway #serverless #websockets via @dgom/n",
+        "Text"
+    ],
+    [
+        "my changes pulled into a public github project. i contributed \\o/ https://github.com/superfeedr/ejabberd-websockets (js websocket -> xmpp)/n",
+        "Text"
+    ],
+    [
+        "new saas idea: websocket-enabled, webgl, webcomponent visitor counters./n",
+        "Text"
+    ]
+]

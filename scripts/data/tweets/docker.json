@@ -1,0 +1,1534 @@
+[
+    [
+        "rt @apacheaurora: aurora adopter @tellapart blogs about their recent contribution to add native docker support to #apacheaurora http://t.co/n",
+        "Lib"
+    ],
+    [
+        "hey @javascriptla, @kellyjandrews is stopping by 7/13 to talk about locally running #docker apps and ci/cd\n\nhttps://t.co/qri8rft2pu/n",
+        "Lib"
+    ],
+    [
+        "rt @_jose_oc: #java 9 will adjust memory limits if running with #docker, although not by default https://t.co/flxotispgz/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: life and death of a @docker #container by #dockercaptain @lherrerabenitez: https://t.co/m7ukprzkjr https://t.co/wtxuiblf4h/n",
+        "Lib"
+    ],
+    [
+        "finally getting to grips with #docker, and am impressed so far. next step is to build my own image based on #alpine, then grow it from there/n",
+        "Lib"
+    ],
+    [
+        "#rational solutions as#docker containers https://t.co/rz4q5zj1kf/n",
+        "Lib"
+    ],
+    [
+        "@overflowhidden seems to be a local issue, mine goes into sleep fine. having multiple node processes running.\n\ndoes the node process run in docker?/n",
+        "Lib"
+    ],
+    [
+        "learn docker by building a microservice by @dwmkerr https://t.co/pimeovrgov/n",
+        "Lib"
+    ],
+    [
+        "this is the kind of highly technical subjects the docker engineering team based in paris & cambridge are working on. want to join us? were hiring : https://t.co/dbte2silry https://t.co/loupkspeyi/n",
+        "Lib"
+    ],
+    [
+        "rt @bjburton: a devops engineer walks into a bar, puts the bartender in a docker container, put kubernetes behind the bar, spins up 1000 ba/n",
+        "Text"
+    ],
+    [
+        "@grafana @influxdb @docker @apachejmeter \n\nhttps://t.co/hbofyhbu9s\n\n#testing #performancetesting #performanceengineering #performance #loadtesting #jmeter #qainsights #influxdb #docker #grafana/n",
+        "Lib"
+    ],
+    [
+        "windows shops want docker-style containers, and microsoft is on it #devops http://t.co/ymk5ja079x/n",
+        "Lib"
+    ],
+    [
+        "is it possible to automatically apply a content pack after @graylog2 boot? would be super useful for a docker dev. env. container/n",
+        "Lib"
+    ],
+    [
+        "@rojepp you could get pretty far by not using a shared dev db. every dev machine should be able to recreate the production schema on a local db from migrations kept in src. look at dbup plus docker-compose./n",
+        "Lib"
+    ],
+    [
+        "rt @jonjagger: cyber-dojo (https://t.co/omvd6vgshu) now runs in a docker container. installing your own server's *much* simpler :-) https://n",
+        "Lib"
+    ],
+    [
+        "discourse doesn't play nice on nginx proxy + firewall server, guess i'll just put the docker container in a lxc container then #containers/n",
+        "Lib"
+    ],
+    [
+        "rt @takapi86: \ndocker -  https://t.co/x6od2pds97 #pepabo/n",
+        "Lib"
+    ],
+    [
+        "rt @carlospaulinor: just published my docker image for building android apps https://t.co/x66l4t0gvg. it uses sdkmanager + works great with/n",
+        "Lib"
+    ],
+    [
+        "@rokitsalad @shanselman curious if you've played with docker windows containers or not/n",
+        "Lib"
+    ],
+    [
+        "rt @lemiorhan: let's clarify:\n* github is not git\n* android is not java\n* unit test is not tdd\n* java is not oop\n* docker is not devops\n* j/n",
+        "Lib"
+    ],
+    [
+        "#icymi: docker enterprise 2.1  is the first and only enterprise container platform for both #windows and #linux applications  and its available now! https://t.co/poefw0x0cc https://t.co/z3qoslt1ge/n",
+        "Lib"
+    ],
+    [
+        "pumba  chaos testing for docker by @alexeiled https://t.co/ute3ex1wcx/n",
+        "Lib"
+    ],
+    [
+        "the simple way to run docker-in-docker for ci https://t.co/lmwhdgmcsl/n",
+        "Lib"
+    ],
+    [
+        "i made an example project for haskell with docker deployment, including ci: https://t.co/al5ijxyfrj/n",
+        "Lib"
+    ],
+    [
+        "rt @reddit_haskell: [ann] merry christmas: ghc head for all! (on linux, with docker/lxc containers) http://t.co/keiwhrgdgd/n",
+        "Lib"
+    ],
+    [
+        "3 days left! book our feb 10 docker course and hone your developer skills with our expert it training in windhof, luxembourg. https://t.co/kkcz8gibyp #docker #developer #ittraining https://t.co/wv9zdbqn8i/n",
+        "Lib"
+    ],
+    [
+        "rt @sebhiticas: docker story  #developer #docker #devops #funny https://t.co/bkppbbzzhi/n",
+        "Lib"
+    ],
+    [
+        "advanced deployment of ghost in 2 minutes with docker  http://t.co/2ouq9je2b2/n",
+        "Lib"
+    ],
+    [
+        "rt @cloudrunnerio: congrats to the @docker team, the hottest cloud startup in the west http://t.co/jdfwoejvrl/n",
+        "Text"
+    ],
+    [
+        "rt @spidler: so. docker is a daemon, a version control tool, an orchestration tool, a package manager, an init system, and encourages curl/n",
+        "Lib"
+    ],
+    [
+        "is there anybody who has tried to deploy a jhipster generated project using #openjdk 12-ea?!  #lazyweb #modules #docker/n",
+        "Lib"
+    ],
+    [
+        "@cecilphillip i  all of the work that is currently going on in \n\n#wsl\n#vscoderemote\n#windowsterminal\n#cascadiacode\n#docker\n\ni'm starting not to miss my mbp when i'm coding in windows anymore/n",
+        "Lib"
+    ],
+    [
+        "rt @thepracticaldev: modern dev/test/prod environments using docker compose https://t.co/d6ftzcshuz/n",
+        "Lib"
+    ],
+    [
+        "rt @simonbrown: this is why paas makes sense for many teams, if theyre actually willing to explore it rather than focusing on docker, etc./n",
+        "Lib"
+    ],
+    [
+        "what has soundcloud learnt about microservices? by @pcalcado #architecture #docker #microservices http://t.co/rmxqolk4y5 via @slideshare/n",
+        "Lib"
+    ],
+    [
+        "i'm going to \"august docker meetup\".  see you there? https://t.co/yqqtauj0i7 via @eventbrite/n",
+        "Text"
+    ],
+    [
+        "rt @pythonweekly: yacron - a modern cron replacement that is docker-friendly. https://t.co/nixqeaykkb #python #docker/n",
+        "Lib"
+    ],
+    [
+        "@rponte wsl2, melhor opo.\n100% linux, pode rodar docker e tudo mais! \n\nrecomendo usar essa config no seu .wslconfig para evitar problemas com vazamento de memoria:\n\n[wsl2]\nmemory=4gb\nswap=16gb\nlocalhostforwarding=true/n",
+        "Text"
+    ],
+    [
+        "rt @developerworks: learn how to use docker containers and kubernetes clusters, the building blocks of the next generation of #devops. http/n",
+        "Lib"
+    ],
+    [
+        "quite amazed at the reduction in docker image size by using a standalone application and assembly trimming. probably worth a quick blog post./n",
+        "Lib"
+    ],
+    [
+        "rt @danielfe: visual studio loves @docker - download vs for docker later today #bldwin http://t.co/hjepn35gja/n",
+        "Lib"
+    ],
+    [
+        "rt @spengietz: one-liner #docker escape from #gcp's cloud shell to the host os:\n\nsudo docker -h unix:///google/host/var/run/docker.sock run/n",
+        "Lib"
+    ],
+    [
+        "rt @javacodegeeks: a guide for dockerizing a #java app on 28 different application stacks - #docker #devops https://t.co/y1opycsglk https://n",
+        "Lib"
+    ],
+    [
+        "the deepest docker container is pushing out directly to @buildbox, which i'm reading from os x/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: orchestrating @docker containers in production using fig http://t.co/dnbfo6mrbd by @bfirsh/n",
+        "Lib"
+    ],
+    [
+        "rt @rgardler: simple load balancing for docker containers http://t.co/rutwurmpuf #docker/n",
+        "Lib"
+    ],
+    [
+        "answer:why docker has ability to run different linux distribution? [closed] https://t.co/gtaefcpmtm/n",
+        "Lib"
+    ],
+    [
+        "rt @javaee_guardian: develop, build and run (with docker!) java ee 8 powered microservices. https://t.co/9xv4o3khkt https://t.co/x9kvk0j0lb/n",
+        "Lib"
+    ],
+    [
+        "docker all the things!/n",
+        "Text"
+    ],
+    [
+        "visualops ceo asks: is docker leaving immutable infrastructure? http://t.co/ulvrleorch/n",
+        "Lib"
+    ],
+    [
+        "rt @digitalocean: learn how to install and configure @docker with this tutorial from cloud expert @janakiramm https://t.co/itpbbk49ef/n",
+        "Lib"
+    ],
+    [
+        "rt @scottgu: windows server containers with docker support is now in public preview.  i just blogged details: https://t.co/qruiha1nfz/n",
+        "Lib"
+    ],
+    [
+        "why does @docker  \"require\" you to create an account to download dfw? the main \"download from docker store\" link takes you to a login page. highly unneccessary! luckily if you scroll down a bit (https://t.co/j0bfrc388g) you get a direct link to the installer./n",
+        "Lib"
+    ],
+    [
+        "rt @docker: learn how to secure content on your distributed applications with #docker trusted registry: https://t.co/xb05by3djn https://t.c/n",
+        "Lib"
+    ],
+    [
+        "rt @sdelamo: groovy calamari #168  https://t.co/9jwh595pzc the @testcontainers issue. mentions to: @kiview @michakutz  #micronaut #docker/n",
+        "Lib"
+    ],
+    [
+        "rt @jongalloway: wpscan is a nice wordpress security scanner: https://t.co/dclczcqdb6\n\ndocker run -it --rm wpscanteam/wpscan -u [yourblogur/n",
+        "Lib"
+    ],
+    [
+        "rt @particularsw: #nservicebus on #docker, with the rabbitmq transport - the complete sample https://t.co/mjy32q0kfj/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: great post from @open_listing on moving their @wercker #ci to the new @docker stack via this week's #dockerweekly: https://t.co/n",
+        "Lib"
+    ],
+    [
+        "bon ben, je me risque et je propose a #confoo: http://t.co/5qhicoo6p8 dploiement standard et sans surprise avec docker/n",
+        "Text"
+    ],
+    [
+        "@jazzychad @jzucker besides that stuff, it would be great if you could do code review from your phone and have it be a good experience. maybe it could boot up a (docker?) (terminal?) session on a server somewhere so you could run tests or profile different versions of code. it would be difficult/n",
+        "Lib"
+    ],
+    [
+        "rt @thevarguy: logentries taps docker ecosystem with logging container http://t.co/xkdem2a7xk/n",
+        "Lib"
+    ],
+    [
+        "check out the #docker #tutorial! https://t.co/vonrze9rwy/n",
+        "Lib"
+    ],
+    [
+        "open-sourcing the modulus docker images http://t.co/7ebvvlyh3i/n",
+        "Lib"
+    ],
+    [
+        "what are you most looking forward to at #dockercon 2017? https://t.co/ngacx24gyd @docker @bgracely @cloud_opinion/n",
+        "Lib"
+    ],
+    [
+        "docker run vs exec: reference and key differences by @ryanwhocodes https://t.co/st0hpxsaon/n",
+        "Lib"
+    ],
+    [
+        "\"securing the enterprise software supply chain using docker\" #devops #feedly https://t.co/noh7zh1eee/n",
+        "Lib"
+    ],
+    [
+        "rt @andreaskoop: nice! oracle embraces @docker tech #oow15 https://t.co/r1338mbuet/n",
+        "Lib"
+    ],
+    [
+        "how to install docker in ubuntu 14.04 and up - https://t.co/vi40v4nzm0/n",
+        "Lib"
+    ],
+    [
+        "learn how the auditd package can help you find weaknesses in your system. #docker #linux https://t.co/qarprzhc5t/n",
+        "Lib"
+    ],
+    [
+        "thanks to everyone who came to my #thatconference talk on @docker. slides are available at https://t.co/dmrxbbuss8/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: take 10 and read up on basic concepts of #docker: https://t.co/btwnwbh9vi/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: see how #docker enterprise edition container platform fuels digital transformation @assaabloy https://t.co/26tm0ohzwx https://t/n",
+        "Lib"
+    ],
+    [
+        "release management with #docker and #tfs (#vsts) is a cool way to go! https://t.co/5opuvzwvr8/n",
+        "Lib"
+    ],
+    [
+        "rt @chanezon: #dockercon alex deploys @springjuergen's jpetstore app on @docker ee, aks, eks, gke in different regions: multi cloud, hybrid/n",
+        "Lib"
+    ],
+    [
+        "rt @foone: so i learned of an amusing bug today:\n\ndocker for windows won't run if you have the razer synapse driver management tool running/n",
+        "Lib"
+    ],
+    [
+        "rt @danwahlin: need something to do this weekend? check out how docker can help simplify your web dev workflow.  https://t.co/tqpvin4zic #d/n",
+        "Lib"
+    ],
+    [
+        "rt @marabou: \"your code doesn't work!\" \"it works on *my* machine.\" \"fine, we'll ship your machine!\"\n\nand that's how docker started :)/n",
+        "Lib"
+    ],
+    [
+        ". @jira any chance of an official docker image?/n",
+        "Lib"
+    ],
+    [
+        "now, don't get me wrong. i'm a big fan of docker and some other shiny new stuff. but what younger developers and \"software architects\" need to learn is that in many cases \"legacy\" technology gets the job done very well. 6/6/n",
+        "Lib"
+    ],
+    [
+        "#docker on #windowsserver 2016 tech preview 5, blog post > https://t.co/bbclkhconl/n",
+        "Lib"
+    ],
+    [
+        "rt @seyos_recrut:  @vdemeest nous prsente lintgration de #kubernetes dans #docker ce soir !\naprs le talk, on se dirige vers lapro /n",
+        "Lib"
+    ],
+    [
+        "uh-oh !!! \naws about to launch a public container registry. \nthis is clearly aimed at docker. mixed feelings about this.\nhttps://t.co/ghwd5naveb/n",
+        "Lib"
+    ],
+    [
+        "join @eltonstoneman at .net #developer days to hear his talk \"modernizing .net monoliths with docker and kubernetes.\" https://t.co/qs6wtxgrep #netdd https://t.co/cuwvfdk4ti/n",
+        "Lib"
+    ],
+    [
+        "dockerizing an existing postgres rails app and using docker compose https://t.co/jcxiy2xl7t/n",
+        "Lib"
+    ],
+    [
+        "automated nginx reverse proxy for docker  https://t.co/dm562c3s3t/n",
+        "Lib"
+    ],
+    [
+        "rt @stefscherer: start a wireless #docker project and #pizerow with @hypriottweets release 1.4.0. set wifi, hostname and disable uart in on/n",
+        "Lib"
+    ],
+    [
+        "@gitlab if using a docker runner, is there a way to know which named volume or build container/service currently holds the repository files?/n",
+        "Lib"
+    ],
+    [
+        "hope to see everyone at the @docker meetup next tuesday jan 24 where @iceycake will be sharing @ticketmaster learnings reducing dev friction https://t.co/7kz7eig3jg/n",
+        "Lib"
+    ],
+    [
+        "@jpetazzo /shrug i don't trust docker hub with the 6mo delete your images change. i've been mostly scp'ing images around lately anyway, so definitely didn't know the \"netlify as registry\" approach/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: .@microsoft, @docker bid to bring linux-y containers to @windows : what you need to know http://t.co/lcfix4kg4n via @theregister/n",
+        "Lib"
+    ],
+    [
+        "rt @rmelody: look who's helping build docker -- besides docker itself http://t.co/59vi4naye9 http://t.co/db12uaiqsf/n",
+        "Lib"
+    ],
+    [
+        "@joshmetnick @docker @tutumcloud thanks for the kind words, josh!/n",
+        "Text"
+    ],
+    [
+        "rt @docker: write once and really run anywhere with @openstack and @docker http://t.co/mqkh0choe4 by @golubbe, @aslaen & @nickstinemates /c/n",
+        "Lib"
+    ],
+    [
+        "rt @graalvm: small & fast docker images using graalvms native-image a blog post by @adamwarski: https://t.co/qgqfe517q1/n",
+        "Lib"
+    ],
+    [
+        "rt @chanezon: https://t.co/5sj8qumzbt \"spring still dominates, spring boot is on an exponential curve\" spring boot + docker https://t.co/hq/n",
+        "Text"
+    ],
+    [
+        "rt @joeingeno: #docker tips and tricks https://t.co/7mtxusdbxq/n",
+        "Lib"
+    ],
+    [
+        "@chrismckee problem with docker is that its a huge complexity that most people dont need. unless youre a paas you probably dont need containers./n",
+        "Lib"
+    ],
+    [
+        "from zero to continuous delivery with docker, day 1 https://t.co/czzhe8pfrv/n",
+        "Text"
+    ],
+    [
+        "@sublimino @ben_hall @containercamp \"but i need the docker socket mounted into my nginx container\" https://t.co/ar9ywlivyy/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: just released: #dockerswarm 1.0 - production-ready clustering at any scale https://t.co/nzd3wem39n https://t.co/zcrxgdtcla/n",
+        "Lib"
+    ],
+    [
+        "identityserver4 on docker https://t.co/xyledzrxwg/n",
+        "Lib"
+    ],
+    [
+        "a new introduction to docker https://t.co/irucddxseb/n",
+        "Lib"
+    ],
+    [
+        "@otobrglez @smotko if i'm not mistaken you couldn't use multiple from's in single docker file, before multi-stage builds were introduced. that is why you had to use multiple docker files./n",
+        "Lib"
+    ],
+    [
+        "rt @ben_hall: we've launched a series of free interactive scenarios to learn how to run .net on docker. try them at https://t.co/h5hvfaarwb/n",
+        "Lib"
+    ],
+    [
+        "rt @dgageot: marcel dans marcel: `docker run dgageot/marcel` the container that can run marcel inside marcel/n",
+        "Lib"
+    ],
+    [
+        "new from @ibmredbooks - getting started with z/os container extensions and docker\nhttps://t.co/fpbpzcqddb https://t.co/iliv9ony8g/n",
+        "Lib"
+    ],
+    [
+        "interesting: my @twc dns servers were jacking up ip resolution within @docker containersbut only _some_ containers. /n",
+        "Lib"
+    ],
+    [
+        "why im i getting the feeling that the whole k8s/docker/serverless world is going down the same road as the javascript world? there are too many separate tools/frameworks/... that change way too quickly, have a short lifetime, no real standards, ... #gotoams #toomanychoices/n",
+        "Lib"
+    ],
+    [
+        "azure developer workshop (storage, cognitive, ml, stream analytics, containers, and docker) https://t.co/4l9vwsuwdc/n",
+        "Lib"
+    ],
+    [
+        "scaling engineering with docker http://t.co/3azl9ce9s8/n",
+        "Lib"
+    ],
+    [
+        "@burdzwastaken looks like it runs as python in lambda, and subprocesses to udocker which executes docker containers in a non-root manner/n",
+        "Lib"
+    ],
+    [
+        "rt @alberttanure: #workshopaspnetcore @rodrigokono  @rsantosdev  @mvpaward wonderful #circleci #mssqlserverlinux #azure #docker #linux #vsc/n",
+        "Lib"
+    ],
+    [
+        "thx @cloudiussystems @kgoslar @swrobel 4 input on latest post http://t.co/ycovld90fn after docker: unikernels & immutable servers/n",
+        "Lib"
+    ],
+    [
+        "rt @shanselman: how to set up docker within windows system for linux (wsl2) on windows 10 \nhttps://t.co/xvhen5fuof/n",
+        "Lib"
+    ],
+    [
+        "rt @skreuzer: #freebsd port of #docker has hit the ports tree https://t.co/ciorwamm4c/n",
+        "Text"
+    ],
+    [
+        "rt @flexlingie: @gegere @fredjean #docker and coffee/n",
+        "Text"
+    ],
+    [
+        "rt @docker: thanks to our today's awesome keynote speakers! #dockercon http://t.co/ip2wnvvjwj/n",
+        "Lib"
+    ],
+    [
+        "@rbirkby kind of, i think main purpose of docker is that you fully use power of you machine + insolation/n",
+        "Lib"
+    ],
+    [
+        "so, mal sehn ob ich docker unter gentoo dazu bekomme mit gitlab-ci zusammen zu arbeiten. das klingt als wrde das zusammen passen./n",
+        "Text"
+    ],
+    [
+        "#docker announcing caas. get visibility into docker containers with @sumologic https://t.co/6id5czvvce/n",
+        "Lib"
+    ],
+    [
+        "rt @bells17_: kuberneteskubelet \"kubeletkubernetes\" #docker #techfeed https://t.co/ddmhi1/n",
+        "Text"
+    ],
+    [
+        "bluemix launches docker-based ibm containers service beta http://t.co/xmuexim7nf/n",
+        "Lib"
+    ],
+    [
+        "what's the argument for using cm to build docker images? if you're limited by the dockerfile then you're going in the wrong direction./n",
+        "Lib"
+    ],
+    [
+        "been very happy using docker and @digitalocean  in our work @boomerdigital there are only a few features such as shared block storage something like efs, that are missing. but for most use cases do is an excellent solution.    do terraform ftw! https://t.co/vz4rkonu69/n",
+        "Lib"
+    ],
+    [
+        "docker for #php developers http://t.co/qiurnn6urz/n",
+        "Text"
+    ],
+    [
+        "look into microservices. docker. coreos. its the future! http://t.co/owghvdzrmt #yagni/n",
+        "Lib"
+    ],
+    [
+        "mapr whips out a pack of aces, eyes up containing #docker users\nhttps://t.co/pn5q9q8mpm/n",
+        "Lib"
+    ],
+    [
+        "docker machine basescript https://t.co/ufxfvxqexm/n",
+        "Lib"
+    ],
+    [
+        "running database services with persistent storage on docker containers \nhttps://t.co/awjss7mxlh #cio #devops #docker/n",
+        "Lib"
+    ],
+    [
+        "rt @icecrime: the unification of @docker user experience and @kubernetesio production robustness is a big deal./n",
+        "Lib"
+    ],
+    [
+        "@gotocph @docker @diogomonica spread the good word people!/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: exciting news! #docker for desktop is certified #kubernetes! https://t.co/ygvs5oereg/n",
+        "Lib"
+    ],
+    [
+        "@gausby sounds like you could add some smoketests using docker?/n",
+        "Lib"
+    ],
+    [
+        "\"continuous delivery to microsoft #azure with# docker\" - via @jamesvandenberg #continuousdelivery\n\nhttps://t.co/8jw5cbwwie/n",
+        "Lib"
+    ],
+    [
+        "sql server 2017 generally available, first version to run on linux and docker - techgenix (blog) https://t.co/xnnel6wmg4/n",
+        "Lib"
+    ],
+    [
+        "101 paneltechdays - exprimiendo docker: https://t.co/5znsscouim va @youtube/n",
+        "Lib"
+    ],
+    [
+        "rt @react_tutorial: react and flux: a docker development workflow.  https://t.co/v7zpcgplsw/n",
+        "Lib"
+    ],
+    [
+        "@saleempc @docker congratulations!/n",
+        "Text"
+    ],
+    [
+        "rt @monowai: i'll be speaking on #integrationtesting with @docker next week. @ah3rz - fancy baking some pizza? https://t.co/6vdcrmejee/n",
+        "Text"
+    ],
+    [
+        "@harrisonmeister @octopusdeploy thanks. might not hurt on one of the docker pages to include something mentioning docker swarm. best i can tell nothing built-in but some potential options i see from discussion i started here https://t.co/qbh6smr2qv/n",
+        "Lib"
+    ],
+    [
+        "rt @derekcollison: maybe a bit controversial, but in production (not dev/test), who will win? /cc @kubernetesio @docker @mesosphere/n",
+        "Lib"
+    ],
+    [
+        "rt @segment: automating our dev workflows with @docker, ecs, @circleci, and terraform https://t.co/rxxcphmtco https://t.co/jezx6nbxqn/n",
+        "Lib"
+    ],
+    [
+        "rt @filip_woj: hell has frozen over. sql server in a docker container/n",
+        "Lib"
+    ],
+    [
+        "rt @dixie3flatline: so, kubernetes is deprecating docker support and you're either nervous or confused. that's okay! i would like to help y/n",
+        "Lib"
+    ],
+    [
+        "@docker @solomonstre after removing docker.local on v1.11.0-beta9 seems like it's not possible to start tcp/2375. any docs for that? thanks!/n",
+        "Lib"
+    ],
+    [
+        "rt @skillsmatter: tonight: running elasticsearch cluster in docker containers with weave --> https://t.co/nyzzqu9ili  #elasticsearch http://n",
+        "Lib"
+    ],
+    [
+        "rt @solomonstre: introducing docker for mac and docker for windows beta. or how deep system engineering can help make things easier. https:/n",
+        "Lib"
+    ],
+    [
+        "rt @velocityconf: .@docker swarm vs @coreoslinux fleet vs @kubernetesio vs @apachemesos! @adrianmouat compares orchestration tools https:///n",
+        "Lib"
+    ],
+    [
+        "@irisclasson @sadukie @docker it definitely takes dedication and time (months). it felt i had forgotten how to type. being able to quickly move key mappings helped. i was looking for anything to help with rsi and the traditional ergonomic keyboard and mouse set wasn't doing it./n",
+        "Text"
+    ],
+    [
+        "\"docker machine to azure demo\" http://t.co/wamucnupzy/n",
+        "Lib"
+    ],
+    [
+        "rt @jeffreyschwartz: containers: beyond virtualization -- http://t.co/tgokz5yuqe http://t.co/krhy2akor6 #docker #microsoft/n",
+        "Lib"
+    ],
+    [
+        "@craigkerstiens good olde rvm and/or docker./n",
+        "Lib"
+    ],
+    [
+        "how to use nix to automatically create multi-layered docker images, allowing a high amount of caching between images:\n\nhttps://t.co/2snrm1ntmi/n",
+        "Lib"
+    ],
+    [
+        "were hosting a #meetup at #docker hq on september 24th. register to learn more about @traefik v2.0 in docker + @containerd https://t.co/hguzwwbc9d @emilevauge @derekmcgowan @sylvaincau @theburce @kbajza13 https://t.co/02osl56j3t/n",
+        "Lib"
+    ],
+    [
+        "rt @quintus23m: a packed room: running @docker swarm on arm devices with the help of @hypriottweets, thanks @woorank for hosting https://t./n",
+        "Text"
+    ],
+    [
+        "true @newsycombinator: docker, containers, and the future of application delivery [slideshare] http://t.co/v8ycqj6xkf/n",
+        "Lib"
+    ],
+    [
+        "rt @gomex: olha como lotou meu workshop sobre @docker no #fisl17 https://t.co/lvffahz3kw/n",
+        "Text"
+    ],
+    [
+        "beta docker for mac and windows with kubernetes https://t.co/4unhjzcgnm #docker #kubernetes #beta #macos #windows/n",
+        "Lib"
+    ],
+    [
+        "@solomonstre  la #techweeksg pour une confrence sur la valeur des conteneurs dans le cloud #docker @docker @societegenerale/n",
+        "Lib"
+    ],
+    [
+        "crafting perfect #java #docker #build flow https://t.co/s06tcf8zcj/n",
+        "Text"
+    ],
+    [
+        "rt @github: github package registry is compatible with npm packages, ruby gems, maven, nuget and docker containers during the public beta l/n",
+        "Lib"
+    ],
+    [
+        "you should join me at this meetup: docker for .net developer https://t.co/sbh2rtfjv4/n",
+        "Lib"
+    ],
+    [
+        "checking your current docker pull rate limits and status https://t.co/2aiaoramph/n",
+        "Lib"
+    ],
+    [
+        "remove your old, stopped @docker containers:\n\ndocker rm `docker ps -a -q`\n\nstop all running containers:\n\ndocker stop `docker ps -q`\n\n#bash/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: testing django apps with @docker http://t.co/gosdnj6riv by @stickyworld/n",
+        "Lib"
+    ],
+    [
+        "rt @giulioroggero: how to expand docker disk on mac os using #qemu https://t.co/v4afrp753g https://t.co/q0k65lrghb/n",
+        "Lib"
+    ],
+    [
+        "@joe_mighty ya docker. you also need zookeeper. i'll probably live stream that and start from scratch./n",
+        "Text"
+    ],
+    [
+        "free ebook on containerized docker application lifecycle https://t.co/zmzkunvydk/n",
+        "Lib"
+    ],
+    [
+        "rt @besseifunction: when they ask what @docker does https://t.co/3g6uwggdxx/n",
+        "Lib"
+    ],
+    [
+        "rt @cecilphillip: the dockering is coming....  https://t.co/pa9qhyvuo2 #miamitech #docker #dotnetcore/n",
+        "Lib"
+    ],
+    [
+        "@nisanth074 docker and the pid 1 zombie reaping problem  phusion blog http://t.co/4gxjirrfks/n",
+        "Text"
+    ],
+    [
+        "rt @learnk8s: `buildkit_inline_cache=1 build-arg` is a neat flag that you could add to your docker build to reduce the build time upto 89%/n",
+        "Lib"
+    ],
+    [
+        "rt @techjournalist: docker goes native for windows and mac https://t.co/e4hyuvllus/n",
+        "Lib"
+    ],
+    [
+        "rt @steven_follis:  define a docker enterprise cluster in yaml (iac)\n\n automatically provision all infrastructure resources in azure with/n",
+        "Lib"
+    ],
+    [
+        "@dy_nasty7 @babetoduarte hahah. yes! but everything is so easy now between github, docker, overleaf, cloud, and jupyter notebooks. never been a better time to be doing high impact data driven collaborative science/n",
+        "Lib"
+    ],
+    [
+        "@assertchris building php apps with docker. chapter 1: getting started. are you on a mac? install homebrew. brew install php. install valet while you are at it. the alternative: buy a windows machine. better yet: install linux on that windows machine. trust me. you are better off./n",
+        "Text"
+    ],
+    [
+        "@andrewconnell @jthake @givenscj @mikaelsvenson @johnnliu @andrewkoltyakov @mediocrebowler @sergeev_srg #typescript #docker #dotnetcore #kuberenetes #containers #vsts go @rprakashg/n",
+        "Lib"
+    ],
+    [
+        "we love it when our customers tell us how happy they are.  to see how our courses could transform your career follow the link to our full library of over 280 hours of training https://t.co/hzuo5xoozc #java #springboot #docker #hadoop https://t.co/6hlv3ekrc2/n",
+        "Lib"
+    ],
+    [
+        "data-focused docker clustering - clusterhq https://t.co/csndqzh3ut/n",
+        "Lib"
+    ],
+    [
+        "rt @avltechevents: asheville coders league technical meeting tomorrow 7 pm. @thirdthoughts presents @ansible and @docker. http://t.co/eh5ge/n",
+        "Lib"
+    ],
+    [
+        "rt @eltonstoneman: yes, #docker secrets are coming to #windows. here's how to use them in #dotnet and #aspnet  https://t.co/2c7kr2zts6/n",
+        "Lib"
+    ],
+    [
+        "rt @cassidydotdk: i did some #docker https://t.co/jvfkrmvln0/n",
+        "Text"
+    ],
+    [
+        "differences in #windows and #linux #docker - https://t.co/fdlk6xctqy, good read./n",
+        "Lib"
+    ],
+    [
+        "rt @jpetazzo: the slides from my talk \"@docker containers from dev to prod\" at @devnationconf are available: http://t.co/z9yjclmoim #redhat/n",
+        "Lib"
+    ],
+    [
+        "rt @codek_tv: build a node.js docker workflow for beginners\n#node #nodejs #docker #javascript https://t.co/kulss7h7jg/n",
+        "Lib"
+    ],
+    [
+        "blueprint of a self-sufficient #docker cluster #devops https://t.co/4qrh36y51u/n",
+        "Lib"
+    ],
+    [
+        "rt @wattersjames: \"the newest version of ubuntu linux comes with cloud foundry and the latest version of docker\" http://t.co/tz8bawvqs0/n",
+        "Lib"
+    ],
+    [
+        "rt @stefscherer: friday fun: run xterm.js in a windows container to run a #powershell in a browser with #docker cli \n\nhttps://t.co/wnjnfb8/n",
+        "Lib"
+    ],
+    [
+        "take a big, pre-made #docker container from the athens project and push it to #azureappservice. watch the video: https://t.co/cacgbg7vgb https://t.co/yp45g46bev/n",
+        "Lib"
+    ],
+    [
+        "docker 1.6:  engine and orchestration updates, registry 2.0, and windows client preview https://t.co/nbvplizmic/n",
+        "Lib"
+    ],
+    [
+        "@stepbates @docker @risc_v this is fantastic, exactly the sort of thing arun thomas was asking for in his talk on risc-v software yesterday/n",
+        "Text"
+    ],
+    [
+        "rt @infoq: google adds private docker registry to google cloud platform http://t.co/5gr25je5ce/n",
+        "Text"
+    ],
+    [
+        "rt @jpetazzo: if you are using @docker (or are planning to) to help you in your devops initiatives, you might want to read this: https://t./n",
+        "Lib"
+    ],
+    [
+        "@louispilfold @docker a database, memcached, kafka etc..../n",
+        "Lib"
+    ],
+    [
+        "@psychemedia @georgianaelenad i would love a revival of deploy-docker though./n",
+        "Lib"
+    ],
+    [
+        "rt @fabienamico: bientt les formations #docker sur les serveurs #nutanix ! ca pulse !  cc : @docker_fr @nutanixfrance https://t.co/yffpuiw/n",
+        "Text"
+    ],
+    [
+        "rt @madhurabhave23: the first milestone of spring boot 2.3 added a bunch of features for creating optimized docker images. we've updated a/n",
+        "Lib"
+    ],
+    [
+        "rt @sda_research: save the date! wednesday 3 may 15:00 cet. #bigdataeurope platform launch is coming! -  https://t.co/ocv8whdotp #docker #s/n",
+        "Lib"
+    ],
+    [
+        "rt @johnzaccone: if you missed me at #dockercon, my \"docker for devs\" talk is on youtube: https://t.co/kmbkyinwro/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: #docker 18.06 community edition now available! check out whats in store for the next release. https://t.co/ztffiem8n4/n",
+        "Lib"
+    ],
+    [
+        "try kubernetes in the browser with https://t.co/kvnuu3kbqx https://t.co/1isiv2ynfc via @docker/n",
+        "Lib"
+    ],
+    [
+        "@agtmadcat @rogandawes @_black_traffic_ @jimfenton @hashcat @hashtopolis @cynoprime ahahahaha, no - we're crazy, but not that crazy. :) we just scraped up a few people from the cracking community and did some smart pooling of resources. \n\ni did spend a little on compute - but it was totally worth the crash course in docker that i had to give myself. :d/n",
+        "Lib"
+    ],
+    [
+        "rt @danielberlin: how to not waste time on manually setting up selenium grids using docker (track 2) #agiletd https://t.co/5pttzax9rq/n",
+        "Lib"
+    ],
+    [
+        "rt @vmblog: what's in store for the developer community in 2020? read these four #predictions from @docker ceo scott johnston. #containers/n",
+        "Lib"
+    ],
+    [
+        "rt @developerworks: five free ebooks: comprehensive overview of the #docker and #container ecosystem https://t.co/x9oxo1h7it https://t.co/w/n",
+        "Lib"
+    ],
+    [
+        "rt @vpartington: nice blog by @shekhargulati about 5 docker utilities that you should know: https://t.co/8w9kt5sxlu/n",
+        "Lib"
+    ],
+    [
+        "tutorial: deploy an http://t.co/egnds2jhho application on linux using the http://t.co/egnds2jhho docker container: \nhttp://t.co/l5gt2fdzei/n",
+        "Lib"
+    ],
+    [
+        "rt @dotnet: new to docker-based application development or microservices-based architecture? here's an intro to developing microservices-ba/n",
+        "Lib"
+    ],
+    [
+        "rt @testsidestory: here's my #sketchnote of glenn buckholz' #stareast presentation \"use docker to enhance your testing\" https://t.co/v1fyy7/n",
+        "Lib"
+    ],
+    [
+        "with the recent announcement of the partnership between arm and @docker at #dockercon, docker devs can instantly leverage arm devices. moreover arm devs can utilize docker technologies #edgecomputing/n",
+        "Lib"
+    ],
+    [
+        "be creative when using @docker containers. @chrisciborowski #dockercon https://t.co/8hv6fj7z8t/n",
+        "Lib"
+    ],
+    [
+        "@ntbols @braintube interesting. my sense is it's not worth it for most cases. i think the security improvement is probably pretty minimal. that said, it's an interesting project. it's *possible* that you could get it to work in a generic way and publish a public docker image for distroless rubies./n",
+        "Lib"
+    ],
+    [
+        "rt @apachemesos: \"container pods with @docker compose in #mesos\" presented by meghdoot bhattacharya (paypal) at #apachecon https://t.co/iir/n",
+        "Lib"
+    ],
+    [
+        "#docker, #kubernetes, #nomad, #calico, #datadog, #dropbox, #weaveworks, #aquasec, #haproxy ... quon t'il tous en commun ?\nils seront au #pariscontainerday le 26 juin 2018. rejoignez les ! avec un speaker line up dexpert containerready. -30%  avec le code promo \"30offpcd\"/n",
+        "Lib"
+    ],
+    [
+        "breathe new life for your #aspnet apps with docker, part 2 from @vsmdev https://t.co/s8ayydrunq/n",
+        "Lib"
+    ],
+    [
+        "take a look at the nuodb technical tour which shows our database scaling-out across 3 docker #containers: https://t.co/yzyfchr2ok #docker/n",
+        "Lib"
+    ],
+    [
+        "hey @ciurana check out @weavenetwork. docker networks/n",
+        "Lib"
+    ],
+    [
+        "@lgvalle you can use @springcloud contract stub runner docker image with embedded wiremock instances. i was talking about this at @spring_io https://t.co/li2igwktar , you can check the docs here https://t.co/wt7lv1bmu2/n",
+        "Lib"
+    ],
+    [
+        "rt @kelseyhightower: the os abstracts away the machine while leaking hardware faults. docker abstracts away the os while leaking software f/n",
+        "Lib"
+    ],
+    [
+        "is there any interest in a daily docker #container tips email? you'd get  one small cool thing to try with docker that day, or just an interest thing to learn. also this would force me to finally build that dang tech blog! i will make if there is interest./n",
+        "Lib"
+    ],
+    [
+        "for some folks i've managed or worked with, pointing to the appropriate sections of docker or vue docs was already useful. in other cases, just a really decent architecture diagram did wonders./n",
+        "Lib"
+    ],
+    [
+        "rt @sammayhew27: \"@twistlockteam & @sonatype will address hygiene, compliance & security of containers in nexus @docker   registries\" https/n",
+        "Lib"
+    ],
+    [
+        "rt @jeremylikness: the complete beginner's guide to using #aspnetcore asp.net core with #docker (includes an intro and explanation of #con/n",
+        "Lib"
+    ],
+    [
+        "@gmatkowskipl @docker not really... newer versions seem to be hovering at around 3-5% cpu which is a lot better. hoping that wsl2 and the docker for desktop version that targets that will solve it completely/n",
+        "Lib"
+    ],
+    [
+        "test your multi container apps using single node minikube cluster before deploying them to multinode kubernetes cluster\n\nhttps://t.co/qm1dcwwbag\n\n#docker #kubernetes #minikube https://t.co/jeu0zfi33p/n",
+        "Lib"
+    ],
+    [
+        "published continuous deployment with angular cli, docker, travis ci and azure. #azure #angular #docker #travisci \nhttps://t.co/tgkwrcqrcn/n",
+        "Lib"
+    ],
+    [
+        "introduction to docker | toptal http://t.co/cmvhf3oi4u #docker #devops #sandboxing #systemisolation via @toptalllc/n",
+        "Lib"
+    ],
+    [
+        "i'll be talking at dockercon 2016 about how we use @__criu__  with @docker to run @tonicdev. https://t.co/kcxvpy4fh7/n",
+        "Lib"
+    ],
+    [
+        "now at google developer festival 2016 organized by @gdgyangon talking about #gcp #googlecloudplatform #kubernetes #docker @google/n",
+        "Lib"
+    ],
+    [
+        "@nicarlsson i still need to fix kernel for use with #docker. @mattgruter blackmagic no help. think he was making it up as he went along ;-)/n",
+        "Lib"
+    ],
+    [
+        ".@docker wish :\ndocker stop --rm container\n:d/n",
+        "Lib"
+    ],
+    [
+        "rt @jbossdeveloper: rt @jbosstools: upcoming #docker tooling for eclipse http://t.co/upsd58nopk/n",
+        "Lib"
+    ],
+    [
+        "using docker to develop with couchbase https://t.co/8syz5xmqnh #programming ?/n",
+        "Lib"
+    ],
+    [
+        "current status:\n\nalias aws='docker run --rm mesosphere/aws-cli'\n\nbecause alpine/n",
+        "Lib"
+    ],
+    [
+        "rt @shanselman: how to set up your development environment on windows 10 https://t.co/e7p2mogcs9 #node #python #dotnet #docker #linux/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: ready to start improving your #docker with #kubernetes skills? try our play with kubernetes labs today! https://t.co/6wf2gchydw/n",
+        "Lib"
+    ],
+    [
+        "rt @codefresh: how to create an efficient #docker build pipeline for #java apps.  https://t.co/3swiao7err/n",
+        "Text"
+    ],
+    [
+        "rt @shlomibenhaim: excited to leap forward with @docker @jfrog \namazing to see that both companies are committed to making #devops a joyf/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: how to monitor @docker resource metrics by @kky: https://t.co/2wwxc8ygol via @datadoghq blog #docker https://t.co/wuqer3qvhr/n",
+        "Lib"
+    ],
+    [
+        "rt @scalingohq: our own @soulou on stage now @takeoffconf to talk about @docker https://t.co/lykju4jrao/n",
+        "Lib"
+    ],
+    [
+        "rt @bridgetkromhout: i was with @docker before it was cool - that may make me some kind of container hipster. @jpetazzo #oscon http://t.c/n",
+        "Lib"
+    ],
+    [
+        "@jambay @dturkenk i agree. once i observed that each #docker app has a dedicated vm, my interest in the announcement diminished greatly./n",
+        "Lib"
+    ],
+    [
+        "sweet!! @danwahlin new @pluralsight  course docker for web developers is now available!!/n",
+        "Lib"
+    ],
+    [
+        "docker toolbox is actually just as slow. so painfully slow/n",
+        "Lib"
+    ],
+    [
+        "rt @jonashackt: ill talk at #jug #hessen today about bringing some #devops #tools to the @windows world with @docker @ansible #vagrant @sp/n",
+        "Lib"
+    ],
+    [
+        "rt @danielbryantuk: great @infoq content from @acasals -> \"improving the .net @docker experience: #dockercon 2019 overview\" https://t.co/vg/n",
+        "Lib"
+    ],
+    [
+        "rt @davidcoallier: we've open sourced our @barricadeio @docker @circleci helper  https://t.co/pv1dmntmzp @p_chhetri  @duggan/n",
+        "Lib"
+    ],
+    [
+        "this week in #devops (30/08/2016) https://t.co/5auyptrn5e by  @lauraglasu #cicd #jenkins #aws #azure #serf #docker #rkt #logging/n",
+        "Lib"
+    ],
+    [
+        "rt @bsdphk: as inventor of jails in freebsd: this rant is very close to my take on all the docker hype:\n\nhttps://t.co/pnsu5j5tt7/n",
+        "Lib"
+    ],
+    [
+        "a developer's guide to docker: a gentle introduction https://t.co/8bxmjnachx via @dzone/n",
+        "Lib"
+    ],
+    [
+        "rt @chanwit: the real benefit of @docker swarm mode is that developers can do both dev and ops. https://t.co/a2k6u3c9op/n",
+        "Lib"
+    ],
+    [
+        "rt @koding: answer by @devrimyasar to \"why did koding move away from containers and docker to virtual machines?\" http://t.co/0eeax4zkpf/n",
+        "Lib"
+    ],
+    [
+        "brilliant! docker implemented in less than 100 lines of bash => https://t.co/axjdgbjngu/n",
+        "Lib"
+    ],
+    [
+        "data science engineering club in dublin. we've just started a series of cloud computing workshops. #aws #terraform #packer #docker  https://t.co/lijlv1esqt https://t.co/hgzrikxf84/n",
+        "Lib"
+    ],
+    [
+        "rt @botchagalupe: pragmatic #docker day - 21th of april - ghent, belgium featuring @botchagalupe\nregistration is open! - http://t.co/8m7jkf/n",
+        "Lib"
+    ],
+    [
+        "@geeksam you'll need to either build a new image with the gems in it or use docker-compose to create a shared volume that you can mount into your rails container/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: docker secrets come to #windows in 17.06. learn how to use them in .net and @aspnet apps https://t.co/a3ox5gozca/n",
+        "Lib"
+    ],
+    [
+        "microservices + events + docker = a perfect trio - wild card track https://t.co/zofs1zpczf via @youtube/n",
+        "Lib"
+    ],
+    [
+        "new video! @djangocon using django, docker, and scikit...\nby @loooorenanicole https://t.co/qfupqxdth7 #djangocon/n",
+        "Lib"
+    ],
+    [
+        "@frazelledazzell i have a webserver in a container that lets a user post a docker tar file, which gets pushed via \"docker push\" to a reg./n",
+        "Lib"
+    ],
+    [
+        "rt @feshob: \"building #microservices with #springcloud and #docker\" #spring #java #jvm #longread http://t.co/g3n3kh0jid http://t.co/ctj90kl/n",
+        "Lib"
+    ],
+    [
+        "@hawkee hehe, i know that feeling! thats where im finding package management tools (nuget, bower, etc.) come in handy. maybe even docker./n",
+        "Lib"
+    ],
+    [
+        "suhweet #jenkins docker image w/ build-tools + job conf baked in, src in #git, built/verified in jenkins (very meta), archived, deployed #li/n",
+        "Lib"
+    ],
+    [
+        "nicely explained, easily followed: hack.summit \"mood ring\" demo https://t.co/se0mp3ott8 via @ibmbluemix @jrmcgee #docker #containers/n",
+        "Lib"
+    ],
+    [
+        "@shanselman @tara_msft right. couldnt docker use wsl instead of hyper-v? i mean if they re-wrote it to work that way./n",
+        "Lib"
+    ],
+    [
+        "created a gist with instructions for installing @docker to run #aspnetcore on windows nano server: https://t.co/t9o4thxbz6 /cc @shanselman/n",
+        "Lib"
+    ],
+    [
+        "watch our recorded webinar \"an introduction to ci/cd with #docker best practices\"\n\nhttps://t.co/0bucxp8cnx https://t.co/bltzyo2z4k/n",
+        "Lib"
+    ],
+    [
+        "as usual, it all begins by installing software directly from upstream. i seem to remember ubuntu being more up-to-date than that... (in other news, `pip install docker-compose`, no apt-get needed)/n",
+        "Lib"
+    ],
+    [
+        "some very cool stuff coming out from docker./n",
+        "Lib"
+    ],
+    [
+        "@obloch for running #ai on data produced by #iot devices, that's iot+ai. to me, #intelligentedge means moving computing from the cloud to edge devices (like how #iotedge uses docker and provides gateway service)./n",
+        "Lib"
+    ],
+    [
+        "https://t.co/kbgy7eowrq docker without docker but with systemd - great slides!/n",
+        "Lib"
+    ],
+    [
+        "rt @alexbeletsky: the slides of my talk on #dokku https://t.co/cg3lgdhlxq #rejectjs #docker/n",
+        "Text"
+    ],
+    [
+        "rt @docker: wishing you all a very happy new year 2018!! #happynewyear #newyear2k18 #newyear2018 https://t.co/bleygz9pyw/n",
+        "Text"
+    ],
+    [
+        "had a great time at #dockercon - learned so much! feels like there is a lot of support for #docker even from the big players./n",
+        "Lib"
+    ],
+    [
+        "@hsyed @rakyll yeah. even ecr api docs say: \"in most cases, you should use the docker cli to pull, tag, and push images.\" https://t.co/rx9tdesqis/n",
+        "Lib"
+    ],
+    [
+        "rt @ellenfeaheny: appfusions seeks a few great react/nodejs/lightbend/java/javascript/docker/kubernetes/mobile etc devs - one or few or all/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: new in #dockerhub: personal access tokens https://t.co/nxpx2qqtfc https://t.co/jmaherpvaa/n",
+        "Lib"
+    ],
+    [
+        "rt @thenewstack: kubernetes as a replacement for docker cloud https://t.co/nsvjkk4bei @containershipio/n",
+        "Lib"
+    ],
+    [
+        "rt @garethr: slides from my #velocityconf talk on advanced docker image build patterns https://t.co/yzynsfa8bv/n",
+        "Lib"
+    ],
+    [
+        "@siedrix hasta la ultima vez que cheque (hace 6+ meses) persista un bug de docker en mac que hace que aunque borres imagenes siguen ocupando espacio en disco. no se si ya lo corrigieron./n",
+        "Text"
+    ],
+    [
+        "c:\\docker-machine https://t.co/h86j6hsnst/n",
+        "Text"
+    ],
+    [
+        "@fnando and docker doesn't run natively on osx, which makes things even harder =//n",
+        "Lib"
+    ],
+    [
+        "i've learned a lot about containers today:\n\n- containerd prob doesn't matter to me nor anyone doing node.js\n- docker containers will presumably continue being used after \"docker\" is \"deprecated\" in k8s\n- containers are a lot of things and hard to effectively communicate about/n",
+        "Lib"
+    ],
+    [
+        "rt @realgenekim: ps: i can't wait to see @aspyker present at 5pm on 'cloudnative netflix oss on docker\" today. amazing work!\" @adrianco #do/n",
+        "Lib"
+    ],
+    [
+        "rt @mjtamlyn: @binarycleric not if you want docker. but if you don't mind a few work arounds for a couple of months, it's speedy/n",
+        "Lib"
+    ],
+    [
+        "@locksmithdon enlighting us all on the basics of docker.  @juniordevnz https://t.co/2qntxvffdd/n",
+        "Lib"
+    ],
+    [
+        "@gnschenker @docker the motivation is that a program is a big state machine and once dependencies become unavailable, we could enter this `awaiting` state again. whether that is desirable or not is a different matter./n",
+        "Text"
+    ],
+    [
+        "developer analytics with calvin french-owen: https://t.co/tjvhw13mlo via @software_daily #microservices #docker #cto #infra/n",
+        "Lib"
+    ],
+    [
+        "@justinwr - business plan of docker, inc #trololol/n",
+        "Lib"
+    ],
+    [
+        "@jchannon @tombuildsstuff it might not be a big deal locally, but if you were building against a remote docker daemon you would feel it :)/n",
+        "Lib"
+    ],
+    [
+        "dinghy: fast, friendly docker on osx http://t.co/k3v1z7dqnz <-- dinghy recently moved away from vagrant to support docker-machine directly/n",
+        "Lib"
+    ],
+    [
+        "rt @aheritier: about @docker retention policy ... its only about inactive images. https://t.co/vtgiqazj5c/n",
+        "Lib"
+    ],
+    [
+        "rt @heisedc: the next big thing: ein container voller himbeeren: docker auf dem raspberry pi http://t.co/bmm7vg0rub #raspberrypi/n",
+        "Lib"
+    ],
+    [
+        "jan 1 2020 is when congress ban on using shipping container clip art for anything kubernetes or docker related comes in to effect. it was tagged on to a spending bill by ted cruz, im told./n",
+        "Lib"
+    ],
+    [
+        "docker   deploy ./n",
+        "Text"
+    ],
+    [
+        "using docker hub to automatically build a docker image for https://t.co/tilnhabjic core apps:https://t.co/7vazqs9lxy #share #docker #aspnetcore/n",
+        "Lib"
+    ],
+    [
+        "docker is getting political on me https://t.co/svaboexdrf/n",
+        "Text"
+    ],
+    [
+        "just finished with http://t.co/b8opzb7rff videos. it's like having a close friend showing you how to use #docker .great job by @bmorearty/n",
+        "Lib"
+    ],
+    [
+        "should you run a database in docker?\n\nor say it depends on the database. for a typical rdbms, i agree with the article.  for something like cockroach, elastic, cassandra or scylla, it may well be worth the configuration work.\n https://t.co/jfyghrau2w/n",
+        "Lib"
+    ],
+    [
+        "@amy_tabb @hamelhusain i suspect i've spent about as many hours trying to understand docker at this point, as i have conda. conda is very dramatically simpler. no commits. no mounts. no mappings. no containers. no layers. it's all just regular files in your regular file system./n",
+        "Lib"
+    ],
+    [
+        "rt @craig_wilkins: join us at the #hashicorp meetup@iag in sydney 3rd nov to hear vibratos own tristan morgan talk #vault and #docker! htt/n",
+        "Lib"
+    ],
+    [
+        "docker 0.11 is the release candidate for 1.0 - must try it now! #docker http://t.co/thof1nisuk/n",
+        "Lib"
+    ],
+    [
+        "@kellabyte yeah that's my issue with docker that weave seems to solve. docker only works well on the same host.  host to host is hard/n",
+        "Lib"
+    ],
+    [
+        "it is a different world we live in for sure!!\n@microsoft @linus__torvalds #docker #meetup http://t.co/ffytptjxaz/n",
+        "Lib"
+    ],
+    [
+        "rt @javilopezcam: exprimiendo @docker enhorabuena @davidvazqu3z por este peazo de #101panel oro puro! https://t.co/guu44b2uxp/n",
+        "Text"
+    ],
+    [
+        "docker is amazing for local development but is there any way of speeding it up? it's so slooooooooow./n",
+        "Lib"
+    ],
+    [
+        "rt @xeraa: 2016\n* microsoft open sourced .net under mit https://t.co/h7jlgpzoek\n* but we can't legally put oracle jdk on docker https://t.c/n",
+        "Text"
+    ],
+    [
+        "rt @docker: last chance to register! https://t.co/u8zwjm5dzl #docker #webinar #appsecurity #itpro https://t.co/vn8xkwiffi/n",
+        "Lib"
+    ],
+    [
+        "new post: rolled a sphinxql docker container https://t.co/8pqcilte0z/n",
+        "Lib"
+    ],
+    [
+        "\"first of all, docker is a monolithic tool. its a tool that tries to do everything, which generally is not the best approach. most of the time its better to choose a specialized tool that does just one thing, but does it really well.\"\n\nring any bells?  https://t.co/fcxtdp9cgc/n",
+        "Lib"
+    ],
+    [
+        "well, this just made my day! /cc @rawrsoft @docker @spf13 @meetup http://t.co/tfqp27dsue/n",
+        "Lib"
+    ],
+    [
+        "rt @devopsg: top 5 blogs of 2017 - build and run your first #docker windows server container https://t.co/idhrau4rar #containers #cloud htt/n",
+        "Lib"
+    ],
+    [
+        "@documentdb can you help getting the local emulator running in a docker container?/n",
+        "Lib"
+    ],
+    [
+        "rt @joefern1: openshift v3 platform combines docker, kubernetes, atomic and more https://t.co/n156irvkso via @openshift/n",
+        "Lib"
+    ],
+    [
+        "docker, coreos and others(including google) unite to start the open container project and standardize image formats http://t.co/z5ngfspf5p/n",
+        "Lib"
+    ],
+    [
+        "rt @jeffbarr: using #docker and #aws? you are in for a pleasant surprise at re:invent!/n",
+        "Lib"
+    ],
+    [
+        "well done on the release of @docker 1.8 and image signing @diogomonica :)/n",
+        "Lib"
+    ],
+    [
+        "rt @blackorlandotec: coming up soon is john callaway: .net core on a raspberry pi cluster with docker and openfaas from the @onetug at melr/n",
+        "Lib"
+    ],
+    [
+        "how nextdoor made a 10x improvement in release times with docker and amazon ecs https://t.co/ej6jiwyc7b/n",
+        "Lib"
+    ],
+    [
+        "rt @docker: next wednesday catch a #dockercon recap and hear what's new in @docker 1.12! join @dockerstockholm jun 29th @jayway  https://t./n",
+        "Lib"
+    ],
+    [
+        "a useful post that takes you from start to finish on collecting docker container logs and pushing them into splunk. https://t.co/nko3clbvyn/n",
+        "Lib"
+    ],
+    [
+        "rt @kventil: docker. https://t.co/43yvyt8a14/n",
+        "Lib"
+    ],
+    [
+        "@azureadvocates is docker compose for windows containers planned in the near future in @azure ? is there an 'insiders' or something we can try?/n",
+        "Lib"
+    ],
+    [
+        "rt @sravan_r_: lots of new features launched today with the docker and ecs partnership! customers can deploy to fargate directly from the s/n",
+        "Lib"
+    ],
+    [
+        "@el_ppires @bketelsen @jimmidyson theres http://t.co/kcxgjqxwp5 and http://t.co/xbecn6wypo will fix up docker hub links tomorrow/n",
+        "Lib"
+    ],
+    [
+        "docker and deep learning, a bad match https://t.co/o4frvwyd1q/n",
+        "Lib"
+    ],
+    [
+        "rt @sahrizv: 2014 - we must adopt #microservices to solve all problems with monoliths\n2016 - we must adopt #docker to solve all problems wi/n",
+        "Lib"
+    ],
+    [
+        "@shanselman do you know of any good information resources about hosting docker on windows not the client tools?/n",
+        "Lib"
+    ],
+    [
+        "reminder that shellcheck is awesome (for the few of us still writing bash scripts instead of terraform-kubernetes-docker-shizzle)/n",
+        "Lib"
+    ],
+    [
+        "a company in thailand's preparing @docker 1.9 for production. overlay atop xfs. multihost. multi-cloud providers. sooo cool./n",
+        "Lib"
+    ],
+    [
+        "rt @jongold: do you ever consider that the rest of your career in tech will probably be spent relearning how docker works every 6 months?/n",
+        "Lib"
+    ],
+    [
+        "rt @aurelievache: this week i've sent my \"understanding docker in a visual way\" sketchnotes collection to my reviewer.\ni'm waiting some fee/n",
+        "Lib"
+    ],
+    [
+        "rt @icecrime: im a msft employee, on google hangouts, on a mac, running chrome, talking to an asp .net application, in docker, on ubuntu/n",
+        "Lib"
+    ],
+    [
+        "hacking on docker and flynn with @marcus_phi @patbos @waperboy at the @diabolab #continuousdelivery hackathon. already making progress!/n",
+        "Lib"
+    ],
+    [
+        "yes, yes, yes. replace \"vagrant\" with \"docker\" for currency https://t.co/z0eqjr6ygf/n",
+        "Lib"
+    ],
+    [
+        "rt @drnic: bosh-gen package <name> --docker-image my/image < coming soon/n",
+        "Lib"
+    ],
+    [
+        "rt @jgamblin: docker image vulnerability research: 24% of latest docker images have significant vulnerabilities.  https://t.co/vhvqp1wj0e/n",
+        "Lib"
+    ],
+    [
+        "rt @sreekanti: very excited. enterprise edition bigdata platform epic running native on docker containers.  @bluedatainc epic 2.0\n\nhttp://t/n",
+        "Lib"
+    ],
+    [
+        "rt @getdocker: awesome projects from the #docker community http://t.co/r7qzunb5ap ft. @progrium @ptone @kstaken @miyagawa  @ehazlett @porte/n",
+        "Lib"
+    ],
+    [
+        "@jeffhandley it'll be fine for node/docker. it's like a teamcity that's unapologetically java-native, and with an oss design sensibility./n",
+        "Lib"
+    ],
+    [
+        "rt @danwahlin: docker compose project: ghost blog https://t.co/wznxt3jjhv/n",
+        "Lib"
+    ],
+    [
+        "@ste_grider thank you @ste_grider . your docker & kubernetes course is the best so far./n",
+        "Lib"
+    ],
+    [
+        "announcing docker enterprise edition 2.0 https://t.co/timr5hzkp8 #docker #dockeree #orchestration #swarm/n",
+        "Lib"
+    ],
+    [
+        "@walkingolof @huntchr @docker @chiefscientist yep, and the trend will be continuing imho/n",
+        "Text"
+    ],
+    [
+        "anyone know of a good tool for automating certificate signing as part of a docker/cloud #devops style workflow?/n",
+        "Lib"
+    ],
+    [
+        "rt @thenewstack: docker who? by acquiring coreos, red hat aims to be the #kubernetes company  https://t.co/xu42elcghn @openshift @coreos/n",
+        "Lib"
+    ],
+    [
+        "rt @boxboat: .@jenkinsci  screencast part 1: setup jenkins blue ocean with @docker  https://t.co/ll2c6bkkyq/n",
+        "Text"
+    ],
+    [
+        "@rhein_wein loved your talk on docker laura, thank you!/n",
+        "Text"
+    ],
+    [
+        "rt @justincormack: @ghostaldev @kelseyhightower docker created those standards, we created the oci standards body in linux foundation, and/n",
+        "Lib"
+    ],
+    [
+        "rt @eclipse_che: join us for #checonf2016 - eclipse ches first user and developer conference! hear from #docker, #redhat and others  https/n",
+        "Lib"
+    ],
+    [
+        "rt @codepitbull: public service announcement: if you are running #java-apps inside cgroups (e.g. #docker) then please add the following opt/n",
+        "Text"
+    ],
+    [
+        "rt @codelytv: esta noche a las 22:00 @fiunchinho nos har una introduccin a #docker desde 0. nos contar por qu emosido engaado con por/n",
+        "Text"
+    ],
+    [
+        "@charleshooper awesome! i just sent an email to the docker-club mailing list owner asking for membership ;-)/n",
+        "Text"
+    ],
+    [
+        "rt @bphogan: if you have a knack for writing tutorials about javascript, docker, kubernetes, or postgres, you should write for @digitalocea/n",
+        "Lib"
+    ],
+    [
+        "rt @golubbe: @awscloud announced plans for native @docker swarm and compose support for ecs at #dockercon !/n",
+        "Lib"
+    ],
+    [
+        "@neilwlevine this, if docker really does win, will end up being a big blow to ubuntu's dominance in the cloud./n",
+        "Lib"
+    ],
+    [
+        "rt @tfnico: well, this is cool: manage your docker containers from minecraft: https://t.co/6mnjlqrbwn (via @changelog weekly newsletter)/n",
+        "Lib"
+    ],
+    [
+        "@aaronontheweb @petabridge @akkadotnet @docker are you going to do a pluralsight course?/n",
+        "Text"
+    ],
+    [
+        "@trey @docker @cassettenest no docker on arm macs yet! but i need *some* system-wide python for things like neovim integration./n",
+        "Lib"
+    ],
+    [
+        "malicious docker containers earn cryptomining criminals $90k https://t.co/gkstuw3zqd https://t.co/8ezxhdi2pg/n",
+        "Lib"
+    ],
+    [
+        "rt @mcuadros_: my the first step to run @docker swarm at @googlecloud properly https://t.co/8eupbtuo37 /cc @supercoco9/n",
+        "Lib"
+    ],
+    [
+        "rt @azure: get a preview of the \"containerize your apps with #docker and #kubernetes\" e-book and see how easy it is to deploy, scale, orche/n",
+        "Lib"
+    ],
+    [
+        "come to the #docker meetup 6/22 featuring @rhein_wein and @bretfisher to learn about docker swarm in production!\n\nhttps://t.co/jwgduxn08v/n",
+        "Lib"
+    ],
+    [
+        "vagrantfile for mesos cluster with docker using chronos and marathon. https://t.co/rqnpr2qwfs/n",
+        "Lib"
+    ],
+    [
+        "building a service with #docker and ecs  by @danica_shei https://t.co/i9gnaz4qyu  @sharethrougheng/n",
+        "Lib"
+    ],
+    [
+        "find out how to run production-ready #docker containers in the cloud! hurry up to register! https://t.co/sgyfcwzkos/n",
+        "Lib"
+    ],
+    [
+        "how to secure a containerized node.js application with nginx, let's encrypt, and docker compose https://t.co/zip2zyeswa/n",
+        "Lib"
+    ],
+    [
+        "rt @alexellisuk: minimal ubuntu image for use with docker https://t.co/lp6axyvpbj/n",
+        "Lib"
+    ],
+    [
+        "@frazelledazzell @docker how are you keeping track of that? graphite?/n",
+        "Text"
+    ],
+    [
+        "rt @wearemagmalabs: in this tutorial, we show you how to use #docker and #dockercompose to manage your #rails application and simplify the/n",
+        "Lib"
+    ],
+    [
+        "rt @guillaumemorini: [webinaire] dockercon : tout savoir sur les dernires annonces docker https://t.co/ghd9en3urf/n",
+        "Lib"
+    ],
+    [
+        "rt @copyconstruct: docker succeeded not because of the tech (containers) but because it was a great developer tool. \n\nkubernetes built at/n",
+        "Lib"
+    ],
+    [
+        "@davatron5000 someone had a bit similar moment few days ago when after hours of debugging they accidentally deleted the docker installation from the whole computer. there went the configs... /n",
+        "Lib"
+    ],
+    [
+        "rt @nerdearla: en #nerdearla: @arjones y @pabloromanelli2 compartirn su experiencia migrando de 100+ vms a un clster de #docker swarm htt/n",
+        "Text"
+    ],
+    [
+        "rt @bazwilliams: new blog: my talk on how @linnproducts publish @dotnet @docker images using @travisci and @github https://t.co/movpnjaax6/n",
+        "Lib"
+    ],
+    [
+        "#docker containers vulnerability scan with clair. https://t.co/ivl6r5f1mw/n",
+        "Lib"
+    ],
+    [
+        "@southpolesteve but what about yarn, apollo, react, redux, angular, kubernetes, terraform, docker, babel, gulp, grunt, swagger, node, mocha, jasmine, selenium, cloudflare, heroku.  i think the problem is lack of discoverable docs, not an opaque name./n",
+        "Lib"
+    ],
+    [
+        "upgrade to jenkins v2.1 was seamless. now to try out jenkinsfile dsl, pipelines and running tests in docker containers./n",
+        "Text"
+    ],
+    [
+        "rt @awscloud: embrace #devops practices like continuous deployment via docker containers onto amazon ecs, find more on our blog: https://t./n",
+        "Text"
+    ],
+    [
+        "rt @redislabs: join our webinar on may 4th and learn how to migrate #redis apps to redis pack using #docker on windows and macos https://t./n",
+        "Text"
+    ],
+    [
+        "i wonder how well the new apple silicon will run docker./n",
+        "Text"
+    ],
+    [
+        "rt @roidrage: did you ever want to use and run docker and build docker images on travis ci? well, now you can: http://t.co/ekdwoszwps #stok/n",
+        "Text"
+    ],
+    [
+        "how to perform integration testing on go applications with docker via @semaphoreci https://t.co/kdmzjhl2gc/n",
+        "Text"
+    ]
+]

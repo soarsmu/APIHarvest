@@ -1,0 +1,54 @@
+[
+    [
+        "rt @nedbat: #python tip: if you want even more itertools, it's on pypi: https://t.co/ruadzi24da including the recipes from the itertools do/n",
+        "Lib"
+    ],
+    [
+        "i need to use functools, operator, functional, itertools modules more often/n",
+        "Text"
+    ],
+    [
+        "@mvherweg and it is part of many ruby collection classes. in more detail, what i yearn for is the ruby enumerable mixin (could that be added to python? also itertools does not seem to have it ?)\n\nhttps://t.co/qpdbcx5wdg/n",
+        "Text"
+    ],
+    [
+        "@brendaneich @joegaudet @wycats im more than willing to contribute what we have with ixjs and rxjs into a standard set of methods like linq, itertools, etc. that and the asynciterable methods will come with cancellation via abortsignal/n",
+        "Text"
+    ],
+    [
+        "started this year's advent of code yesterday, it takes a bit of time to come up with an okay-ish solution. but it's a good way to learn more about #rustlang iterators (& itertools), pattern matching, regex etc. entering a solution & see it confirmed is pretty exciting. :d/n",
+        "Text"
+    ],
+    [
+        "`more-itertools` https://t.co/63xrmbjajd and `boltons` https://t.co/pgbpqr1gsu should be on your #python toolbox. could save a lot of keystrokes - plus very nicely written sources codes./n",
+        "Lib"
+    ],
+    [
+        "@dgou yes, itertools module is awesome when i need it. but i use collections more frequently./n",
+        "Text"
+    ],
+    [
+        "thinking about it a bit more and encountering python's list comprehensions and the adaptors in the itertools package makes it really pleasant to think about computation as a matter of applying code to data. 5/n/n",
+        "Text"
+    ],
+    [
+        "generators are the bees knees, i really need to start using them more often. #itertools #generators #python/n",
+        "Text"
+    ],
+    [
+        "@raymondh does that code need more context aside from `from itertools import *; from random import random`? doesn't work for me./n",
+        "Text"
+    ],
+    [
+        "i am still using itertools a lot, last use case was slicing a generator with islice. \n\nhere are 5 more cool things you can do with this amazing module: https://t.co/ehl4s7gnbu\n\n#python/n",
+        "Text"
+    ],
+    [
+        "@ctrlshifti oh no, i nerd sniped myself! here's an even *more* elegant (and more memory efficient) solution:\n\nfrom itertools import cycle\n\ndef is_even(n):\n    return max(zip(range(n), cycle([false, true])))[1]/n",
+        "Text"
+    ],
+    [
+        "rt @nvie: more-itertools (by @erikrose) is the python package i blindly install for all projects. cant live without it. https://t.co/gymes/n",
+        "Lib"
+    ]
+]

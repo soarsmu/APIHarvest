@@ -1,0 +1,102 @@
+[
+    [
+        "i want a native prometheus client with hardware graphics acceleration./n",
+        "Lib"
+    ],
+    [
+        "rt @oss_go: prometheus-query - cli client to query prometheus https://t.co/dghfhso0hb/n",
+        "Text"
+    ],
+    [
+        "rt @http4s: http4s-0.19.0-m2: dropwizard and prometheus client metrics, ws improvements, better csrf, better blocking i/o support, better c/n",
+        "Text"
+    ],
+    [
+        "key performance indicators of a golang app, visualized via grafana/prometheus , stock go client. https://t.co/bhwusnvo0a/n",
+        "Lib"
+    ],
+    [
+        "@juliusvolz @copyconstruct @nataliepis @prometheusio internally in grafana we instrument with the prometheus client library and at given interval pull data from it and send to graphite. quite easy since the lib is made for pulling data :)/n",
+        "Lib"
+    ],
+    [
+        "rt @grafana: need to monitor client certificate expirations? here's an easy way to do it with prometheus and grafana, from grafana labs tea/n",
+        "Text"
+    ],
+    [
+        "ok, im probably the idiot, but the prometheus go client docs are fairly confusing./n",
+        "Lib"
+    ],
+    [
+        "getting jaegers java client internal metrics into prometheus - we recently integrated micrometer into the internal metrics collection mechanism for the jaeger java client, making it easier to get them into prometheus. prometheus showing the internal ... https://t.co/eb73xqjs1q/n",
+        "Text"
+    ],
+    [
+        "very happy to announce the launch of our latest client project for prometheus real estate group. https://t.co/ega5wkd21s https://t.co/l99bah5jbg/n",
+        "Text"
+    ],
+    [
+        "getting jaeger's java client internal metrics into prometheus\n\nhttps://t.co/9kashhpsxw/n",
+        "Text"
+    ],
+    [
+        "@robustperceiver been reviewing some code and wondering if labels assigned from incoming user input are actually a dos vector to the clients + prom or if there is already a mitigation in the prometheus go client code in place?/n",
+        "Lib"
+    ],
+    [
+        "rt @roidelapluie: the first release of prometheus in 2021 will have tls (including client-cert validation)/basic auth, on the server side./n",
+        "Text"
+    ],
+    [
+        "consul introduced limiting on http client connections to 100 concurrent connections. double check you don't need to raise it! prometheus and vault need it to be higher. see https://t.co/huo5tt9pcl/n",
+        "Text"
+    ],
+    [
+        "getting jaegers java client internal metrics into prometheus: we recently integrated micrometer into the internal metrics collection mechanism for the jaeger java client, making it easier https://t.co/g19tctji6c #java #tutorial #metrics #prometheus #jaegertracing #mickknutson https://t.co/r4gfpm8jpk/n",
+        "Text"
+    ],
+    [
+        "rt @_sa_s: thanks to @lotudevs swift prometheus client and some prometheus/grafana/loki setup weve been running a pretty @swiftpackages m/n",
+        "Text"
+    ],
+    [
+        "rt @rdohms: after much forking of the original jimdo prometheus/php client, a new package has been released under a promphp org centralizin/n",
+        "Text"
+    ],
+    [
+        "rt @mihamarkic: if you happen to use prometheus-net (@prometheusio c# client) and/or want to try it on #dotnetcore, check my fork https://t/n",
+        "Text"
+    ],
+    [
+        "@robustperceiver i was thinking about this as a safety on the client - not on prom during scrape but rather to just ignore https://t.co/sz7ekf3kxt() if the label combination would take this metric over the threshold. that way we we avoidthe problem that prometheus has too many series to scrape./n",
+        "Text"
+    ],
+    [
+        "i just released prometheus today. (https://t.co/sfgqhb54) it was abstracted from my current client work. simplest rapid prototyping ever./n",
+        "Text"
+    ],
+    [
+        "there was a convenient way to instrument http endpoints in the prometheus go client. seems like it's deprecated in favor of promhttp: https://t.co/8cbjestguc\n\ndoes anyone use this pkg?  i'm curious which bucket values make the most sense for the histograms (i.e: req duration)/n",
+        "Lib"
+    ],
+    [
+        "a full wrapper, exposing just _some_ stuff (not a 1:1 mapping)? \n\nthin wrapper w/ your own interfaces but returning/constructing concrete interfaces? \n\njust use prometheus client directly everywhere?/n",
+        "Lib"
+    ],
+    [
+        "@pauldjohnston @matthewpskelton yeah, but instrumenting your app w/ the prometheus client library is a joy while doing custom cloudwatch metrics is a real downer.../n",
+        "Lib"
+    ],
+    [
+        "@creldredge no statsd involved. its a vanilla prometheus that scrapes metrics directly from the components. used a prometheus client library for the spring boot apps and wrote a custom metrics endpoint in lua for nginx./n",
+        "Lib"
+    ],
+    [
+        "@juliusvolz do you know of anyone who is creating a perl client lib for #prometheus? /cc @prometheusio/n",
+        "Lib"
+    ],
+    [
+        "@mnnakamura soundcloud has a statsreceiver that integrates with the prometheus java client. is there someone working on smth open source?/n",
+        "Text"
+    ]
+]

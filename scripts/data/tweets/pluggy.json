@@ -1,0 +1,82 @@
+[
+    [
+        "rt @simonw: i want to add a javascript plugins mechanism to datasette, essentially a javascript equivalent to python's pluggy\n\ni've been ex/n",
+        "Lib"
+    ],
+    [
+        "rt @pythonweekly: build plugins with pluggy by @kracetheking https://t.co/ultojb3td7 #python #plugin https://t.co/pmtfqtccka/n",
+        "Lib"
+    ],
+    [
+        "rt @kracetheking: tech: beginning of the month, i presented the talk, \"build plugins with pluggy\" in pygotham and pycon india conference. h/n",
+        "Lib"
+    ],
+    [
+        "build plugins with pluggy mentioned in @pythonbytes  https://t.co/nhvtbjvyro https://t.co/gcpn7toexn/n",
+        "Lib"
+    ],
+    [
+        "@mikechx i've not written anything (yet) - i really like pluggy, which i'm using for datasette. https://t.co/5rfqu998sx - you can see the way datasette uses it in https://t.co/qdfpzwddx2/n",
+        "Lib"
+    ],
+    [
+        "i want to add a javascript plugins mechanism to datasette, essentially a javascript equivalent to python's pluggy\n\ni've been exploring some ideas for this in https://t.co/mkogvenmpk/n",
+        "Lib"
+    ],
+    [
+        "this is pluggy but meh. we built a thing in @taxiforemail called expectations which stops this happening. the person who makes the html can say \"this has to be changed\" before the email goes out - precisely to avoid lorem ipsum going to real people  https://t.co/qvjbqoteb4/n",
+        "Lib"
+    ],
+    [
+        "@tepreece oh is that important? hahaha. honestly, the only job i thought they had was for getting jammed into this here pluggy bit! i'm such a n00b/n",
+        "Text"
+    ],
+    [
+        "i use this in datasette to allow pluggy plugins to optionally execute asyncio code. a simple non-async plugin hook might look like this:\n\n@hookimpl\ndef extra_js_urls():\n    return [\n        \"https://t.co/5lbucqomhd\"\n    ]/n",
+        "Lib"
+    ],
+    [
+        "i need some music. i've not donned the headphones (well, in-ear pluggy things) at all today./n",
+        "Text"
+    ],
+    [
+        "@hamelhusain i've not seen much outside of the pluggy docs (which are very good) - i have a cookiecutter template for datasette plugins which i use for all of mine now https://t.co/97ddyliosx/n",
+        "Lib"
+    ],
+    [
+        "@jasonpbrown haha enjoy your pluggy friday/n",
+        "Text"
+    ],
+    [
+        "my talk build plugins using pluggy  - https://t.co/runfyc9gjw is scheduled for 3rd oct. see you there. #pyconindia https://t.co/q0lncbpwoe/n",
+        "Lib"
+    ],
+    [
+        "@harper @acroll if you want the really pluggy eurorack vibe in a little box, get a make noise 0-coast and maybe an arturia beatstep to sequence it/n",
+        "Text"
+    ],
+    [
+        "@bryanl pluggy mcplugface/n",
+        "Text"
+    ],
+    [
+        "tech: beginning of the month, i presented the talk, \"build plugins with pluggy\" in pygotham and pycon india conference. here is the write-up of the talk https://t.co/gcpn7t73yn/n",
+        "Lib"
+    ],
+    [
+        "build plugins using pluggy - my talk proposal to this year @pyconindia https://t.co/runfyc9gjw/n",
+        "Lib"
+    ],
+    [
+        "@disneydragon @epcatdork depends, wasnt actually trying to plug but more offer help. these moments suck when trying to set things up and it doesnt need to be that way. it did sound a bit pluggy though, eh? sorry/n",
+        "Text"
+    ],
+    [
+        "@limi if no lighty-lighty, then no pluggy-pluggy./n",
+        "Text"
+    ],
+    [
+        "@jacobian nice! are you using pluggy?\n\ni feel like there's a lack of good writing on how to design plugin hooks generally - i've very much been figuring out patterns as i go along, not at all convinced i've got a solid model of what what works best yet/n",
+        "Lib"
+    ]
+]

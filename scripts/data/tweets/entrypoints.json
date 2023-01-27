@@ -1,0 +1,194 @@
+[
+    [
+        "can i read the roles requested by #symfony2 access control from entrypoints or anywhere before authentication? @johannesms @lsmith @jmikola/n",
+        "Text"
+    ],
+    [
+        "@jaybazuzi tests without asserts are ok because they test the lack of a crash. also useful as entrypoints into debugging a part of the system in isolation/n",
+        "Text"
+    ],
+    [
+        "@thelarkinn @left_pad the example that seems most obvious to me is html.\n\ni'd bet that 90+% of web apps that use webpack as a bundler actually have html entrypoints, not javascript ones. and yet handling since html is not treated \"core\", and is outsourced to a plugin instead./n",
+        "Text"
+    ],
+    [
+        "rt @goserverless: new release: #serverless v1.10 w/ support for #nodejs v6, #aws groovy gradle template, plugin entrypoints & more\n\nhttps://n",
+        "Text"
+    ],
+    [
+        "\"./built/app.js\" still exists, in addition to the new \"./built/entrypoints/app.js\", and you can/will waste precious time wondering why your changes aren't working./n",
+        "Text"
+    ],
+    [
+        "rt @hiphopvm: hhvm 4.0.2 is released! this release adds support for server-mode .hack entrypoints, and fixes some inconsistencies with the/n",
+        "Text"
+    ],
+    [
+        "confused about container entrypoint and parameters? #dockercaptain @nicholasdille to the rescue! read his post on creating advanced entrypoints for #containers  https://t.co/n4r06snwg6/n",
+        "Text"
+    ],
+    [
+        "so let's say you have \"./app.ts\" that just logs \"foo\" to console and you run \"node ./built/app.js\", it logs \"foo\". \nthen you move app.ts to \"./entrypoints/app.ts\" and change it to log \"baz\", and you run \"node ./built/app.js\" again, and it logs \"foo\"./n",
+        "Text"
+    ],
+    [
+        "rt @goserverless: new releaseserverless v1.10 w/ support for #nodejs v6, #aws groovy gradle template, plugin entrypoints & more\n\nhttp/n",
+        "Text"
+    ],
+    [
+        "answer:volumes and entrypoints https://t.co/wbiuslgcqp/n",
+        "Text"
+    ],
+    [
+        "@lindydonna fantastic! i presume this still works - multiple function.json files with different entrypoints - all in the same class library?/n",
+        "Text"
+    ],
+    [
+        "rt @mitchellhamiltn: introducing preconstruct!! \n\n- builds your code with rollup\n- supports multiple entrypoints\n- cli helps walk you thro/n",
+        "Text"
+    ],
+    [
+        "rt @jedwatson:  react select v3 is out! including emotion 10 (zero-config ssr) and multiple entrypoints for smaller bundle sizes.\n\nhuge th/n",
+        "Text"
+    ],
+    [
+        "rt @wsokra: webpack 5.17.0 includes a new experimental feature:\n\nlazy compilation\n\nit compiles entrypoints and import()s only when accessed/n",
+        "Text"
+    ],
+    [
+        "@yodasw16 haha, that's definitely cool. that kind of following is still there, though i'm not sure the entrypoints to rando discovery/n",
+        "Text"
+    ],
+    [
+        "@pascalduez @thelarkinn @import or wait, noyou're talking about different js entrypoints. so i would get two different .js bundles and two different .css extractions from this?  would that work? this can of course be something that only works in the production build/n",
+        "Text"
+    ],
+    [
+        "@josh_cheek cool. yeah and perhaps you just said this, but you don't have to have two entrypoints, either, since you're already importing print.js inside of index.js. i think this explains why you saw your print.js message twice./n",
+        "Text"
+    ],
+    [
+        "@ryanbigg i think i can help but could you elaborate on what you mean by multi-file entrypoints?/n",
+        "Text"
+    ],
+    [
+        "#webpack people: when building a ui component pkg, pros/cons of multiple entrypoints? https://t.co/dlpotntlt6 @dan_abramov @floydophone/n",
+        "Text"
+    ],
+    [
+        "@josh_cheek you have the hot middleware as its own named entrypoint, but i don't think that's right. i think you need to bundle it along with your main entrypoints./n",
+        "Text"
+    ],
+    [
+        "ext_gpu_shader4 is an odd beast, but it's the only thing that provides the integer attrib/uniform entrypoints if you can't do gl3./n",
+        "Text"
+    ],
+    [
+        "@sambrodkin is there a way to use gwttestcase to unit test entrypoints? (@ebolwidt recommended i ask you :-) )/n",
+        "Text"
+    ],
+    [
+        "rt @bmakuh: sending out the webpack bat signal. is treeshaking incompatible with multiple entrypoints? getting `undefined` errors only with/n",
+        "Text"
+    ],
+    [
+        "how are people configuring multi-file entrypoints in their webpacker yml? or is that better left to some js code... somewhere?/n",
+        "Text"
+    ],
+    [
+        "@symroe expose responsibility, accountability and financing at all times. \npoint people at entrypoints.\nexplain the available levers./n",
+        "Text"
+    ],
+    [
+        "rt @johnhackworth: no se si enlazar de esa manera los nombres de tus modelos con tus entrypoints me parece una buena idea... #spainjs/n",
+        "Text"
+    ],
+    [
+        "@buildsghost this is sort of how next.js does it.\ntheir initial entry is setup here... https://t.co/lsul5kk8dl\n\nthen they pass in the entrypoints here.\nhttps://t.co/7lkew1ypvq\n\nthere's a middleware for loading the files and invalidating the build.\nhttps://t.co/rkjmqoaf0e/n",
+        "Text"
+    ],
+    [
+        "@levinotik no we use entrypoints calling the sbt-native-packager bin script directly, i.e. java blah blah ... i dislike init script in cntr/n",
+        "Text"
+    ],
+    [
+        "@ahmedatwork @newsosgi @gitpod i don't think that was you. we are looking into it. btw. entrypoints in dockerfiles are ignored. you need to launch thing through a task./n",
+        "Text"
+    ],
+    [
+        "@cheeseplus @adamhjk if you have ui entrypoints (including cli), silk or load runner/gatling can be helpful/n",
+        "Text"
+    ],
+    [
+        "@xoofx thanks! right now, it can only test shader entrypoints. i'm wondering whether to allow testing of arbitrary hlsl functions, by (1/2)/n",
+        "Text"
+    ],
+    [
+        "@robdmoore @meliss_houghton i think all the from-dom entrypoints are optimised away in this \"production mode\" as part of a really defensive memory strategy. til. \n\nalas, found an alternate path to the data: https://t.co/vopb9tcjoj/n",
+        "Text"
+    ],
+    [
+        "@viktornordling i think adding dependencies with swift package manager isnt too bad, but it requires you have a normally-packaged program with one entry point. i have lots of entrypointstwo per dayso it wouldnt work for me./n",
+        "Text"
+    ],
+    [
+        "rt @traefikproxy: #traefik gets multi-ports/entrypoints listening and entrypoint redirect in the latest release https://t.co/aann0gcgdi/n",
+        "Text"
+    ],
+    [
+        "from my early tests with preconstruct, it looks like the build tool i've been searching for. it has support for monorepos, typescript and multiple entrypoints!\n\nthanks for all your work @mitchellhamiltn\n\nhttps://t.co/bfv3jj3rbe\nhttps://t.co/hlwegctv9o/n",
+        "Text"
+    ],
+    [
+        "rt @siedahgarrett: podcast lovers, check me on #entrypoints as we dish on #michaeljackson, a&r execs & #blackmusicians. #themusicsnobs\nhttp/n",
+        "Text"
+    ],
+    [
+        "@slezzels yep.. all sorts of entrypoints../n",
+        "Text"
+    ],
+    [
+        "@c_pick not sure if you read to that part but you can configure the importsource parameter to make it import from another library as long as it has the same entrypoints. (something/jsx-runtime)/n",
+        "Text"
+    ],
+    [
+        "@jaffathecake @samccone @_developit @tomdale @matanlurey @bmeurer @henrikjoreteg \n\n- many entrypoints, but some of the old ones actually use browserify still from our old build system with a custom shim.\n\n- a few files in `./utils` that accidentally pull in huge deps and are only used in a single place, but you're not even aware they're doing it./n",
+        "Text"
+    ],
+    [
+        "rt @qsharpcommunity:  new blog alert! \n\ncheck out a great new blog post on entrypoints and standalone q# console applications in #qsharp/n",
+        "Text"
+    ],
+    [
+        "guy outside with shirt saying \"f*ck google, ask me\". gonna ask him how to unit test gwt entrypoints.../n",
+        "Text"
+    ],
+    [
+        "@satya164 @threepointone creating a separate file and importing it from two places is of course what im already doing. the issue is that the common file is executed from two separate entrypoints and has two separate execution contexts. consider server-side rendering./n",
+        "Text"
+    ],
+    [
+        "@levlaz @circleci we have a single repo, several services. ideally building a single image with several entrypoints./n",
+        "Text"
+    ],
+    [
+        "@wongmjane @en_js talked about this some at reactconf. routes are all top level and built using relay entrypoints. this allows us to support subnavigations and keep the parent component mounted, but switch out the nested content without having to make routing decisions deep in the tree/n",
+        "Text"
+    ],
+    [
+        "@swyx @0xca0a @thesamdd weve started with lazy loading too in relay, and it shaved off literal seconds from the product code when it moved away to the newer relay \"entrypoints\" api. which was a part of the inspiration behind server components./n",
+        "Text"
+    ],
+    [
+        "webpack: what are entrypoints?\n - https://t.co/kdlamgmdw0/n",
+        "Text"
+    ],
+    [
+        "rt @coinrocket: @hassanresad good entrypoints on #payprocoin right now - people unloading for profit - next will be whales consolidating/ho/n",
+        "Text"
+    ],
+    [
+        "@weaverryan @futurecat @clementj also not all its concepts are explained currently (entrypoints, tokens, ...)/n",
+        "Text"
+    ]
+]

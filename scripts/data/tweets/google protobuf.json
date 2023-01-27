@@ -1,0 +1,554 @@
+[
+    [
+        "google uses @xtext  to create protobuf ide plugin: http://google-opensource.blogspot.com/2011/08/introducing-protobuf-dt-eclipse-editor.html/n",
+        "Text"
+    ],
+    [
+        "protobuf-dt 1.0.11 released: http://t.co/d53umko8 #eclipse #xtext #google #protocol-buffer/n",
+        "Text"
+    ],
+    [
+        "rt @marcioalthmann: google protocol buffers - voando baixo com serializaes utilizando o protobuf-net http://t.co/tstnzmhn /cc @igorabade/n",
+        "Text"
+    ],
+    [
+        "rt @ubereng: google/rejoiner: generates a unified graphql schema from grpc microservices and other protobuf sources https://t.co/skydyowvke/n",
+        "Text"
+    ],
+    [
+        "@kellabyte livejournal: memcached, facebook: thrift, scribe. google: wave, protobuf, others. cnet: lucene./n",
+        "Text"
+    ],
+    [
+        "how i found a $5,000 google maps xss (by fiddling with protobuf) https://t.co/ccah5iywbd via @medium/n",
+        "Text"
+    ],
+    [
+        "rt @davidfowl: sometimes our community blows me away https://t.co/l3lgcgbotd. google's .net protobuf implementation fully spanified. i hope/n",
+        "Text"
+    ],
+    [
+        "rt @jedisct1: rt @emiliengirault: [blog] reversing google play and micro-protobuf applications http://t.co/jlbmjn5t/n",
+        "Text"
+    ],
+    [
+        "protobuf-for-node - project hosting on google code http://ff.im/zmgqu/n",
+        "Text"
+    ],
+    [
+        "retweeted david fowler (@davidfowl):\n\nsometimes our community blows me away https://t.co/dhpztc2nca. google's .net protobuf implementation fully spanified. i hope to see more things like this in the future. #dotnetcore #aspnetcore https://t.co/dhpztc2nca/n",
+        "Text"
+    ],
+    [
+        "custom c++ based google protobuf ruby module is 10x faster at parsing than ruby-protobuf. but oh how i hate c++ .../n",
+        "Text"
+    ],
+    [
+        "ruby-protobuf is unusable.  does anyone know of a solid ruby implementation of google protobufs?/n",
+        "Text"
+    ],
+    [
+        "just #historified: protobuf - project hosting on google code http://bit.ly/ci5bu5/n",
+        "Text"
+    ],
+    [
+        "curious if google ever seriously considered hardware accelerators for rpc and protobuf marshalling. at scale you can find the budget to fund this./n",
+        "Text"
+    ],
+    [
+        "protobuf - protocol buffers - google's data interchange format  http://goo.gl/1yox/n",
+        "Text"
+    ],
+    [
+        "google protobuf. it's what's for breakfast. http://code.google.com/p/protobuf//n",
+        "Text"
+    ],
+    [
+        "@brianleroux oh those are my favourite to dissect! ive seen the following before lets ship our api by describing it with protobuf and then setting up bazel, with remote execution, to get it built and bundled.... because thats how google do it!\n\noptimising the wrong thing/n",
+        "Text"
+    ],
+    [
+        "protobuf-dt 1.2.0 released: http://t.co/f31w0kdt #eclipse #google #protobuf #xtext/n",
+        "Text"
+    ],
+    [
+        "hmm google protobuf seems to be a source only package. i'll need to compile that for this teamcity twitter notifier/n",
+        "Lib"
+    ],
+    [
+        "@crandycodes @yavorgeorgiev @benjamincoe what chris said.  the google generators are bespoke protobuf/grpc based, and only really work if you're coming from services defined via protocol buffers.  the microsoft stuff for openapi is really good./n",
+        "Text"
+    ],
+    [
+        "rt @ericmoritz: come on google, you have guido working for you... why can't i do, \"easy_install protobuf\"?/n",
+        "Text"
+    ],
+    [
+        "rt @rustyshelf: apple's swift programming languageis a perfect complement togoogle's protocol buffer(\"protobuf\") serialization technolo/n",
+        "Text"
+    ],
+    [
+        "benchmarking - thrift-protobuf-compare - google code http://ff.im/-2wlaq/n",
+        "Text"
+    ],
+    [
+        "google protocol buffers - voando baixo com serializaes utilizando o protobuf-net http://t.co/tstnzmhn /cc @igorabade/n",
+        "Text"
+    ],
+    [
+        "protobuf - project hosting on google code http://ff.im/-8742r/n",
+        "Text"
+    ],
+    [
+        "@maciej_kula i guess google's internal documentation for protobuf is just as hopeless as the public version then./n",
+        "Text"
+    ],
+    [
+        "rt @migueldeicaza: i love marc's work, it blends google protobufs and .net: rt @marcgravell blogged: beta release of protobuf-net v2 - h .../n",
+        "Lib"
+    ],
+    [
+        "a $5,000 google maps xss (by fiddling with protobuf) https://t.co/t73mb0ga9v/n",
+        "Text"
+    ],
+    [
+        "@kellysutton @calebd google-protobuf for the protobuf encoding, oat for serializing the data/n",
+        "Lib"
+    ],
+    [
+        "@markpasc happy to help :)  hopefully, some day google might fix their package so \"pip install protobuf\" works ://n",
+        "Lib"
+    ],
+    [
+        "rt @alexruiz: protobuf-dt 1.0.2 released! http://t.co/mlaapje #eclipse #xtext #protobuf #google/n",
+        "Text"
+    ],
+    [
+        "rt @andrejlapajne: protobuf!! definitely, the best serialization ever... thanks to google...and @marcgravell  http://t.co/pau7kiog/n",
+        "Text"
+    ],
+    [
+        "@reubenbond what is really vexing to me: the protobuf format includes a start/end sentinel pair that works perfectly to describe sub-messages without needing to pre-calculate a length. i love it, but google have turned their back on it and list it as deprecated :(/n",
+        "Text"
+    ],
+    [
+        "#pyrobuf: a cython alternative to google's #python #protobuf library https://t.co/gwpdsvhzp1/n",
+        "Lib"
+    ],
+    [
+        "google protocol buffer example on android https://t.co/tsz6yth9 ( #android #protobuf #java #rpc #remoting )/n",
+        "Text"
+    ],
+    [
+        "me trying to run gdb and trying to debug why google-protobuf is segfault on ruby 2.7.0.\n\nplease send help. https://t.co/aomgkrquff/n",
+        "Text"
+    ],
+    [
+        "rt @donpark: grpc, google's answer to rpc, hits 1.0 https://t.co/trqmgundoo - uses protobuf but also supports custom encoders like flatbuff/n",
+        "Text"
+    ],
+    [
+        "rt @binitamshah: how i found a $5,000 google maps xss (by fiddling with protobuf): https://t.co/ojgyiuhryk https://t.co/ilayhd9est/n",
+        "Text"
+    ],
+    [
+        "been looking at optimising api payloads and #messagepack came up in a google. claims to be faster than #protobuf and #newtonsoft. \n\nonly downside... readability (in terms of humans) is sacrificed as a price for performance gains \n\ni like it.\n\nhttps://t.co/ntdhrsrxxs/n",
+        "Text"
+    ],
+    [
+        "learning about restful protocol buffers at #javaone from orbitz&sears; they use spring mvc to connect systems w/ google protobuf messages/n",
+        "Text"
+    ],
+    [
+        "beefcake is a #ruby gem.\n> a pure-ruby google protocol buffers library. it's all about being buf; protobuf.\n\nno/n",
+        "Text"
+    ],
+    [
+        "rt @id_aa_carmack: momentarily irritated that googles protobuf code has a common.h that conflicts with mine, then realized the hypocrisy./n",
+        "Lib"
+    ],
+    [
+        "@jamesnk @terrajobst fyi, for protobuf-net's usage (that can sit on top of james' bits or the google bits), yes: i take that dep for down-level tfms/n",
+        "Text"
+    ],
+    [
+        "protobuf!! definitely, the best serialization ever... thanks to google...and @marcgravell  http://t.co/pau7kiog/n",
+        "Text"
+    ],
+    [
+        "rt @cyberboyindia: how i found a $5,000 google maps xss (by fiddling with protobuf) https://t.co/kpzwzaeuus/n",
+        "Text"
+    ],
+    [
+        "@marcgravell philosophical (?) question about schema generation in protobuf-net.grpc  google writes \"field definitions in the .proto files must use lower_case_underscore_separated_names\" in their general api design guide (https://t.co/vbwrotra6b). what are your thoughts on this?/n",
+        "Text"
+    ],
+    [
+        "@a_hives that doesn't sound like protobuf-net - could be the google protobuf implementation?/n",
+        "Lib"
+    ],
+    [
+        "google trends for avro, \"json schema\", protobuf - worldwide past 5 years - https://t.co/j3hejecspx/n",
+        "Text"
+    ],
+    [
+        "rt @fb2k_readonly: github - google/rejoiner: generates a unified graphql schema from grpc microservices and other protobuf sources https:/n",
+        "Text"
+    ],
+    [
+        "@prepac @jamesnk @docsmsft minor point: protobuf-net is not affiliated with stack exchange\n\nprotobuf-net.grpc builds on top of the ms / google transports and servers (it just exposes things in poco-friendly ways), so yes: anything that @jamesnk is talking about: probably also applies to protobuf-net.grpc/n",
+        "Text"
+    ],
+    [
+        "how i found a $5,000 google maps xss (by fiddling with protobuf) by marin moulinier https://t.co/ehe1lgl1ct/n",
+        "Text"
+    ],
+    [
+        "@tenderlove excuse me for tweeting you, but i remember we talked about google-protobuf on ruby 2.7. \n\ndo you know off the top of your head how you can specify in the gemfile so bundler would do `--platform=ruby` when it install the gem and wont pick the pre-built version?/n",
+        "Text"
+    ],
+    [
+        "rt @redditprogtop: how i found a $5,000 google maps xss (by fiddling with protobuf) https://t.co/gki4mrbdsy (https://t.co/9riepdlp6h)/n",
+        "Text"
+    ],
+    [
+        "#protomak 0.0.1.release nearly ready to be released. create google protobuf files from your xsds./n",
+        "Text"
+    ],
+    [
+        "rt @blubbfiction: interesting work: reverse engineering of google maps and protobuf, building a tool and discovery of a xss: https://t.co/z/n",
+        "Text"
+    ],
+    [
+        "@tenderlove google-protobuf has the same problem. i think grpc_kit still depends on that gem./n",
+        "Lib"
+    ],
+    [
+        "major bug fixed. protobuf-dt 1.2.1 released: http://t.co/f31w0kdt #eclipse #google #protobuf #xtext/n",
+        "Text"
+    ],
+    [
+        "@prepac @jamesnk @docsmsft with protobuf-net.grpc.aspnetcore being specific to the ms (managed) server, and protobuf-net.grpc.native being specific to the google (unmanaged) server/n",
+        "Text"
+    ],
+    [
+        "protobuf-actionscript3 - project hosting on google code http://goo.gl/quwy/n",
+        "Text"
+    ],
+    [
+        "so i have to pack a double into a string to wire it via google protobuf?/n",
+        "Lib"
+    ],
+    [
+        "gem-path 0.6.2 released. last release was 2.5 years ago! single fix for google-protobuf: https://t.co/4zzaticvrk/n",
+        "Lib"
+    ],
+    [
+        "@meaningness when i was at google, people joked that their job was writing code to convert one protobuffer to another. this is a joke because it entirely ignores the *meaning* of the protobuf, which may be critical for millions. similar issue with \"processing forms\". it seems reductive?/n",
+        "Text"
+    ],
+    [
+        "@wsantosdev @juanplopes @mauriciojr hehe valeu!\n\ncriar um prprio tipo  uma opo, mas sinceramente queria evitar isso. por isso a insistncia em tipos nativos do protobuf.\n\nse for para criar um tipo complexto ento  melhorar usar a google commons api./n",
+        "Text"
+    ],
+    [
+        "rt @particularsw: you can use protobuf (google's very-fast binary serialization format) as an #nservicebus serializer. #nsbtips https://t.c/n",
+        "Lib"
+    ],
+    [
+        "protobuf-net - fast, portable, binary serialization for .net - google project hosting https://t.co/p154awy0pd via @delicious/n",
+        "Text"
+    ],
+    [
+        "rt @bigdata: inside google infrastructure: cool talk by google fellow jeff dean, co-designer of bigtable, mapreduce, protobuf http://goo .../n",
+        "Text"
+    ],
+    [
+        "how i found a $5,000 google maps xss (by fiddling with protobuf) https://t.co/pxcwvkj5aj/n",
+        "Text"
+    ],
+    [
+        "the fact that google's protocol buffers project, protobuf, still operates off svn is irritating. somebody over there is seemingly stubborn./n",
+        "Text"
+    ],
+    [
+        "the great thing about building protobuf-net.grpc on top of the ms/google grpc transport layers is that now when i get a \"doesn't work on {os/version}\" bug i can just throw them at @jamesnk and run away dancing! https://t.co/ynz60j9qwn/n",
+        "Text"
+    ],
+    [
+        "a guide to protocol buffers (protobuf) in google go (golang) https://t.co/hsgqbnq2jk #protobuf #golang/n",
+        "Lib"
+    ],
+    [
+        "@xevix google engineers are really protobuf shufflers in disguise./n",
+        "Text"
+    ],
+    [
+        "@kapeli if there a wish list, may you consider adding a google protobuf cheat sheet to the list? thank you! use the app hourly./n",
+        "Lib"
+    ],
+    [
+        "how i found a $5,000 google maps xss (by fiddling with protobuf) by marin moulinier https://t.co/b4jmlum8jr/n",
+        "Text"
+    ],
+    [
+        "@prepac @jamesnk @docsmsft grpc doesn't technically dictate the marshaller, but most commonly protobuf is used (since .proto is de-facto dsl); afaik no new .net 5 things here - google.protobuf works, and protobuf-net works, and there are a few others. what are you looking for, specifically?/n",
+        "Lib"
+    ],
+    [
+        "implemented spell checking for protobuf-dt http://t.co/lvhs9hum #eclipse #xtext #google #protobuf/n",
+        "Text"
+    ],
+    [
+        "ffs. apparently installing tensorboard pulls in google-auth, which drops a .pth file that breaks the version of protobuf that we were using.\n\nso, a variation on the \"dunder init\" problem.\n\nluckily, tensorboard seems to run without it. even though it's a dependency./n",
+        "Text"
+    ],
+    [
+        "@ooobject @rogue_code ah, it's based on google's protobuf?, i think i have read about that for many years ago.. hm/n",
+        "Text"
+    ],
+    [
+        "rt @abdullin: if you have problems with refactoring serialized events - change your serializer to google protobuf (version for .net by @ .../n",
+        "Lib"
+    ],
+    [
+        "rt @squidfunk: google protocol buffers for #erlang, seems like a clean and nice implementation https://t.co/nnijvhi6 #protobuf/n",
+        "Text"
+    ],
+    [
+        "kafka and google protobuf a match made in python by @brynnigan https://t.co/9wbzowxdxx/n",
+        "Lib"
+    ],
+    [
+        "@alexandre_hgs mostly coding style. code first vs contract first (technically protobuf-net supports both, but: code first is the feature it emphasizes). in terms of grpc, it actually plugs into the google grpc stack (and the new ms bits, on core) - just a different marshaller./n",
+        "Text"
+    ],
+    [
+        "new blog: size does matter, crunching data for the cloud with google #protocolbuffers http://bit.ly/evd3wr #protobuf #protobuf-net #cqrs/n",
+        "Text"
+    ],
+    [
+        "rt @ph3t_: how i found a $5,000 google maps xss (by fiddling with protobuf) by marin moulinier https://t.co/1qb27vvcej/n",
+        "Text"
+    ],
+    [
+        "@a_turl right, which is similar to running `gem install google-protobuf --platform=ruby` and then run `bundle install` i guess, which also work ...\n\nsorry, i was really looking for a solution where i can tell my teammate to just `bundle install` and it works ... /n",
+        "Text"
+    ],
+    [
+        "protobuf-dt 1.0.2 released! http://t.co/mlaapje #eclipse #xtext #protobuf #google/n",
+        "Text"
+    ],
+    [
+        "@marcgravell @stevejgordon the google protobuf lib allocates like crazy, from reading the code. i was reading a gh issue where they were looking for help with confirming whether alternate serialization would work yesterday: https://t.co/gpngkwtilc/n",
+        "Lib"
+    ],
+    [
+        "rt @wgdotnet: next meeting: google protocol buffers, protobuf-net and protobuf-linq. it looks like @scooletz is back :-) http://t.co/qubn3i/n",
+        "Text"
+    ],
+    [
+        "rt @golang_news: new official mongodb go driver and google protobuf  making them work together https://t.co/wnyvt7sj4x #reddit/n",
+        "Lib"
+    ],
+    [
+        "rt @szarnekow: google uses @xtext  to create protobuf ide plugin: http://google-opensource.blogspot.com/2011/08/introducing-protobuf-dt- .../n",
+        "Text"
+    ],
+    [
+        "using google tech is wanting to parse out some buffers in a video file and now i'm compiling protobuf python2 bindings :(/n",
+        "Lib"
+    ],
+    [
+        "@prepac @jamesnk @docsmsft emphasis there is on the \"afaik\" - i'm not ms (obvs), but if ms had decided to roll their own in-house protobuf serializer (under the radar) to supplant google (and also me), then all i would hypothetically say is:\n\n()/n",
+        "Text"
+    ],
+    [
+        "google just filed a dmca complaint against a tool that breaks the drm of their widevine drm system used in their products. interestingly, they claim copyright on what is essentially an api and that is part of the complaint, the protobuf file.\n\nhttps://t.co/pqoqqu0gus/n",
+        "Text"
+    ],
+    [
+        "@tomdale google has something similar and it's pretty amazing. predictiblly its glue is protobuf. you define services, ui nodes, and clients (clients let nodes/services \"discover\" a service).\n\nthis lets you ship a monolithic 1.0, and trivially break out microservices later./n",
+        "Text"
+    ],
+    [
+        "how i found a $5,000 google maps xss (by fiddling with protobuf) by marin moulinier https://t.co/xp7ympc1ju/n",
+        "Text"
+    ],
+    [
+        "rt @pyr: google introduces grpc, and brings protobuf one step closer to thrift with the service description part of the idl http://t.co/usx/n",
+        "Text"
+    ],
+    [
+        "a guide to protocol buffers (protobuf) in google go (golang) http://t.co/4cfimq3g8l golang, software development/n",
+        "Lib"
+    ],
+    [
+        "rt @developercom: new article: working with protobuf services in .net: take advantage of google's protobuf-net to create services ... ht .../n",
+        "Text"
+    ],
+    [
+        "how to make protobuf in python actually be faster than json.\n\n1) compile your protobufs to c++ code as well as python.\n2) create an empty python c extension that links in the c++ code, import it in your program as early as possible.\n3) ld_preload=libjemalloc\n\ngoogle, please./n",
+        "Lib"
+    ],
+    [
+        "yeah, patch to #google #protobuf finally accepted http://tinyurl.com/5tfbou (without signing cla) http://tinyurl.com/5r8dzb/n",
+        "Lib"
+    ],
+    [
+        "@jeremyjkun even given a strongly typed serialization framework like protobuf, google optional style makes everything optional as the only forwards and backwards compatible approach they could settle on.  when clearly the underlying design allowed for strict checking./n",
+        "Text"
+    ],
+    [
+        "the love hate relationship of me and google protobuf messages is too much, when everything works, it says there is an exception :(/n",
+        "Lib"
+    ],
+    [
+        "how i found a $5,000 google maps xss (by fiddling with protobuf) https://t.co/aj4qjhuejz/n",
+        "Text"
+    ],
+    [
+        "@devnl @jlaban app bundles require aapt2, so it turns it on implicitly. google uses some new protobuf format that only aapt2 can generate. does aapt2 break your project somehow? have a diagnostic build log?/n",
+        "Text"
+    ],
+    [
+        "google protobuf-net serialization and publish/subscribe on rabbitmq  - codeproject - https://t.co/nuaucol9lg/n",
+        "Lib"
+    ],
+    [
+        "@dustinmoris @natemcmaster @mholt6 @letsencrypt i use the stackexchange.redis.extensions.protobuf package. imagine if google said you can't call it that? nate is creating a letsencrypt-specific integration, after all./n",
+        "Text"
+    ],
+    [
+        "@umputun rt @xtext: rt @alexruiz: protobuf-dt 1.0.2 released! http://t.co/o2fqrfl #eclipse #xtext #protobuf #google /via @smartrmobi/n",
+        "Text"
+    ],
+    [
+        "google protobuf really shrinks your data reducing its size #in/n",
+        "Lib"
+    ],
+    [
+        "google's rejoiner generates a unified graphql schema from grpc microservices and other protobuf sources: https://t.co/cooj81gqkx/n",
+        "Text"
+    ],
+    [
+        "protobuf-dt 1.0.1 released! http://j.mp/pre8gc #eclipse #xtext #protobuf #google/n",
+        "Text"
+    ],
+    [
+        "rt @marcelbruch: after 30 minutes with #xtext2 5m/15m tutorials i got a simple editor for google protobuf up and running.cool./n",
+        "Lib"
+    ],
+    [
+        "interested to see if more api's switch over to google's protocol buffers from json over time https://t.co/himmoszqpo #protobuf/n",
+        "Lib"
+    ],
+    [
+        "@dev_jac @wongmjane a quick look in @charlesproxy shows that theyre using some gross binary container for inbox data. i assume its protobuf, because google. the info could be in there, but i dont know anything about reverse engineering protobuf. maybe theyre using the public gmail api, though?/n",
+        "Text"
+    ],
+    [
+        "pondering whether google protocol buffers specs should be wrapped in a more verbose specs, with more semantics. #protobuf/n",
+        "Lib"
+    ],
+    [
+        "did some research and it looks like you're better off sending json to the browser than trying to use google's protobuf via javascript./n",
+        "Text"
+    ],
+    [
+        "@westleyl i found the jar for protobuf hidden away in the google-maven-repository http://bit.ly/pbd6v/n",
+        "Text"
+    ],
+    [
+        "rt @pharoproject: an implementation of google protobuf for smalltalk/pharo: https://t.co/voy9fzdv34/n",
+        "Lib"
+    ],
+    [
+        "anyone looking into google's protobuf library? http://code.google.com/p/protobuf//n",
+        "Lib"
+    ],
+    [
+        "rt @xtext: rt @alexruiz: protobuf-dt 1.0.2 released! http://t.co/o2fqrfl #eclipse #xtext #protobuf #google/n",
+        "Text"
+    ],
+    [
+        "@alexandre_hgs i can't offer guidance on the google library, but i know they've looked at spanification. re grpc: the pieces to make use of that in the google code are in progress, which should help motivate the span api. protobuf-net will also gain grpc support in the same timescales./n",
+        "Text"
+    ],
+    [
+        "@aphyr at google, if it's not a protobuf then it's an exotic side project./n",
+        "Text"
+    ],
+    [
+        "rt @chanezon: #devoxxfr @ludoch grpc http://t.co/rcunjd9fd9 is becoming the std for all google apis client libs: http2, protobuf http://t.c/n",
+        "Text"
+    ],
+    [
+        "building a swig generated ruby module for some google protobuf generated c++. at some point *i* may write a few lines of my own .../n",
+        "Text"
+    ],
+    [
+        "google protobuf: data interchange format that is much faster than xml. http://t.co/qurmhsd/n",
+        "Lib"
+    ],
+    [
+        "rt @posco: a haskell protobuf library from google. interesting to see haskell in use at google and facebook. https://t.co/396a9kdd0c/n",
+        "Lib"
+    ],
+    [
+        "protobuf python egg conflicts with google appengine libraries. go figures./n",
+        "Lib"
+    ],
+    [
+        "@davidfowl ohai!  @timburks and i are doing this with grpc and protobuf.  it's how many of the generated google apis work :)/n",
+        "Lib"
+    ],
+    [
+        "it just constantly feels like, when i work with protobuf, go, and related tools, that there is a willful ignorance towards sanity and usability in the google toolchain./n",
+        "Lib"
+    ],
+    [
+        "@ivanjaros @j7mbo im using google/protobuf via composer rather than the pecl extension, which should work according to the docs/n",
+        "Lib"
+    ],
+    [
+        "@paddyforan the go protobuf library does the same and is used all throughout google, so it's totally doable once you get used to the pattern/n",
+        "Lib"
+    ],
+    [
+        "rt @springcentral: using google protocol buffers with #springmvc based #rest services \nhttp://t.co/thugqkaxms #java #protobuf #thrift #avro/n",
+        "Text"
+    ],
+    [
+        "@iamxhu google writes papers and leaves the implementations to others: protobuf, mapreduce, dremel, gfs, spanner, bigtable, megastore./n",
+        "Text"
+    ],
+    [
+        "anybody able to run google-protobuf gem on ruby 2.7.0? ://n",
+        "Text"
+    ],
+    [
+        "rt @crankuptheamps: should you be using google #protobuf v2 or v3? it depends on what you're doing! https://t.co/dlm0qwamwh/n",
+        "Lib"
+    ],
+    [
+        "eclipse protocol buffer v1.2.2 released: http://t.co/mtbsa7lw #google #eclipse #xtext #protobuf/n",
+        "Text"
+    ],
+    [
+        "musm sebemrskasky piznat, e jsem se nechal unst json mdou. pitom z mnoha hledisek by byl lep google protobuf http://t.co/pdrf1fttrp/n",
+        "Text"
+    ],
+    [
+        "playing around with google protocol buffers. somehow feels good to see \"make\" output scroll past. #goodolddays #protobuf/n",
+        "Lib"
+    ],
+    [
+        "serialization using google protobuf - http://su.pr/38m6l4/n",
+        "Lib"
+    ],
+    [
+        "@jonskeet google just announced grpc, referring to \"proto 3\". are there already plans to support this in protobuf-csharp-port?/n",
+        "Lib"
+    ]
+]

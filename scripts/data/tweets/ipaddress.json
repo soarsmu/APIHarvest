@@ -1,0 +1,334 @@
+[
+    [
+        "@dustinmoris try [|ipaddress...|] :> ...,  but i really though fsharplist had an explicit interface/n",
+        "Text"
+    ],
+    [
+        "#entityframework weekly update #efcore\n\nmajor updates to ef core testing guidance:\n samples!\n using sqlite in-memory databases\n sharing databases between tests\n\nalso this week:\n ef.functions.collate\n savepoints\n mapping ipaddress properties\n\nhttps://t.co/n04fxe2jye/n",
+        "Text"
+    ],
+    [
+        "what is advanced ip scanner? from idea to 15 tools you can use and check. \nhttps://t.co/8z0wftgshy\n#ip #ipscanner #openport #ipaddress #ipconfig/n",
+        "Text"
+    ],
+    [
+        "#entityframework weekly update #efcore\n\nef core 5.0 preview 6 is out now!\n\n split queries for include\n indexattribute\n ipaddress mapping\n\nand from previews 1-5:\n\n toquerystring, \n simple logging\n filtered include\n tracking proxies\n collations\n \n\nhttps://t.co/cngwf48wcy/n",
+        "Text"
+    ],
+    [
+        "@dustinmoris i was thinking about it and its rare in .net libs to assign an exposed ilist<t> property. maybe the intent of this api to be used was to c.knownproxies.add(ipaddress)/n",
+        "Text"
+    ],
+    [
+        "you want to know the ip of your azurevm: $ip = (get-azurevm -servicename <servicename> -name <name>).ipaddress/n",
+        "Text"
+    ],
+    [
+        "ipaddress/n",
+        "Text"
+    ],
+    [
+        "@amirrajan instead of `(...).ipaddress` try `select -expandproperty ipaddress` (can abbreviate as -exp).\n\nand i would generally use `-first 1` rather than `-index 0`, if your filter really might return more than one. otherwise ps should be smart about de-arraying it./n",
+        "Text"
+    ],
+    [
+        "wishing there was an ipaddress input scope in wp7/n",
+        "Text"
+    ],
+    [
+        "starting #erlang with -name <vmname at ipaddress>, you can connect vms residing on different hosts just via name! ^__^ how brilliant! ^__^!/n",
+        "Text"
+    ],
+    [
+        ". @jamcracker  got iis and mongrel sharing port 80 on win7. xp can't do it. 2 ips. netsh http add iplisten ipaddress=x.x.x.x/n",
+        "Text"
+    ],
+    [
+        "rt @pybites: you can use the ipaddress or socket module to validate ip addresses: https://t.co/vhklpu0sfn/n",
+        "Text"
+    ],
+    [
+        "had written programs for converting ipaddress to integer but never tried using an int to ping/query network\n\nany history or details around more fun with int and ipaddresses would be interesting to know and learn \n#computerscience/n",
+        "Text"
+    ],
+    [
+        "rt @nixcraft: who are browsing my home/office web server?\nlsof -r 2 -n -p -c nginx -a -i tcp@ipaddress:80\n\nhttp://t.co/pa3dfnyckr #linux #g/n",
+        "Text"
+    ],
+    [
+        "asking yourslef how to check my ip address? on windows, linux or your mobile device. want to know more on ipv4 or ipv6? if so keep on reading.\n#openport #myip #ipaddress #ipv4 #ipv6 #windows #linux\nhttps://t.co/2abpip1mer/n",
+        "Text"
+    ],
+    [
+        "rt @renerobichaud: using #ad to find hosts that aren't in ad - fun with the [#ipaddress] construct!\nhttps://t.co/8ezz02t5lk/n",
+        "Text"
+    ],
+    [
+        "nice little article illustrating use of the pep3144  ipaddress library. handy, since the src examples are slender. https://t.co/mru0gph2oj https://t.co/0fvp1ngu4i/n",
+        "Lib"
+    ],
+    [
+        "what is a private ip address and public ip address, in this article we talk about the differences between public and private ip address in an easy way. https://t.co/zhtbzsxtfd\n#openport #ipaddress #privateip #publicip/n",
+        "Text"
+    ],
+    [
+        "@rokanten @appharbor yes and it works very nicely ... just need to add an ipaddress in web.config to access on appharbor./n",
+        "Text"
+    ],
+    [
+        "answer:what is the ip address of android emulator, http://t.co/jhg5dg5eyq\n#java #j2se #android #androidsimulator #ipv4 #ipaddress #mobile/n",
+        "Text"
+    ],
+    [
+        "@vericoolltd why is my son having to use your service that is insecure, access via an ipaddress not fqdn, no ssl certificate?/n",
+        "Text"
+    ],
+    [
+        "rt @vladcatrinescu: 4 ways to validate ipaddress in powershell https://t.co/iwkn2zb0tk via @planetpshell/n",
+        "Text"
+    ],
+    [
+        "is evading an ip address block to access a website against the law? http://t.co/3iuka263fj #government #ipaddress #block #website #law/n",
+        "Text"
+    ],
+    [
+        "@projectcalico everything is just an ipaddress that is awesome/n",
+        "Text"
+    ],
+    [
+        "@anthony808 i will get location info from visiting ipaddress on my website that will change the paypal donate button to the team nearby :)/n",
+        "Text"
+    ],
+    [
+        "ipaddress : 115.98.205.107/n",
+        "Text"
+    ],
+    [
+        "@nuget still get nuget package restore failed for project the remote name could not be resolved: 'http://t.co/yusfkl2xzx'. with ipaddress/n",
+        "Text"
+    ],
+    [
+        "@kallistec complicates bootstrap a little, node objects that lack node[:ipaddress] are not happy node objects/n",
+        "Text"
+    ],
+    [
+        "canyouseeme is a small tool that shows you the current ip address that you are using, and we see. it also tries to determinate if you are using a proxy server (beta). https://t.co/enonqjmibu\n#openport #canyouseeme #checkip #proxy #whatismyip #ipaddress/n",
+        "Text"
+    ],
+    [
+        "@sascha_d try this for knife exec: pp api.post(\"search/node?q=*:*\", {:n => [\"name\"], \"ip\" => [\"ipaddress\"]})/n",
+        "Text"
+    ],
+    [
+        "rt @whatisdotcom: #arp is a procedure for mapping a dynamic internet protocol address (#ipaddress) to a permanent physical machine address/n",
+        "Text"
+    ],
+    [
+        "@jeffalbert \"dig -x <ipaddress>\" on the terminal will do a reverse lookup to give you the associated hostname/n",
+        "Text"
+    ],
+    [
+        "in this how to change ip address the defective guide we will get familiar with 6 methods to change your ip address. include proxy, vpn, web browser and more https://t.co/m295prybpl\n#openport #howto #ip #ipaddress #network #proxy #vpn #privacy/n",
+        "Text"
+    ],
+    [
+        "get your app hosted live in london's best tier 3++ datacenter on our ssd cloud servers http://t.co/aaqgt5md2e #london #uk #ipaddress #ssd/n",
+        "Text"
+    ],
+    [
+        "ip blocking: boon or bane of wordpress security https://t.co/dlcazjopx8  #wordpress #ipblocking #security #ipaddress #wordpresssecurity https://t.co/hkeuiful7c/n",
+        "Text"
+    ],
+    [
+        "@anthony_vdh thx, had to manually remove ipaddress etc from config and delete the ninject plugin but i've got it running now/n",
+        "Text"
+    ],
+    [
+        "@ncoghlan_dev - i don't see the ipaddress module in the 3.3 stdlib docs. is that intentional? it's accepted, right?/n",
+        "Lib"
+    ],
+    [
+        "check out our new article: ip blocking: boon or bane of wordpress security https://t.co/cs7ldigf7c #security #wordpress #ipblocking #wordpresssecurity #ipaddress https://t.co/utyyg2bevm/n",
+        "Text"
+    ],
+    [
+        "@geekykaran i use #skyscanner.com, and live in #japan, due to #geolocation/#ipaddress it goes to https://t.co/g6ppnnd9ur, q1. how can i avoid the #redirect? q2. even after i login using #google, there is no option to set #user's #preferred #language, can you help # the #ux?/n",
+        "Text"
+    ],
+    [
+        "get your app hosted live in london's best tier 3++ datacenter on our ssd cloud servers http://t.co/aaqgt5ucb6 #london #uk #ipaddress/n",
+        "Text"
+    ],
+    [
+        "support for database savepoints\n split queries for include and projection of collections\n indexattribute\n improved query translation exceptions\n application-specified transaction ids\n ipaddress mapping\n option to exclude onconfiguring when scaffolding\n\n(8 of 15)/n",
+        "Text"
+    ],
+    [
+        "prt 3: #wan != #ipaddress, but both are exposed via #webrtc\nhttp://t.co/2166imlxub (p.s. the game is still on) #nsa #mi6 #anonymity pls rt!/n",
+        "Text"
+    ],
+    [
+        "when your microservice knows the ipaddress of another ms you've done it wrong.\nthis isn't microservices, this is a distributed monolith./n",
+        "Text"
+    ],
+    [
+        "#mactip : to get your ipaddress from the terminal, do this: ipconfig getifaddr en1/n",
+        "Text"
+    ],
+    [
+        "my ip address is an online tool that can show you information about the ip address that you use to open this website. https://t.co/ifumsoc5qr \n#openport #myip #ipaddress #whatismyip #myipaddress #myiptool #whatsmyip/n",
+        "Text"
+    ],
+    [
+        "@adbertram - in the first grouping, change the astericks to a plus sign - (?<ipaddress>[0-9.]+)/n",
+        "Text"
+    ],
+    [
+        "i don't think i've written a regex against an ip address since discovering the joys of the ipaddress module in ruby/n",
+        "Text"
+    ],
+    [
+        "check out this #python tutorial: learn ip address concepts with python's ipaddress module by @realpython https://t.co/hqlf75stiv/n",
+        "Lib"
+    ],
+    [
+        "can your #ip #address give away your #identity? http://t.co/5t7noo6tpi tags: #ipaddress, #security, #backtrack, #whois, #tor/n",
+        "Text"
+    ],
+    [
+        "@adamhjk i'm not actually convinced that node['ipaddress'] can be detected for us, in some cases it is bound to the loopback interface./n",
+        "Text"
+    ],
+    [
+        "@twitter @twittersupport when are you gonna make #ipaddress #visible and #blockable for tweets. i don't post #music on #twitter anymore unless its part of #hollywoodfrommylife #thread/n",
+        "Text"
+    ],
+    [
+        "engine fixed, light bulb changed. contributing change to #mono to complete ipaddress support for .net 4/4.5 https://t.co/zhiqqepave/n",
+        "Text"
+    ],
+    [
+        "seriously @nicinabox @bryankveton @mightybrew has ipaddress. http://t.co/zffjuw9r/n",
+        "Text"
+    ],
+    [
+        "how do i convert the hostname to ipaddress in windows 8 metro app ?\n#wpdev #winrt #windows8/n",
+        "Text"
+    ],
+    [
+        "java program to find ip address of localhost - example tutorial http://t.co/fs3zjaxj #ipaddress #java #localhost via #javapins/n",
+        "Text"
+    ],
+    [
+        "rt @elegantthemes how to whitelist an ip address for access to your wordpress dashboard (in 2 steps) https://t.co/tj85cyvo7p #wordpress #ip #address #ipaddress #wpsecurity #webdevelopers #ad #wpdevelopers #useful #tutorial #whitelistip #webdesigners #webdevelopment/n",
+        "Text"
+    ],
+    [
+        "debug android apps wirelessly: plug into usb, run adb tcp 6789 and adb connect <ipaddress>:6789. back with adb usb./n",
+        "Text"
+    ],
+    [
+        "rt @elegantthemes how to whitelist an ip address for access to your wordpress dashboard (in 2 steps) https://t.co/tj85cyvo7p #wordpress #ip #address #ipaddress #wpsecurity #webdevelopers #ad #wpdevelopers #useful #tutorial #whitelistip #webdesigners #webdevelopment https://t.co/v4ae2da5qs/n",
+        "Text"
+    ],
+    [
+        "ever wondered how to check open ports on ip address? read this to learn all the secrets and best techniques you need to know!\n#openport #ipaddress #guide #secrets\nhttps://t.co/xrpnbtd5is/n",
+        "Text"
+    ],
+    [
+        "@erewok they are used almost 200 times in the standard library.\n\nthe uses in the ipaddress module are typical:\n\nhttps://t.co/thmlogchc4/n",
+        "Lib"
+    ],
+    [
+        "spends 5 hours implementing a module to manipualte ip addresses in python... finds ipaddress https://t.co/h3xmnj6duw #badluckpythondev/n",
+        "Lib"
+    ],
+    [
+        "fscheck 2.6.1 released with improvements to enum and ipaddress generators. all thanks to @ploeh!/n",
+        "Text"
+    ],
+    [
+        "http://t.co/lhfcsxh1.ipaddress has just saved me a whole heap of coding. it really does pay to learn the framework you're using./n",
+        "Lib"
+    ],
+    [
+        "http://t.co/pmbnchj1 provides an #ipaddress in a #json object. supports #jsonp. nice!/n",
+        "Text"
+    ],
+    [
+        "waiting at the train station this morning. information signs having an issue. #ipaddress #crash https://t.co/x8nzmrd7ix/n",
+        "Text"
+    ],
+    [
+        "rt @whatisdotcom: arp is responsible for mapping an #ipaddress to a permanent physical machine address in a lan and translating 32-bit ip a/n",
+        "Text"
+    ],
+    [
+        "@nmap can we scan windows localhost with -ss option.. i tried using spoof and -e option to mask with diff ipaddress/n",
+        "Text"
+    ],
+    [
+        "i have no idea what an \"ipad dress\" might be... but i can assure you, autocorrect, that ipaddress was typed quite deliberately!/n",
+        "Text"
+    ],
+    [
+        "rt @pythoncookbook: iterate over all ip addresses in a network:\n\nfrom ipaddress import ip_network\nfor addr in ip_network('123.45.67.64/27')/n",
+        "Lib"
+    ],
+    [
+        "is there a way to modify the ipaddress chef nodes report to the server? having trouble teaching vagrant nodes with host only ip to behave :(/n",
+        "Text"
+    ],
+    [
+        "find the optimal route to your website or #ipaddress with the ip #performance monitor -> http://t.co/y1zz6wuz9m/n",
+        "Text"
+    ],
+    [
+        "@hubspotsupport has the ipaddress 167.89.35.200 been added to the sorbs spam list recently? i noticed it is on the list and my issues started 2-3 weeks ago/n",
+        "Text"
+    ],
+    [
+        "@a7_fin_swe @pzfabbe @ungraren s ven med ren/nyinstallerad webblsare/dator/tfn/ipaddress som inte av reklamntverken kopplas till omfattande historik. jag anv. rtt kategoriskt strikt reklam/trackingblockering och en del vpn/tor. s reklamer r fr mig i samma kategorier av low-rent bs d jag ibland ser dem/n",
+        "Text"
+    ],
+    [
+        "who is this ip, view ipaddress, city location http://t.co/dgxbcra via @cricruns/n",
+        "Text"
+    ],
+    [
+        "@markjbrown $iprangefilter = ().ipaddress\n\n:)/n",
+        "Text"
+    ],
+    [
+        "rt @groupontechweb: what is your #ipaddress? use our #networktools #seotools to see #ip used by your #isp! #seo #searchengine #freetools #s/n",
+        "Text"
+    ],
+    [
+        "question: is #ipaddress considered as personal information #gdpr? https://t.co/3fvdszv1rh/n",
+        "Text"
+    ],
+    [
+        "my ip address is an online tool that can show you information about the ip address that you use to open this website now with country name https://t.co/ifumsoc5qr \n#openport #myip #ipaddress #whatismyip #myipaddress #myiptool #whatsmyip/n",
+        "Text"
+    ],
+    [
+        "track an ipaddress... it's this easy! http://bit.ly/303uplink/n",
+        "Text"
+    ],
+    [
+        "`nbtstat -a ipaddress` my name is nate, and i approve this message./n",
+        "Text"
+    ],
+    [
+        "rt @whatisdotcom: when a new computer joins a #lan, it is assigned a unique #ipaddress to use for identification and communication. #eyeont/n",
+        "Text"
+    ],
+    [
+        "@unixtooltip json is chatty because it's built to be extensible - but if that doesn't matter, strip it down!\n\nyou can often also dramatically reduce size by abbreviating the keys - running it through a simple \n\nsed 's/ipaddress/ip/g;s/hostname/h/g'\n\n... can have dramatically savings!/n",
+        "Text"
+    ],
+    [
+        "the risk of instrusive eye is more on our mobile device (apps) than in a random open wifi. #tailoredcontent #ipaddress versus #privacy #vpn/n",
+        "Text"
+    ]
+]

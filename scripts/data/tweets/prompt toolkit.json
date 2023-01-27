@@ -1,0 +1,146 @@
+[
+    [
+        "is there something similar to prompt-toolkit in javascript? https://t.co/e6vkbqni5j/n",
+        "Lib"
+    ],
+    [
+        "ill be talking at #osbridge this year about awesome commandline tools. pgcli, mycli, wharfee, saws, prompt-toolkit etc. /cc @jonathan_s/n",
+        "Lib"
+    ],
+    [
+        "nice plug for pgcli & mycli rt @podcast__init__: new episode with @jonathan_s on prompt-toolkit, ptpython and others. http://t.co/99ecdfa7mz/n",
+        "Lib"
+    ],
+    [
+        "rt @bravegnu: october chennaipy meetup: talks on postgresql explain, opencv, prompt toolkit, pgcli, 3d printing https://t.co/wgge2vvwld/n",
+        "Lib"
+    ],
+    [
+        ".@jonathan_s 's python-prompt-toolkit works on @pythonanywhere if you're planning to try it out :-)  \"pip install --user prompt-toolkit\"/n",
+        "Lib"
+    ],
+    [
+        "python prompt toolkit: a library for building powerful interactive command lines in python. http://t.co/sthqkfcj2i/n",
+        "Lib"
+    ],
+    [
+        "rt @irinatruong: pgcli 2.0.0 is out! it is now using the wonderful python prompt toolkit 2.0. see release notes for more details: https://t/n",
+        "Lib"
+    ],
+    [
+        "til: #ipython is working on using prompt-toolkit for their 5.0 release. i'm looking forward to this! https://t.co/nhvspwjcx5/n",
+        "Lib"
+    ],
+    [
+        "rt @irinatruong: pgcli 2.0.1 is out! we fixed some prompt-toolkit 2.0 regressions, and the most annoying stopiteration error under python 3/n",
+        "Lib"
+    ],
+    [
+        "prompt-toolkit/pyvim: pure python vim clone. https://t.co/ag1wccmc1q/n",
+        "Lib"
+    ],
+    [
+        "@nnja i highly recommend prompt toolkit. check the examples folder in the repo. that's the library powering all the dbcli tools. https://t.co/72qgjsh2yy/n",
+        "Lib"
+    ],
+    [
+        "@drmaciver pymux is a tmux clone written using prompt-toolkit. it can serve as the prior art that you're looking for?\n\nhttps://t.co/ncqdnx4o9d/n",
+        "Lib"
+    ],
+    [
+        "@li_haoyi python-prompt-toolkit in scala?/n",
+        "Lib"
+    ],
+    [
+        "@shanemhansen @chaseadamsio this is a better starting point to get going with prompt-toolkit. https://t.co/l7mkf5xgon/n",
+        "Lib"
+    ],
+    [
+        "is the compatibility toolkit really the only way to disable the uac prompt on badly coded apps under vista? that sucks.../n",
+        "Text"
+    ],
+    [
+        "@jonathan_s is there anything blocking a prompt-toolkit release i can help out with? we're stuck on an old version of ipython because of this https://t.co/989pacuy19/n",
+        "Lib"
+    ],
+    [
+        "@indomitablehef hopefully you had sql prompt in your toolkit to help you along... i have been writing what feels like thousands of tests.../n",
+        "Text"
+    ],
+    [
+        "#pyconfr\n\n$ pip install prompt-toolkit\n$ ptpython\n$ ptipython\n\nhttps://t.co/hwo30mzqgt/n",
+        "Lib"
+    ],
+    [
+        "@keybits i use prompt-toolkit for all of my projects. it is powerful and easy to use. but i use bpython for my design inspiration. :)/n",
+        "Lib"
+    ],
+    [
+        "my goal with tty toolkit is to make writing ruby terminal tools a breeze. so i enjoy a lot learning about projects developed with tty gems like these couple of gems that improve working with rake and rvm using tty-prompt:\n\n https://t.co/1eyafpqdsw\n https://t.co/l1jieiixxh/n",
+        "Text"
+    ],
+    [
+        "prompt-toolkit: https://t.co/nhi7pgvmo9\nlibrary to build awesome commandline tools. \ntutorial: https://t.co/sh3kzpspy0/n",
+        "Lib"
+    ],
+    [
+        "pgcli is built with prompt toolkit: https://t.co/61sjhudors . should make it easier to build tools that get oohs and aahs. #pycon/n",
+        "Lib"
+    ],
+    [
+        "`pip3 install -u prompt-toolkit xonsh` #pycon2016/n",
+        "Lib"
+    ],
+    [
+        "@ballingt having a prompt-toolkit based repl that can swap the backends would be fantastic./n",
+        "Lib"
+    ],
+    [
+        "i had a great time with it. it made me learn more about python 3, prompt toolkit, docopt and tty (or pty)./n",
+        "Lib"
+    ],
+    [
+        "@ballingt @jonathan_s i've been tempted to port prompt-toolkit to @golang. he's done such a good job with the api./n",
+        "Lib"
+    ],
+    [
+        "@amjithr btw, i was using python prompt toolkit for something at work the other day and thought of you!/n",
+        "Lib"
+    ],
+    [
+        "anyone know if i can do an onclick event in the coding4fun toolkit toast prompt #wp7dev #wpdev/n",
+        "Text"
+    ],
+    [
+        "rt @open_threads: jonathanslenders/python-prompt-toolkit\n\nlibrary for building powerful interactive command lines in python\n\nhttps://t.co/e/n",
+        "Lib"
+    ],
+    [
+        "rt @ballingt: prompt toolkit is the best thing to happen to the command line since, i dont know, bash autocomplete. these changes sound gr/n",
+        "Lib"
+    ],
+    [
+        "rt @podcast__init__: new episode with @jonathan_s on prompt-toolkit, ptpython and others. http://t.co/7gwdc3dqdw/n",
+        "Lib"
+    ],
+    [
+        "@amjithr i think i found an excuse to use prompt toolkit! i'm going to write a wrapper around an internal build tool so i can have a progress bar and other helpful information./n",
+        "Lib"
+    ],
+    [
+        "@raghu_veern in prompt-toolkit you can have meta field associated with each completion item. the meta field will be displayed right next to the selection. here's a small code example: https://t.co/xqrmgnsfg2/n",
+        "Lib"
+    ],
+    [
+        "@alexhedley well i got a bit carried away on the client project i'm working on, and now have tabcontrols, split paragraph blocks and all sorts of madness :-)  none of it is in a fit state to add to what i did already though, but it did prompt me to think about creating a full toolkit./n",
+        "Text"
+    ],
+    [
+        "kube-shell: https://t.co/bfyzymqpuw built with prompt-toolkit. /cc @jonathan_s/n",
+        "Lib"
+    ],
+    [
+        "@lemmster @lhochstein @hillelogram @ahelwer @parlar one minor correction, each tool in the dbcli org targets a single db. it started out as pgcli for postgres. the reason for choosing python in pgcli was because of a rock solid cli framework called prompt-toolkit. https://t.co/72qgjsh2yy/n",
+        "Lib"
+    ]
+]
