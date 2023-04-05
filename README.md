@@ -13,6 +13,19 @@ You can start the Elasticsearch server by running the following command in your 
     docker pull elasticsearch:7.10.1
 
     docker run -d -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" elasticsearch:7.10.1
+    
+### Import the data
+    
+    cd scripts 
+    
+    python import_arseek_so.py
+    
+    python import_ausearch_code.py
+    
+    python import_haryono_cve.py
+    
+    python import_zhang_tweet.py
+    
 
 ### Clone the repository
 
